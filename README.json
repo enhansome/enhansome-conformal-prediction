@@ -1,0 +1,3245 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "🧭 New here? Follow this path"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "📘 Learn from the Experts — Book & Course by Dr. Valeriy Manokhin"
+    },
+    {
+      "description": "A hands-on, cohort-based course taught by Dr. Valeriy Manokhin (PhD, Machine Learning; author of Practical Guide to Applied Conformal Prediction; PhD student of Prof. Vladimir Vovk — the creator of conformal prediction).\nYou will learn how to apply conformal prediction to regression, classification, time series, anomaly detection, and LLM uncertainty, with production-ready Python code and real datasets.\n🔥 Enroll in the next cohort → 📩 Register interest for upcoming cohorts →",
+      "items": [],
+      "title": "🎓 Applied Conformal Prediction — Live Course on Maven"
+    },
+    {
+      "description": "The definitive practitioner's book on conformal prediction — from first principles to industry-grade applications, with code you can run today. Written by Dr. Valeriy Manokhin.\n🚀 Applied Conformal Prediction — Pro Edition ⭐ Recommended The most comprehensive edition: extended chapters, advanced methods, and production-grade code.\n📘 Applied Conformal Prediction — Standard Edition The core book covering regression, classification, time series, anomaly detection, and LLM uncertainty.\nBoth editions are available exclusively on Gumroad.\n🌐 valeriy.ai — author's website with research, papers, and updates.",
+      "items": [],
+      "title": "📚 Applied Conformal Prediction — The Book"
+    },
+    {
+      "description": "A minimal end-to-end example using crepes:\nRunnable notebooks live in . See to add resources.",
+      "items": [],
+      "title": "Quickstart"
+    },
+    {
+      "description": "This collection is curated by Dr. Valeriy Manokhin, who completed his PhD in Machine Learning under the supervision of Prof. Vladimir Vovk — the creator of conformal prediction. It is the culmination of resources gathered since 2015. Conformal prediction has gone from a niche framework to a mainstream method for uncertainty quantification, with dedicated tracks at ICML 2021 and ICML 2022, a NeurIPS 2022 keynote 'Conformal Prediction in 2022' by Prof. Emmanuel Candes, and the long-running COPA conference.\nThe author's course 'Applied Conformal Prediction' is open for enrollment on Maven — enroll in the next cohort or register interest. The companion book 'Applied Conformal Prediction: Reliable Uncertainty Quantification for Real-World Machine Learning' is available on Gumroad.\n",
+      "items": [],
+      "title": "About this list"
+    },
+    {
+      "description": "Licensed CC BY-NC-ND 4.0. Academic work must cite.",
+      "items": [],
+      "title": "Citation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🚀 Start Here — Learn Conformal Prediction"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "A Gentle Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification",
+          "description": "by Anastasios N. Angelopoulos and Stephen Bates (2021) Video Code 🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-11-14T09:33:36Z",
+            "owner": "aangelopoulos",
+            "repo": "conformal-prediction",
+            "stars": 1077
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Conformal Predictions from Scratch in Numpy",
+          "description": "by Jones Wacker (2023) 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-01-14T19:28:36Z",
+            "owner": "joneswack",
+            "repo": "conformal-predictions-from-scratch",
+            "stars": 229
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Conformal Prediction in Genomics",
+          "description": "by BiolApps (2023)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-05-24T09:26:54Z",
+            "owner": "BiolApps",
+            "repo": "ConformalPrediction",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Conformal Prediction Tutorials"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "An introduction to conformal prediction - PyLadies Amsterdam",
+          "description": "by Inge van den Ende (2024) 🔥🔥🔥🔥🔥code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-01-31T14:58:24Z",
+            "owner": "pyladiesams",
+            "repo": "conformal-prediction-jan2024",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Analítica acelerada con Shapelets y conformal prediction, ~48 mins onwards",
+          "description": "by Carl McBride Ellis (2024) code 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-03-20T10:29:41Z",
+            "owner": "Carl-McBride-Ellis",
+            "repo": "talks",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Conformal Prediction Videos and Talks"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Conformal Prediction: an Introduction",
+          "description": "by Leo Andeol (2022)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T14:45:51Z",
+            "owner": "online-ml",
+            "repo": "river",
+            "stars": 5916
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Machine Learning for Probabilistic Prediction",
+          "description": "by Valery Manokhin, 2022 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-09T11:49:02Z",
+            "owner": "valeman",
+            "repo": "awesome-conformal-prediction",
+            "stars": 1282
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EnbPI poster",
+          "description": "by Chen Xu, Yao Xie (2021)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-09T11:49:02Z",
+            "owner": "valeman",
+            "repo": "awesome-conformal-prediction",
+            "stars": 1282
+          }
+        }
+      ],
+      "title": "Conformal Prediction Presentation Slides"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🛠 Open-Source Libraries and Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "River",
+          "description": "2022",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T14:45:51Z",
+            "owner": "online-ml",
+            "repo": "river",
+            "stars": 5916
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NeuralProphet",
+          "description": "(2022) 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-08T20:48:50Z",
+            "owner": "ourownstory",
+            "repo": "neural_prophet",
+            "stars": 4295
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Conformalized density- and distance-based anomaly detection in time-series data (KNN-CAD)",
+          "description": "by Evgeny Burnaev, Vladislav Ishimtsev (2016). Top #3 winning solution in Numenta competition 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-12-03T17:49:50Z",
+            "owner": "numenta",
+            "repo": "NAB",
+            "stars": 2100
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "'Crêpes' - Conformal regressors and predictive systems",
+          "description": "by Henrik Boström (2021) Paper 🔥🔥🔥🔥🔥 Presentation by Henrik Bostroem (KTH, Sweden, 2022) paper",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-08T08:07:39Z",
+            "owner": "henrikbostrom",
+            "repo": "crepes",
+            "stars": 581
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nonconformist",
+          "description": "by Henrik Linusson (2015) 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-03-20T19:50:56Z",
+            "owner": "donlnz",
+            "repo": "nonconformist",
+            "stars": 478
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TorchCP - A library for conformal prediction",
+          "description": "🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-05T11:58:30Z",
+            "owner": "ml-stat-Sustech",
+            "repo": "TorchCP",
+            "stars": 476
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Puncc (Predictive uncertainty calibration and conformalization)",
+          "description": "paper slides 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-10T14:04:19Z",
+            "owner": "deel-ai",
+            "repo": "puncc",
+            "stars": 402
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Puncc (Predictive uncertainty calibration and conformalization)",
+          "description": "paper slides 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-10T14:04:19Z",
+            "owner": "deel-ai",
+            "repo": "puncc",
+            "stars": 402
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/mikekeith52/scalecast",
+          "description": "TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T01:18:37Z",
+            "owner": "mikekeith52",
+            "repo": "scalecast",
+            "stars": 353
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Conformalized Quantile Regression",
+          "description": "by Yaniv Romano (2019) 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-02-02T15:12:18Z",
+            "owner": "yromano",
+            "repo": "cqr",
+            "stars": 313
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Conformal Predictions from Scratch in Numpy",
+          "description": "by Jones Wacker (2023) 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-01-14T19:28:36Z",
+            "owner": "joneswack",
+            "repo": "conformal-predictions-from-scratch",
+            "stars": 229
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Python implementation of binary and multi-class Venn-ABERS calibration",
+          "description": "by Ivan Petej (2023) [Paper] 🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T04:49:02Z",
+            "owner": "ip200",
+            "repo": "venn-abers",
+            "stars": 207
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EnbPI",
+          "description": "by Chen Xu (2021) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥 Paper",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-11-25T15:22:14Z",
+            "owner": "hamrel-cxu",
+            "repo": "EnbPI",
+            "stars": 134
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TorchUQ",
+          "description": "(2022)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-01-10T22:17:23Z",
+            "owner": "TorchUQ",
+            "repo": "torchuq",
+            "stars": 119
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Conformal Tights - A scikit-learn meta-estimator that adds conformal prediction of coherent quantiles and intervals to any scikit-learn regressor",
+          "description": "by Laurent Sorber (Radix AI) (2024) 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-01T10:48:46Z",
+            "owner": "superlinear-ai",
+            "repo": "conformal-tights",
+            "stars": 118
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MFLES - Gradient Boosted Decomposition for time series forecasting",
+          "description": "by Tyler Blume (2024) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-02-18T15:16:30Z",
+            "owner": "tblume1992",
+            "repo": "MFLES",
+            "stars": 114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ensemble Conformalized Quantile Regression for Probabilistic Time Series Forecasting",
+          "description": "Vilde Jensen, Filippo Maria Bianchi and Stian Norman Anfinsen (2022) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-03-15T19:22:16Z",
+            "owner": "FilippoMB",
+            "repo": "Ensemble-Conformalized-Quantile-Regression",
+            "stars": 104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "confopt - A Library for Conformal Hyperparameter Tuning",
+          "description": "by Ricardo Doyle (2024) paper 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-24T00:36:54Z",
+            "owner": "rick12000",
+            "repo": "confopt",
+            "stars": 104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "calibrated-explanations - Calibrated Explanations for Machine Learning Models using Venn-Abers and Conformal Predictive Systems",
+          "description": "by Helena Löfström (2023)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-10T22:43:18Z",
+            "owner": "Moffran",
+            "repo": "calibrated_explanations",
+            "stars": 79
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Conformal time-series forecasting",
+          "description": "by Kamile ̇ Stankeviciute (Cambridge, NeurIPS 2021) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-11-07T18:17:10Z",
+            "owner": "kamilest",
+            "repo": "conformal-rnn",
+            "stars": 78
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Venn-ABERS Predictor",
+          "description": "by Paolo Toccaceli (2019) Paper 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-02-15T19:55:59Z",
+            "owner": "ptocca",
+            "repo": "VennABERS",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "unquad - Conformal Anomaly Detection",
+          "description": "🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T12:23:42Z",
+            "owner": "OliverHennhoefer",
+            "repo": "nonconform",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Conformal Impact",
+          "description": "by Tyler Blume (2024) 🔥🔥🔥🔥🔥 10.Nonconformist by Henrik Linusson (2015) 🚨 The library does not seem to be actively maintained",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-31T16:17:06Z",
+            "owner": "tblume1992",
+            "repo": "ConformalImpact",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Copula Conformal Multi Target Regression",
+          "description": "by Soundouss Messoudi (2021)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-04-01T17:18:58Z",
+            "owner": "M-Soundouss",
+            "repo": "CopulaConformalMTR",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Conformers - Unofficial Conformal Language Modelling library",
+          "description": "🚀🚀🚀🚀",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-15T14:00:04Z",
+            "owner": "Bradley-Butcher",
+            "repo": "Conformers",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ConformaSight Global Explainer Package 📦",
+          "description": "by Fatıma Rabia Yapıcıoğlu (2025)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-02-06T10:46:04Z",
+            "owner": "rabia174",
+            "repo": "ConformaSight",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "conformal-prediction-jan2024 - PyLadies Amsterdam",
+          "description": "by Inge van den Ende (2024) 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-01-31T14:58:24Z",
+            "owner": "pyladiesams",
+            "repo": "conformal-prediction-jan2024",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[crepes-weighted Extension of crepes package, to enable weighted conformal prediction and conformal predictive systems that can handle covariate shifts](https://github.com/predict-idlab/crepes-weighted",
+          "description": "🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-18T14:26:51Z",
+            "owner": "predict-idlab",
+            "repo": "crepes-weighted",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pearsonify - Lightweight Python package for generating classification intervals in binary classification tasks using Pearson residuals and conformal prediction",
+          "description": "(2025)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-20T01:55:22Z",
+            "owner": "xRiskLab",
+            "repo": "pearsonify",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PySloth - Python package for Probabilistic Prediction",
+          "description": "by Valery Manokhin 🚀🚀🚀🚀🚀 🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-04-18T11:59:12Z",
+            "owner": "PySloth",
+            "repo": "pysloth",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Conformal learning from scratch",
+          "description": "by Marharyta Aleksandrova (2021)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-01-28T20:12:44Z",
+            "owner": "marharyta-aleksandrova",
+            "repo": "conformal-learning",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plot_utils - Plotting library for conformal prediction metrics, intended to facilitate fast testing in e.g. notebooks",
+          "description": "🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-02-02T12:19:38Z",
+            "owner": "pharmbio",
+            "repo": "plot_utils",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Orange3 Conformal Prediction",
+          "description": "Multi-class-probabilistic-classification using Venn-ABERS (Conformal) prediction by Valery Manokhin (Royal Holloway, 2022)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-05-24T07:41:10Z",
+            "owner": "biolab",
+            "repo": "orange3-conformal",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Conformal Prediction for Digital Soil Mapping",
+          "description": "by Nafiseh Kakhani (2023)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-01-23T10:31:35Z",
+            "owner": "nafisehkakhani",
+            "repo": "Conformal_Prediction_DSM",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HyperConformal: Conformal Prediction for Hyperdimensional Computing",
+          "description": "🔥🔥🔥🔥🔥 (2025)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-19T04:49:42Z",
+            "owner": "danieleschmidt",
+            "repo": "HyperConformal",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(F)FCP : Predictive Inference with (Fast) Feature Conformal Prediction",
+          "description": "🔥🔥🔥🔥🔥 (2026)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-23T06:24:28Z",
+            "owner": "ElvisWang1111",
+            "repo": "F-F-CP",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Conformalized Online Learning: Online Calibration Without a Holdout Set",
+          "description": "by Shai Feldman, Stephen Bates and Yaniv Romano (2022). TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥",
+          "children": []
+        }
+      ],
+      "title": "Conformal Prediction Libraries in Python"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Modeltime",
+          "description": "(2023) by Matt Dancho (Business Science, 2023) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-01-30T19:48:54Z",
+            "owner": "business-science",
+            "repo": "modeltime",
+            "stars": 581
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Conformal Inference R Project",
+          "description": "maintained by Ryan Tibshirani (2016) 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2024-08-21T13:04:09Z",
+            "owner": "ryantibs",
+            "repo": "conformal",
+            "stars": 253
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "conformalForecast",
+          "description": "TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥 (2024)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-08-08T15:59:38Z",
+            "owner": "xqnwang",
+            "repo": "conformalForecast",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Conformal: an R package to calculate prediction errors in the conformal prediction framework",
+          "description": "by Isidro Cortes, 2019",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2019-08-01T10:45:55Z",
+            "owner": "isidroc",
+            "repo": "conformal",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Conformal: an R package to calculate prediction errors in the conformal prediction framework",
+          "description": "by Isidro Cortes, 2019",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2019-08-01T10:45:55Z",
+            "owner": "isidroc",
+            "repo": "conformal",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "caretForecast - Conformal Time Series Forecasting Using State of Art Machine Learning Algorithms",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-01-31T15:14:24Z",
+            "owner": "taf-society",
+            "repo": "caretForecast",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Conformal Prediction ih tidymodels",
+          "description": "by Max Kuhn (Posit/RStudio, 2023) video 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-03T15:18:20Z",
+            "owner": "tidymodels",
+            "repo": "tidymodels.org",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AdaptiveConformal",
+          "description": "(2023) paper 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2024-06-13T17:10:11Z",
+            "owner": "herbps10",
+            "repo": "AdaptiveConformal",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Prediction Bands",
+          "description": "by Rafael Izbicki and Benjamin LeRoy (2019)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2021-07-26T18:10:39Z",
+            "owner": "rizbicki",
+            "repo": "predictionBands",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "R Package for Spatial Conformal Prediction",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2022-08-06T00:59:27Z",
+            "owner": "mhuiying",
+            "repo": "scp",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Localized Conformal Prediction - LCP",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2022-03-01T16:18:26Z",
+            "owner": "LeyingGuan",
+            "repo": "LCP",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "conformalbayes - Jackknife(+) Predictive Intervals for Bayesian Models",
+          "description": "(2022)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2025-07-25T03:16:19Z",
+            "owner": "CoryMcCartan",
+            "repo": "conformalbayes",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "conformal glm - conformal prediction for generalized linear regression models",
+          "description": "by Daniel Eck (2019)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TeX",
+            "last_commit": "2019-12-05T20:25:08Z",
+            "owner": "DEck13",
+            "repo": "conformal.glm",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pintervals - Model agnostic prediction intervals",
+          "description": "paper by David Randahl, Anders Hjort, Jonathan P. Williams (2026) 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-03-16T12:06:25Z",
+            "owner": "Doktorandahl",
+            "repo": "pintervals",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "piRF - Prediction Intervals for Random Forests",
+          "description": "by Chancellor Johnstone and Haozhe Zhang (2019)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2025-04-10T01:11:47Z",
+            "owner": "chancejohnstone",
+            "repo": "piRF",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "conformal.fd Conformal inference prediction regions for Multiple Functional response regression",
+          "description": "(2021)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2025-04-07T09:05:52Z",
+            "owner": "paolo-vergo",
+            "repo": "conformal-fd",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Online Time Series Anomaly Detectors",
+          "description": "by Alaine Iturria, 2021 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-09-24T09:18:05Z",
+            "owner": "valeman",
+            "repo": "otsad",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cRepes-R, R implementation of Python crepes package - Conformal prediction for regression, classification, and predictive systems",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Conformal Prediction Libraries in R"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ConformalPrediction.jl",
+          "description": "by Patrick Altmeyer (2022) Article - Conformal Prediction in Julia, Part I - Introduction Article - Conformal Prediction in Julia, Part II - How to conformalize a deep image classifier Article - Conformal Prediction in Julia, Part III - Prediction intervals for any regression model",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Julia",
+            "last_commit": "2026-02-17T09:21:07Z",
+            "owner": "JuliaTrustworthyAI",
+            "repo": "ConformalPrediction.jl",
+            "stars": 148
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PostForecasts.jl",
+          "description": "by Arkadiusz Lipiecki and Rafal Weron (2025) paper paper",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Julia",
+            "last_commit": "2026-07-10T08:28:28Z",
+            "owner": "lipiecki",
+            "repo": "PostForecasts.jl",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RandomForest",
+          "description": "by Henrik Boström (2017) 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Julia",
+            "last_commit": "2018-04-11T21:54:45Z",
+            "owner": "henrikbostrom",
+            "repo": "RandomForest",
+            "stars": 16
+          }
+        }
+      ],
+      "title": "Conformal Prediction Libraries in Julia"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Scala-CP",
+          "description": "by Marco Capuccini (2017)' 🔥🔥🔥🔥🔥 (see tutorial section 'Conformal Prediction in Spark')",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2020-10-13T02:10:13Z",
+            "owner": "mcapuccini",
+            "repo": "scala-cp",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LibCP -- A Library for Conformal Prediction",
+          "description": "🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2015-02-26T20:39:58Z",
+            "owner": "fated",
+            "repo": "libcp",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "An Implementation of Venn-ABERS predictor",
+          "description": "🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2014-10-28T20:19:09Z",
+            "owner": "fated",
+            "repo": "venn-abers-predictor",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LibVM -- A Library for Venn Machine",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2015-02-27T23:18:13Z",
+            "owner": "fated",
+            "repo": "libvm",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Conformal Prediction in Other Languages"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "📚 Research: Papers and Theses"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PUNCC: a Python Library for Predictive Uncertainty Calibration and Conformalization",
+          "description": "slides code 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-10T14:04:19Z",
+            "owner": "deel-ai",
+            "repo": "puncc",
+            "stars": 402
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Conformalized Quantile Regression",
+          "description": "by Yaniv Romano, Evan Patterson, Emmanuel J. Candès (Stanford, 2019) [code](Conformalized Quantile Regression](https://github.com/yromano/cqr) project 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-02-02T15:12:18Z",
+            "owner": "yromano",
+            "repo": "cqr",
+            "stars": 313
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Prediction-Powered Inference",
+          "description": "by Anastasios N. Angelopoulos, Stephen Bates, Clara Fannjiang, Michael I. Jordan, Tijana Zrnic (Universify of Berkeley, 2022) code 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-10T06:03:09Z",
+            "owner": "aangelopoulos",
+            "repo": "ppi_py",
+            "stars": 297
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CONffusion: CONFIDENCE INTERVALS FOR DIFFUSION MODELS",
+          "description": "ProjectCode by Eliahu Horwitz, Yedid Hoshen (Hebrew University of Jerusalem, 2022) 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-11-27T19:11:26Z",
+            "owner": "eliahuhorwitz",
+            "repo": "Conffusion",
+            "stars": 144
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Conformal PID Control for Time Series Prediction",
+          "description": "by Anastasios N. Angelopoulos, Emmanuel J. Candes, Ryan J. Tibshirani (Berkeley/Stanford, NeurIPS2023) code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-11-30T19:44:20Z",
+            "owner": "aangelopoulos",
+            "repo": "conformal-time-series",
+            "stars": 144
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ensemble Conformalized Quantile Regression for Probabilistic Time Series Forecasting",
+          "description": "by Vilde Jensen, Filippo Maria Bianchi, Stian Norman Anfinsen (Arctic University of Norway, 2022) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥 Python Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-03-15T19:22:16Z",
+            "owner": "FilippoMB",
+            "repo": "Ensemble-Conformalized-Quantile-Regression",
+            "stars": 104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ACHO: Adaptive Conformal Hyperparameter Optimization",
+          "description": "by Ricardo Doyle (2023) 🔥🔥🔥🔥🔥 code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-24T00:36:54Z",
+            "owner": "rick12000",
+            "repo": "confopt",
+            "stars": 104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Uncertainty Quantification over Graph with Conformalized Graph Neural Networks",
+          "description": "by Kexin Huang, Ying Jin, Emmanuel Candes, Jure Leskovec (Stanford, 2023) code 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-09-27T00:58:55Z",
+            "owner": "snap-stanford",
+            "repo": "conformalized-gnn",
+            "stars": 87
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Calibrated Explanations: with Uncertainty Information and Counterfactuals",
+          "description": "by Helena Löfström, Tuwe Löfström, Ulf Johansson, Cecilia S ̈onstr ̈od (2023) Code 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-10T22:43:18Z",
+            "owner": "Moffran",
+            "repo": "calibrated_explanations",
+            "stars": 79
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Conformal Prediction With Conditional Guarantees",
+          "description": "by Isaac Gibbs, John Cherian, Emmanuel Candes (Stanford, 2023) code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-10-07T18:34:52Z",
+            "owner": "jjcherian",
+            "repo": "conditional-conformal",
+            "stars": 71
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rapid Traversal of Ultralarge Chemical Space using Machine Learning Guided Docking Screens",
+          "description": "by Andreas Luttens, Israel Cabeza de Vaca, Leonard Sparring, Ulf Norinder, Jens Carlsson (2023) Code Datasets 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-20T09:05:54Z",
+            "owner": "Carlssonlab",
+            "repo": "conformalpredictor",
+            "stars": 70
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Federated Conformal Predictors for Distributed Uncertainty Quantification",
+          "description": "by Charles Lu, Yaodong Yu, Sai Praneeth Karimireddy, Michael I. Jordan, Ramesh Raskar (MIT/Berkeley, 2023) code video 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-06-21T17:13:50Z",
+            "owner": "bhaweshiitk",
+            "repo": "ConformalLLM",
+            "stars": 70
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Conformal Prediction Sets for Graph Neural Networks",
+          "description": "by Soroush Zargarbashi, Simone Antonelli, Aleksandar Bojchevski Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-06-21T17:13:50Z",
+            "owner": "bhaweshiitk",
+            "repo": "ConformalLLM",
+            "stars": 70
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Conformal Prediction with Large Language Models for Multi-Choice Question Answering",
+          "description": "by Bhawesh Kumar, Charles Lu, Gauri Gupta, Anil Palepu, David Bellamy, Ramesh Raskar, Andrew Beam (MIT, 2023) code 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-06-21T17:13:50Z",
+            "owner": "bhaweshiitk",
+            "repo": "ConformalLLM",
+            "stars": 70
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Conformal Meta-learners for Predictive Inference of Individual Treatment Effects",
+          "description": "by Ahmed Alaa, Zaid Ahmad, and Mark van der Laan (2023) code 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-19T17:49:24Z",
+            "owner": "AlaaLab",
+            "repo": "conformal-metalearners",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TISSUE (Transcript Imputation with Spatial Single-cell Uncertainty Estimation)",
+          "description": "by James Zou, Eric Sun, Rong Ma, Anne Brunet, and Paloma Navarro Negredo (Stanford, Harvard, 2024) code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-10T20:30:23Z",
+            "owner": "sunericd",
+            "repo": "TISSUE",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Inductive Conformal Prediciton: A Straightforward Introduction with examples in Python",
+          "description": "by Martim Sousa (2022) Code 🔥🔥🔥🔥🔥📚📚📚📚📚",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-09-13T22:20:34Z",
+            "owner": "Quilograma",
+            "repo": "ConformalPredictionTutorial",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Predictive inference with feature conformal prediction",
+          "description": "by Jiaye Teng, Chuan Wen, Dinghuai Zhang, Yoshua Bengio, Yang Gao, Yang Yuan (Tsinghua University, Mila - Quebec AI Institute, Shanghai Artificial Intelligence Laboratory, Shanghai Qi Zhi Institute, 2022) code 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-04-09T16:20:08Z",
+            "owner": "AlvinWen428",
+            "repo": "FeatureCP",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Copula-based conformal prediction for Multi-Target Regression",
+          "description": "by Soundouss Messoudi, Sébastien Destercke, Sylvain Rousseau (2021) code 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-04-01T17:18:58Z",
+            "owner": "M-Soundouss",
+            "repo": "CopulaConformalMTR",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Adaptive Conformal Prediction by Reweighting Nonconformity Score",
+          "description": "by Salim I. Amoukou, Nicolas J.B Brunel (2023) Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-03-23T08:04:32Z",
+            "owner": "salimamoukou",
+            "repo": "ACPI",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Adaptive Conformal Prediction by Reweighting Nonconformity Scores",
+          "description": "by Salim I. Amoukou and Nicolas J-B. Brunel and Nicolas J-B. Brunel (University Paris Saclay, Stellantis Paris, Quantmetry Paris, 2023) code 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-03-23T08:04:32Z",
+            "owner": "salimamoukou",
+            "repo": "ACPI",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bayesian Optimization with Conformal Coverage Guarantees",
+          "description": "by Samuel Stanton, Wesley Maddox and Andrew Gordon Wilson (Genentech, New York University, 2022) Code 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-10-28T18:06:22Z",
+            "owner": "samuelstanton",
+            "repo": "conformal-bayesopt",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Robust Uncertainty Quantification using Conformalised Monte Carlo Prediction",
+          "description": "Code by Daniel Bethell, Simos Gerasimou, Radu Calinescu (University of York, 2023) article code 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-05-22T10:20:37Z",
+            "owner": "team-daniel",
+            "repo": "MC-CP",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Conformal Validity Guarantees Exist for Any Data Distribution",
+          "description": "by Drew Prinster, Samuel Stanton, Anqi Liu, Suchi Saria (John Hopkins University Genentech, 2024) code 💎💎💎💎💎🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-06-28T20:56:31Z",
+            "owner": "drewprinster",
+            "repo": "conformal-mfcs",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Conformal Semantic Image Segmentation: Post-hoc Quantification of Predictive Uncertainty",
+          "description": "by Luca Mossina, Joseba Dalmau, Léo Andéol (IRT Saint Exupery, Toulouse; Institut de Mathe ́matiques de Toulouse; Toulouse, SNCF,France) code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-09T15:26:05Z",
+            "owner": "deel-ai-papers",
+            "repo": "conformal-segmentation",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bellman Conformal Inference: Calibrating Prediction Intervals For Time Series",
+          "description": "by Zitong Yang, Emmanuel Candès, Lihua Lei (Stanford, 2024) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥 code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-02-09T07:29:52Z",
+            "owner": "ZitongYang",
+            "repo": "bellman-conformal-inference",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Conformal Predictive Systems Under Covariate Shift",
+          "description": "by Jef Jonkers, Glenn Van Wallendael, Luc Duchateau, Sofie Van Hoecke (hent University, Belgium) code 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-18T14:26:51Z",
+            "owner": "predict-idlab",
+            "repo": "crepes-weighted",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Error-quantified Conformal Inference for Time Series",
+          "description": "by Junxi Wu, Dongjian Hu, Yajie Bao, Shu-Tao Xia, Changliang Zou (Nankai University, Tsinghua University, China, 2025) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-02T06:09:23Z",
+            "owner": "creator-xi",
+            "repo": "Error-quantified-Conformal-Inference",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "From Data Imputation to Data Cleaning — Automated Cleaning of Tabular Data Improves Downstream Predictive Performance",
+          "description": "by Sebastian Jäger, Felix Biessmann (Berlin University of Applied Sciences and Technology (BHT), Einstein Center Digital Future 🇩🇪, 2024) code 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-14T10:39:08Z",
+            "owner": "se-jaeger",
+            "repo": "conformal-data-cleaning",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Conformal Prediction via Regression-as-Classification",
+          "description": "by Etash Guha, Shlok Natarajan, Thomas Möllenhoff, Mohammad Emtiyaz Khan, Eugene Ndiaye (RIKEN AIP, Salesforce, Apple, SambaNova Systems, 2023) code 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-13T23:14:07Z",
+            "owner": "EtashGuha",
+            "repo": "R2CCP",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Conformal prediction for multi-dimensional time series by ellipsoidal sets",
+          "description": "by Chen Xu, Hanyang Jiang, and Yao Xie (Georgia Tech, 2024) code TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-07-16T00:31:00Z",
+            "owner": "hamrel-cxu",
+            "repo": "MultiDimSPCI",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CONFLARE: CONFormal LArge language model REtrieval",
+          "description": "by Pouria Rouzrokh, Shahriar Faghani, Cooper Gamble, Moein Shariatnia, Bradley J. Erickson (Mayo Clinic Artificial Intelligence Laboratory; Orthopedic Surgery Artificial Intelligence Laboratory, Mayo Clinic, MN, USA; Tehran University of Medical Sciences) code video 🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-19T08:05:41Z",
+            "owner": "Mayo-Radiology-Informatics-Lab",
+            "repo": "conflare",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Conformal Prediction for Zero-Shot Models",
+          "description": "by Julio Silva-Rodríguez, Ismail Ben Ayed, Jose Dolz code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-07T21:50:35Z",
+            "owner": "jusiro",
+            "repo": "CLIP-Conformal",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Efficient Conformal Prediction via cascaded inference with expanded admission",
+          "description": "by Adam Fisch, Tal Schuster, Tommi Jaakkola, Regina Barzilay (MIT 2021]. Python Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-09-15T19:47:29Z",
+            "owner": "ajfisch",
+            "repo": "conformal-cascades",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Conformal Inference for Online Prediction with Arbitrary Distribution Shifts",
+          "description": "by Isaac Gibbs, Emmanuel J. Candès code (2024) 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-04-07T22:27:53Z",
+            "owner": "isgibbs",
+            "repo": "DtACI",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fast nonlinear vector quantile regression",
+          "description": "by Aviv A. Rosenberg, Sanketh Vedula, Yaniv Romano and Alex M. Bronstein (Technion, 2023) code 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-03T12:58:03Z",
+            "owner": "vistalab-technion",
+            "repo": "vqr",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Neural Conformal Control for Time Series Forecasting](https://arxiv.org/abs/2412.18144",
+          "description": ") by Ruipu Li, Alexander Rodrıguez (University of Michigan, 2024) code TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-27T18:35:29Z",
+            "owner": "complex-ai-lab",
+            "repo": "ncc",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Transformer Conformal Prediction for Time Series",
+          "description": "by Junghwan Lee, Chen Xu, Yao Xie (Georgia Tech, 2024) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥 code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-13T20:54:50Z",
+            "owner": "Jayaos",
+            "repo": "TCPTS",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Split Conformal Prediction and Non-Exchangeable Data",
+          "description": "by Roberto I. Oliveira, Paulo Orenstein, Thiago Ramos, João Vitor Romano (IMPA, Brazil, 2024) code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-22T15:31:33Z",
+            "owner": "jv-rv",
+            "repo": "split-conformal-nonexchangeable",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Selection by Prediction with Conformal p-values",
+          "description": "by Ying Jin1 and Emmanuel J. Candes, (Stanford, 2022) Video code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-11-02T20:15:19Z",
+            "owner": "ying531",
+            "repo": "selcf_paper",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "How to Trust Your Diffusion Model: A Convex Optimization Approach to Conformal Risk Control",
+          "description": "by Jacopo Teneggi, Matt Tivnan, J Webster Stayman, Jeremias Sulam (John Hopkins University, 2023) Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-06T13:30:45Z",
+            "owner": "Sulam-Group",
+            "repo": "k-rcps",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Improving Adaptive Conformal Prediction Using Self-Supervised Learning",
+          "description": "by Nabeel Seedat, Alan Jeffares, Fergus Imrie and Mihaela van der Schaar (Cambridge, 2023) Video Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-03-08T11:25:30Z",
+            "owner": "seedatnabeel",
+            "repo": "SSCP",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "How to Trust Your Diffusion Model: A Convex Optimization Approach to Conformal Risk Control",
+          "description": "Code (John Hopkins University, 2023) 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-06T13:30:45Z",
+            "owner": "Sulam-Group",
+            "repo": "k-rcps",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Forecasting CPI inflation under economic policy and geo-political uncertainties",
+          "description": "by Shovon Sengupta, Tanujit Chakraborty, Sunny Kumar Singh (Fidelity Investments, Sorbonne University, BITS Pilani Hyderabad). (2023) 🔥🔥🔥🔥🔥code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2025-03-12T08:07:53Z",
+            "owner": "ctanujit",
+            "repo": "FEWNet",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Regression Trees for Fast and Adaptive Prediction Intervals",
+          "description": "by Luben M. C. Cabezasa, Mateus P. Ottoa, Rafael Izbicki, Rafael B. Sternc (Federal University of São Carlos, University of São Paulo,2024) code 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-09-27T20:04:48Z",
+            "owner": "Monoxido45",
+            "repo": "clover",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CODiT: Conformal Out-of-Distribution Detection in Time- Series Data",
+          "description": "by Ramneet Kaur et.al., Unibersity of Pensylvania (2022). Code TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-11-15T18:52:22Z",
+            "owner": "kaustubhsridhar",
+            "repo": "time-series-OOD",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A General Framework For Multi-step Ahead Adaptive Conformal Heteroscedastic Time Series Forecasting",
+          "description": "by Martim Sousa, Ana Maria Tomé, University of Aveiro (2022) Code TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-05T16:33:46Z",
+            "owner": "Quilograma",
+            "repo": "AEnbMIMOCQR",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CONFORMAL PREDICTION FOR DEEP CLASSIFIER VIA LABEL RANKING",
+          "description": "by Jianguo Huang, Huajun Xi, Linjun Zhang, Huaxiu Yao, Yue Qiu, Hongxin Wei (Southern University of Science and Technology, ShanghaiTech University, Rutgers University, University of North Carolina at Chapel Hill, Chongqing University) 🔥🔥🔥🔥🔥 code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-14T09:40:18Z",
+            "owner": "ml-stat-Sustech",
+            "repo": "conformal_prediction_via_label_ranking",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Conformal Load Prediction with Transductive Graph Autoencoders",
+          "description": "by Rui Luo, Nicolo Colombo (City University of Hong Kong; Royal Holloway, University of London, 2024) code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-03T15:30:23Z",
+            "owner": "luo-lorry",
+            "repo": "conformal-load-forecasting",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Self-Consistent Conformal Prediction",
+          "description": "by Lars van der Laan, Ahmed M. Alaa (University of Washington, UC Berkeley and UCSF, 2024) code 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-04-16T16:12:40Z",
+            "owner": "Larsvanderlaan",
+            "repo": "SelfCalibratingConformal",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Beyond Confidence: Reliable Models Should Also Consider Atypicality",
+          "description": "by Mert Yuksekgonul, Linjun Zhang, James Zou, Carlos Guestrin (Stanford/Rutgers) code 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-21T19:53:05Z",
+            "owner": "mertyg",
+            "repo": "beyond-confidence-atypicality",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CD-split and HPD-split: Efficient Conformal Regions in High Dimensions",
+          "description": "by Rafael Izbicki, Gilson Shimizu, Rafael B. Stern (San Carlos University Brazil, 2022) R code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2021-07-26T18:10:39Z",
+            "owner": "rizbicki",
+            "repo": "predictionBands",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Approximating Full Conformal Prediction at Scale via Influence Functions",
+          "description": "by Javier Abad, Umang Bhatt, Adrian Weller, Giovanni Cherubin (Cambridge, Alan Turing Institute, ETH, Microsoft Research, 2023) code video 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-04-25T15:59:14Z",
+            "owner": "cambridge-mlg",
+            "repo": "acp",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TRIAGE: Characterizing and auditing training data for improved regression",
+          "description": "by Nabeel Seedat, Jonathan Crabbé, Zhaozhi Qian, Mihaela van der Schaar (University of Cambridge, 2023) code) 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-03-14T14:57:20Z",
+            "owner": "seedatnabeel",
+            "repo": "TRIAGE",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Multi-Modal Conformal Prediction Regions by Optimizing Convex Shape Templates",
+          "description": "by Renukanandan Tumu, Matthew Cleaveland, Rahul Mangharam, George J. Pappas, Lars Lindemann code (University of Pennsylvania, 2023) 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-12-30T05:51:57Z",
+            "owner": "nandantumu",
+            "repo": "conformal_region_designer",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Online conformal inference for multi-step time series forecasting](Online conformal inference for multi-step time series forecasting) by Xiaoqian Wang, Rob J Hyndman (Monash Universify, 2024) code",
+          "description": "TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥 paper code conformalForecast R package",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TeX",
+            "last_commit": "2026-02-02T15:57:12Z",
+            "owner": "xqnwang",
+            "repo": "cpts",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Probabilistic Conformal Prediction Using Conditional Random Samples",
+          "description": "by Zhendong Wang, Ruijiang Gao, Mingzhang Yin, Mingyuan Zhou, David M. Blei (Columbia University, 2020) Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2022-07-08T02:38:57Z",
+            "owner": "Zhendong-Wang",
+            "repo": "Probabilistic-Conformal-Prediction",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Quantum Conformal Prediction for Reliable Uncertainty Quantification in Quantum Machine Learning",
+          "description": "by Sangwoo Park and Osvaldo Simeone (2023) Code QuantumML 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-22T20:59:34Z",
+            "owner": "kclip",
+            "repo": "quantum-CP",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kandinsky Conformal Prediction: Efficient Calibration of Image Segmentation Algorithms",
+          "description": "code by Joren Brunekreef, Eric Marcus, Ray Sheombarsing, Jan-Jakob Sonke, Jonas Teuwen (The Netherlands Cancer Institute, University of Amsterdam) (2023)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-16T14:38:50Z",
+            "owner": "NKI-AI",
+            "repo": "kandinsky-calibration",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Non-Exchangeable Conformal Language Generation with Nearest Neighbors",
+          "description": "by Dennis Ulmer, Chrysoula Zerva, André F.T. Martins (IT University of Copenhagen, Instituto Superior Técnico, Universidade de Lisboa, 2024) code 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-26T09:32:27Z",
+            "owner": "Kaleidophon",
+            "repo": "non-exchangeable-conformal-language-generation",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Conformal Prediction for Hierarchical Data",
+          "description": "by Guillaume Principato, Gilles Stoltz, Yvenn Amara-Ouali, Yannig Goude, Bachir Hamrouche, Jean-Michel Poggi (Université Paris-Saclay, EDF R&D, Inria, Laboratoire de mathématiques d’Orsay, France, 2025) code TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-05-12T11:57:43Z",
+            "owner": "PrincipatoG",
+            "repo": "Conformal-Prediction-for-Hierarchical-Data",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Conformal Predictions for longitudinal data",
+          "description": "by Devesh Batra, Salvatore Mercuri and Raad Khraishi (Data Science & Innovation - NatWest Group, Institute of Finance and Technology, UCL, UK, 2023) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥 code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-03-24T00:05:03Z",
+            "owner": "EconAIorg",
+            "repo": "LPCI",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Integrating Uncertainty Awareness into Conformalized Quantile Regression",
+          "description": "code by Raphael Rossellini, Rina Foygel Barber and Rebecca Willett (University of Chicago, 2023) code 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-04-09T04:12:20Z",
+            "owner": "rrross",
+            "repo": "UACQR",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WaveCatBoost for Probabilistic Forecasting of Regional Air Quality Data",
+          "description": "by Jintu Borah, Tanujit Chakraborty, Md. Shahrul Md. Nadzir, Mylene G. Cayetano, Shubhankar Majumdar (Sorbonne University, NIT Meghalaya, Universiti Kebangsaan, University of Philippines, 2024) code 🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-04-10T04:27:44Z",
+            "owner": "jborah2",
+            "repo": "WaveCatBoost-Time-Series-Model",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Conformal prediction with local weights: randomization enables robust guarantees",
+          "description": "by Rohan Hore, Rina Foygel Barber (University of Chicago, 2024) code 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-10-01T03:00:15Z",
+            "owner": "rohanhore",
+            "repo": "RLCP",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Conformal Predictions for Longitudinal Data",
+          "description": "code by Devesh Batra, Salvatore Mercuri, Raad Khraishi (Data Science & Innovation, NatWest Group, Institute of Finance and Technology, UCL, London, United Kingdom, 2023).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-03-24T00:05:03Z",
+            "owner": "EconAIorg",
+            "repo": "LPCI",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Conformalized matrix completion",
+          "description": "by Yu Gui, Rina Foygel Barber, and Cong Ma (University of Chicago, 2023) 🔥🔥🔥🔥🔥 code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-05-23T22:28:03Z",
+            "owner": "yugjerry",
+            "repo": "conf-mc",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Adaptive Uncertainty Quantification for Generative AI",
+          "description": "by Jungeum Kim, Sean O'Hagan, Veronika Rockova (University of Chicago, 2024) code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-03-01T19:31:03Z",
+            "owner": "JungeumKim",
+            "repo": "conformal_tree",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Length Optimization in Conformal Prediction",
+          "description": "by Shayan Kiyani, George Pappas, Hamed Hassani (University of Pennsylvania,2024) code 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-07-01T22:26:42Z",
+            "owner": "shayankiyani98",
+            "repo": "CP",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "E-Values Expand the Scope of Conformal Prediction",
+          "description": "by Etienne Gauthier, Francis Bach, Michael I. Jordan (Inria, Berkeley, 2025) code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-03-18T10:34:05Z",
+            "owner": "GauthierE",
+            "repo": "evalues-expand-cp",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fast Conformal Prediction using Conditional Interquantile Intervals",
+          "description": "by Naixin Guo, Rui Luo, Zhixin Zhou (City University of Hong Kong, Alpha Benito Research,2026) code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-13T16:18:30Z",
+            "owner": "orince",
+            "repo": "CIR",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sensititivty analysis of individual treatment effects: A robust conformal inference approach",
+          "description": "Code by Ying Jin, Zhimei Ren and Emmanual Candes (2023)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2021-11-28T18:58:09Z",
+            "owner": "ying531",
+            "repo": "cfsensitivity_paper",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CONFORMAL PREDICTIONS ENHANCED EXPERT-GUIDED MESHING WITH GRAPH NEURAL NETWORKS",
+          "description": "code by Amin Heyrani Nobari, Justin Rey, Suhas Kodali and Matthew Jones (MIT, 2023) website 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-08-15T03:19:48Z",
+            "owner": "ahnobari",
+            "repo": "AutoSurf",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Simultaneous regression and classification for drug sensitivity prediction using an advanced random forest method",
+          "description": "code by Kerstin Lenhof, Lea Eckhart, Nico Gerstner, Tim Kehl & Hans-Peter Lenhof (Saarland University, 2022) 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-03T12:42:23Z",
+            "owner": "unisb-bioinf",
+            "repo": "Conformal-Drug-Sensitivity-Prediction",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Achieving Risk Control in Online Learning Settings",
+          "description": "by Shai Feldman, Liran Ringel, Stephen Bates, Yaniv Romano (Technion/Berkeley, 2021) code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-07-15T14:30:34Z",
+            "owner": "Shai128",
+            "repo": "rrc",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Split Localized Conformal Prediction",
+          "description": "by Xing Han Ziyang Tang Joydeep Ghosh Qiang Liu (University of Texas at Austin, 2022) code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-06-27T07:32:03Z",
+            "owner": "aaronhan223",
+            "repo": "SLCP",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wasserstein-regularized Conformal Prediction under General Distribution Shift",
+          "description": "by Rui Xu, Chao Chen, Yue Sun, Parvathinathan Venkitasubramaniam, Sihong Xie (The Hong Kong University of Science and Technology (Guangzhou), Harbin Institute of Technology, Lehigh University, 2025) code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-04T01:46:05Z",
+            "owner": "rxu0112",
+            "repo": "WR-CP",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Conformalized Fairness via Quantile Regression",
+          "description": "by Meichen Liu, Lei Ding, Dengdeng Yu, Wulong Liu, Linglong Kong, Bei Jiang (University of Alberta, Huawei Noah’s Ark Lab Canada, NeurIPS 2022 paper) Code 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-07-11T19:16:53Z",
+            "owner": "Lei-Ding07",
+            "repo": "Conformal_Quantile_Fairness",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JAWS-X: Addressing Efficiency Bottlenecks of Conformal Prediction Under Standard and Feedback Covariate Shift",
+          "description": "Drew Prinster, Suchi Saria, Anqi Liu (John Hopkins University, 2023) Code 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-06-20T17:33:25Z",
+            "owner": "drewprinster",
+            "repo": "jaws-x",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "On the Expected Size of Conformal Prediction Sets",
+          "description": "by Guneet S. Dhillon, George Deligiannidis, Tom Rainforth (University of Oxford, 2023) code🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-01T00:30:17Z",
+            "owner": "Guneet-Dhillon",
+            "repo": "expected-conformal-prediction-set-size",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Evaluating the Utility of Conformal Prediction Sets for AI-Advised Image Labeling",
+          "description": "by Dongping Zhang, Angelos Chatzimparmpas, Negar Kamali, Jessica Hullman (Northwestern University, 🇺🇸, 2024) code 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-05-02T21:08:03Z",
+            "owner": "dpzhang",
+            "repo": "conformal-prediction-utility",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Task-Driven Uncertainty Quantification in Inverse Problems via Conformal Prediction",
+          "description": "by Jeffrey Wen, Rizwan Ahma. Philip Schniter (The Ohio State University) code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-09T15:24:02Z",
+            "owner": "jwen307",
+            "repo": "TaskUQ",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Task-Driven Uncertainty Quantification in Inverse Problems via Conformal Prediction",
+          "description": "by Jeffrey Wen, Rizwan Ahmad, Phillip Schniter code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-09T15:24:02Z",
+            "owner": "jwen307",
+            "repo": "TaskUQ",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Conformal-in-the-Loop for Learning with Imbalanced Noisy Data",
+          "description": "by John Brandon Graham-Knight, Jamil Fayyad, Nourhan Bayasi, Patricia Lasserre, Homayoun Najjaran (University of British Columbia, University of Victoria, University of British Columbia, Canada) code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-10-30T16:13:08Z",
+            "owner": "brandongk-ubco",
+            "repo": "conformal-in-the-loop",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Conformal Prediction Sets with Limited False Positives",
+          "description": "by Adam Fisch, Tal Schuster, Tommi Jaakkola and Regina Barzilay code (MIT / Google Research, 2022) 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-09-19T17:11:14Z",
+            "owner": "ajfisch",
+            "repo": "conformal-fp",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Localized Conformal Prediction: A Generalized Inference Framework to Conformal Prediction",
+          "description": "Code R package",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2022-03-01T16:19:13Z",
+            "owner": "LeyingGuan",
+            "repo": "LCPexperiments",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Robust Conformal Volume Estimation in 3D Medical Images",
+          "description": "by Benjamin Lambert, Florence Forbes, Senan Doyle, Michel Dojat (University Grenoble Alps, 2024) code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-18T09:57:08Z",
+            "owner": "benolmbrt",
+            "repo": "wcp_miccai",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Posterior Conformal Prediction",
+          "description": "by https://arxiv.org/abs/2409.19712 (Standord, 2024) code 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-10-01T06:20:28Z",
+            "owner": "yaozhang24",
+            "repo": "pcp",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "I do not know! but why?”– Local Model-Agnostic Example-based explanations of reject",
+          "description": "code by Andre Artelt, Roel Visser and Barbara Hammer (University of Bielefeld, 2023)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-01-13T07:32:43Z",
+            "owner": "HammerLabML",
+            "repo": "LocalModelAgnosticExamplebasedExplanationsReject",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Optimizing Probabilistic Conformal Prediction with Vectorized Non-Conformity Scores",
+          "description": "by Minxing Zheng, Shixiang Zhu (University of Southern California, Carnegie Mellon University, 2024) 🔥🔥🔥🔥🔥 code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-12-08T14:00:45Z",
+            "owner": "Minxing-Zheng",
+            "repo": "PCP-VCR",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Reliable Multi-View Learning with Conformal Prediction for Aortic Stenosis Classification in Echocardiography",
+          "description": "by Ang Nan Gu, Michael Tsang, Hooman Vaseli, Teresa Tsang, Purang Abolmaesumi (University of British Columbia, Vancouver; Division of Cardiology, Vancouver General Hospital,2024) code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-04-26T09:51:08Z",
+            "owner": "an-michaelg",
+            "repo": "RT4U",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Test-time recalibration of conformal predictors under distribution shift based on unlabeled examples",
+          "description": "Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-10-29T18:48:56Z",
+            "owner": "MLI-lab",
+            "repo": "recalibrating_conformal_prediction",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CONFORMALIZED INTERVAL ARITHMETIC WITH SYMMETRIC CALIBRATION",
+          "description": "by Rui Luo and Zhixin Zhoi (City University of Hong Kong, 2024) code 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-21T02:08:57Z",
+            "owner": "luo-lorry",
+            "repo": "CIA",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Conformal Thresholded Intervals for Efficient Regression",
+          "description": "by Rui Luo and Zhixin Zhou (City University of Hong Kong; Alpha Benito Research, Los Angeles, USA) code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-12T02:58:41Z",
+            "owner": "luo-lorry",
+            "repo": "CTI",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Conformalized Interval Arithmetic with Symmetric Calibration",
+          "description": "by Rui Luo and Zhixin Zhou (City University of Hong Kong; Alpha Benito Research, Los Angeles, USA) code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-21T02:08:57Z",
+            "owner": "luo-lorry",
+            "repo": "CIA",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning Robot Safety from Sparse Human Feedback using Conformal Prediction",
+          "description": "by (Aaron O. Feldman, Joseph A. Vincent, Maximilian Adang, Jun En Low, and Mac Schwager, Stanford 2025) project code 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-04T20:56:28Z",
+            "owner": "StanfordMSL",
+            "repo": "conformal-safety-learning",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Foundation models for time series forecasting: Application in conformal prediction",
+          "description": "by Sami Achour, Yassine Bouher, Duong Nguyen, Nicolas Chesneau (Ekimetrics, Ecole Polytechnique, 2025) code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-09T10:19:57Z",
+            "owner": "ekimetrics",
+            "repo": "ts-genai-conformal",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Conformal prediction for frequency-severity modeling",
+          "description": "by Helton Graziadei, Paulo C. Marques F., Eduardo F. L. de Melo, Rodrigo S. Targino (Getulio Vargas Foundation, Insper Institute of Education and Research, SUSEP - Superintendence of Private Insurance, UERJ - State University of Rio de Janeiro, 2025) code 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-06-09T16:24:53Z",
+            "owner": "heltongraziadei",
+            "repo": "conformal-fs",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Split Localized Conformal Prediction",
+          "description": "by Xing Han, Ziyang Tang, Joydeep Ghosh, Qiang Liu (University of Texas, 2022). Python Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-06-27T07:32:03Z",
+            "owner": "valeman",
+            "repo": "SLCP",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Conformal prediction set for time-series",
+          "description": "by Chen Xu, Yao Xie (Georgia Tech, 2022) Python Code TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-06-17T01:47:43Z",
+            "owner": "valeman",
+            "repo": "Ensemble-Regularized-Adaptive-Prediction-Set-ERAPS",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Conformal time series decomposition with component-wise exchangeability",
+          "description": "by Derck W. E. Prinzhorn, Thijmen Nijdam, Putri A. van der Linden, Alexander Timans (University of Amsterdam, 2024) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥 code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-09-01T16:20:27Z",
+            "owner": "dweprinz",
+            "repo": "CP-TSD",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Conformalized Semi-supervised Random Forest for Classification and Abnormality Detection",
+          "description": "by Yujin Han, Mingwenchan Xu, Leying Guan (Universtity of Hong Kong, Northwestern University, Yale University, 2024) code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2024-02-29T09:37:35Z",
+            "owner": "yujinhanml",
+            "repo": "CSForest",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Predictive Inference With Fast Feature Conformal Prediction",
+          "description": "by Zihao Tang, Boyuan Wang, Chuan Wen, Jiaye Teng (Shanghai University of Finance and Economics, Tiangong University, 2024) code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-23T11:12:09Z",
+            "owner": "ElvisWang1111",
+            "repo": "FastFeatureCP",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "On Temperature Scaling and Conformal Prediction of Deep Classifiers",
+          "description": "by Lahav Dabah,Tom Tirer (Bar-Ilan University, 2025) code 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-13T08:51:11Z",
+            "owner": "lahavdabah",
+            "repo": "TS4CP",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gaussian process interpolation with conformal prediction: methods and comparative analysis",
+          "description": "by Aurélien Pion, Emmanuel Vazquez (Université Paris-Saclay, Transvalor S.A.,France) 🔥🔥🔥🔥🔥 code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-07-03T14:29:32Z",
+            "owner": "gpmp-dev",
+            "repo": "lod2024-conformal",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Conformalized Survival Analysis",
+          "description": "by Emmanuel Candès, Lihua Lei and Zhimei Ren (2021) R-Code 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-03-16T23:26:27Z",
+            "owner": "valeman",
+            "repo": "cfsurv_paper",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Improving Trustworthiness of AI Disease Severity Rating in Medical Imaging with Ordinal Conformal Prediction Sets",
+          "description": "by Charles Lu, Anastasios N. Angelopoulos, Stuart Pomerantz (2022) code 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-05-28T18:15:51Z",
+            "owner": "clu5",
+            "repo": "lumbar-conformal",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ROBUST AND SCALABLE UNCERTAINTY ESTIMATION WITH CONFORMAL PREDICTION FOR MACHINE-LEARNED INTERATOMIC POTENTIALS",
+          "description": "Code by Yuge Hu, Joseph Musielewicz, Zachary Ulissi, Andrew J. Medford (Georgia Institute of Technology/Carnegie Mellon University, 2022)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-12-15T16:09:41Z",
+            "owner": "valeman",
+            "repo": "conformal_prediction_in_latent_space",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Design-based conformal prediction",
+          "description": "by Jerzy Wieczorek (2023) code 🌟🌟🌟🌟🌟",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-01-17T19:10:44Z",
+            "owner": "ColbyStatSvyRsch",
+            "repo": "surveyConformal-paper-code",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Conformal Monte Carlo Meta-learners for Predictive Inference of Individual Treatment Effects",
+          "description": "by Jef Jonkers, Jarne Verhaeghe, Glenn Van Wallendael, Luc Duchateau, Sofie Van Hoecke (Ghent University, 2024) code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-02-08T10:38:34Z",
+            "owner": "valeman",
+            "repo": "cmc-learner",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Distributionally robust risk evaluation with an isotonic constraint",
+          "description": "by Yu Gui, Rina Foygel Barber, Cong Ma (University of Chicago, 2024) code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-08-27T14:55:11Z",
+            "owner": "yugjerry",
+            "repo": "iso-DRL",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Split Conformal Prediction under Data Contamination",
+          "description": "by Jase Clarkson, Wenkai Xu, Mihai Cucuringu, Gesine Reinert code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-01-08T20:02:41Z",
+            "owner": "jase-clarkson",
+            "repo": "cp_under_data_contamination",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Adjusting Regression Models for Conditional Uncertainty Calibration",
+          "description": "by Ruijiang Gao, Mingzhang Yin, James McInerney, Nathan Kallus (Naveen Jindal School of Management, University of Texas at Dallas, University of Florida, Gainesville, Netflix, Cornell University, 2024) code 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-09-30T08:27:32Z",
+            "owner": "ruijiang81",
+            "repo": "adjusting_reg_model",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Enhancing Trustworthiness of Graph Neural Networks with Rank-Based Conformal Training",
+          "description": "by Ting Wang, Zhixin Zhou, Rui Luo (City University of Hong Kong, Alpha Benito Research, Los Angeles, USA, 2025) code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-09T16:49:05Z",
+            "owner": "CityU-T",
+            "repo": "RCP-GNN",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Conformal Inference for Reliable Single Cell RNA-seq Annotation Open Access",
+          "description": "by Marcos López-De-Castro, Alberto García-Galindo, José González-Gomariz, Rubén Armañanzas (University of Navarra) code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-15T06:27:25Z",
+            "owner": "digital-medicine-research-group-UNAV",
+            "repo": "conformalized_single_cell_annotator",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Split Conformal Classification with Unsupervised Calibration",
+          "description": "by Santiago Mazuelas (BCAM-Basque Center for Applied Mathematics and IKERBASQUE-Basque Foundation for Science, 2025) code 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MATLAB",
+            "last_commit": "2025-11-24T11:41:30Z",
+            "owner": "MachineLearningBCAM",
+            "repo": "Unsupervised-conformal-prediction-NeurIPS2025",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Residual Distribution Predictive Systems",
+          "description": "by Sam Allen, Enrico Pescara, Johanna Ziegel (KIT, ETH, 2025) code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-06-22T10:51:25Z",
+            "owner": "sallen12",
+            "repo": "RDPS_rep",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Distribution-Free Conformal Joint Prediction Regions for Neural Marked Temporal Point Processes",
+          "description": "by Victor Dheur, Tanguy Bosser, Rafael Izbicki, Souhaib Ben Taieb (Universidade Federal de Sao Carlos, Brazil and University of Mons, Belgium, 2024) code TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-01-07T18:25:53Z",
+            "owner": "valeman",
+            "repo": "conf_tpp",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Enhancing reliability in prediction intervals using point forecasters: Heteroscedastic Quantile Regression and Width-Adaptive Conformal Inference",
+          "description": "Carlos Sebastiana,Carlos E. Gonzalez-Guillenc, Jesus Juane (Fortia Energıa, Universidad Politecnica de Madrid, Instituto de Ciencias Matematicas, Madrid) code (2024) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-01-17T16:31:37Z",
+            "owner": "CCaribe9",
+            "repo": "HQR-WACI",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Leave-One-Out Stable Conformal Prediction",
+          "description": "by Kiljae Lee, Yuan Zhang (The Ohia State University, 2025) code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-02-14T00:21:53Z",
+            "owner": "valeman",
+            "repo": "LOO-StabCP",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Colorful Pinball: Density-Weighted Quantile Regression for Conditional Guarantee of Conformal Prediction",
+          "description": "by Qianyi Chen, Bo Li (Tsinghua University, China, 2026) code 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-01-05T14:05:19Z",
+            "owner": "valeman",
+            "repo": "Colorful-Pinball-Conformal-Prediction-CPCP",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Conformal Prediction Papers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Conformal PID Control for Time Series Prediction",
+          "description": "by Anastasios N. Angelopoulos, Emmanuel J. Candes, Ryan J. Tibshirani (Berkeley/Stanford, NeurIPS2023) code TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-11-30T19:44:20Z",
+            "owner": "aangelopoulos",
+            "repo": "conformal-time-series",
+            "stars": 144
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Conformal prediction interval for dynamic time-series",
+          "description": "by Chen Xu, Yao Xie (Georgia Tech, 2021) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥 Python Code Video Video ICML2021",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-11-25T15:22:14Z",
+            "owner": "hamrel-cxu",
+            "repo": "EnbPI",
+            "stars": 134
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Improved Online Conformal Prediction via Strongly Adaptive Online Learning",
+          "description": "by Aadyot Bhatnagar, Huan Wang, Caiming Xiong, Yu Bai (2023) code TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-05-01T17:30:37Z",
+            "owner": "salesforce",
+            "repo": "online_conformal",
+            "stars": 118
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sequential Predictive Conformal Inference for Time Series",
+          "description": "by Chen Xu, Yao Xie (Georgia Tech) code TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-07-16T00:31:53Z",
+            "owner": "hamrel-cxu",
+            "repo": "SPCI-code",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Copula Conformal Prediction for Multi-step Time Series Forecasting",
+          "description": "by Sophia Sun, Rose Yu (University of California, San Diego, 2022) code TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-11T07:48:23Z",
+            "owner": "Rose-STL-Lab",
+            "repo": "CopulaCPTS",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bellman Conformal Inference: Calibrating Prediction Intervals For Time Series",
+          "description": "by Zitong Yang, Emmanuel Candès, Lihua Lei (Stanford, 2024) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-02-09T07:29:52Z",
+            "owner": "ZitongYang",
+            "repo": "bellman-conformal-inference",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Error-quantified Conformal Inference for Time Series",
+          "description": "by Junxi Wu, Dongjian Hu, Yajie Bao, Shu-Tao Xia, Changliang Zou (Nankai University, Tsinghua University, China, 2025) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-02T06:09:23Z",
+            "owner": "creator-xi",
+            "repo": "Error-quantified-Conformal-Inference",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Error-quantified Conformal Inference for Time Series",
+          "description": "code ICLR 2025 paper by Junxi Wu, Dongjian Hu, Yajie Bao, Shu-Tao Xia, , Changliang Zou (Nankai University, Tsinghua University)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-02T06:09:23Z",
+            "owner": "creator-xi",
+            "repo": "Error-quantified-Conformal-Inference",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Conformal prediction for multi-dimensional time series by ellipsoidal sets",
+          "description": "by Chen Xu, Hanyang Jiang, and Yao Xie (Georgia Tech, 2024) code TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-07-16T00:31:00Z",
+            "owner": "hamrel-cxu",
+            "repo": "MultiDimSPCI",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Neural Conformal Control for Time Series Forecasting",
+          "description": "by Ruipu Li, Alexander Rodrıguez (University of Michigan, 2024) code TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-27T18:35:29Z",
+            "owner": "complex-ai-lab",
+            "repo": "ncc",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Transformer Conformal Prediction for Time Series",
+          "description": "by Jonghyeok Lee, Chen Xu, Yao Xie (Georgia Tech, 2024) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥 code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-13T20:54:50Z",
+            "owner": "Jayaos",
+            "repo": "TCPTS",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Split Conformal Prediction and Non-Exchangeable Data",
+          "description": "by Roberto I. Oliveira, Paulo Orenstein, Thiago Ramos, João Vitor Romano (IMPA, Brazil, 2024) code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-22T15:31:33Z",
+            "owner": "jv-rv",
+            "repo": "split-conformal-nonexchangeable",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Split Conformal Prediction and Non-Exchangeable Data",
+          "description": "by Roberto I. Oliveira, Paulo Orenstein, Thiago Ramos, João Vitor Romano (IMPA, Rio de Janeiro, Brazil, 2024) code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-22T15:31:33Z",
+            "owner": "jv-rv",
+            "repo": "split-conformal-nonexchangeable",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CODiT: Conformal Out-of-Distribution Detection in Time- Series Data",
+          "description": "by Ramneet Kaur et.al., Unibersity of Pensylvania (2022). Code TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-11-15T18:52:22Z",
+            "owner": "kaustubhsridhar",
+            "repo": "time-series-OOD",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A General Framework For Multi-step Ahead Adaptive Conformal Heteroscedastic Time Series Forecasting",
+          "description": "by Martim Sousa, Ana Maria Tomé, University of Aveiro (2022) Code TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-05T16:33:46Z",
+            "owner": "Quilograma",
+            "repo": "AEnbMIMOCQR",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Online conformal inference for multi-step time series forecasting](Online conformal inference for multi-step time series forecasting) by Xiaoqian Wang, Rob J Hyndman (Monash Universify, 2024) code",
+          "description": "TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥 paper code conformalForecast R package",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TeX",
+            "last_commit": "2026-02-02T15:57:12Z",
+            "owner": "xqnwang",
+            "repo": "cpts",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Conformal Prediction for Hierarchical Data",
+          "description": "by Guillaume Principato, Gilles Stoltz, Yvenn Amara-Ouali, Yannig Goude, Bachir Hamrouche, Jean-Michel Poggi (EDF R&D, Universit´e Paris-Saclay, CNRS, Inria, Laboratoire de math´ ematiques d’Orsay,Universit´e Paris Cit´e, France code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-05-12T11:57:43Z",
+            "owner": "PrincipatoG",
+            "repo": "Conformal-Prediction-for-Hierarchical-Data",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Conformal Prediction for Hierarchical Data",
+          "description": "by Guillaume Principato, Gilles Stoltz, Yvenn Amara-Ouali, Yannig Goude, Bachir Hamrouche, Jean-Michel Poggi (Université Paris-Saclay, EDF R&D, Inria, Laboratoire de mathématiques d’Orsay, France, 2025) code TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-05-12T11:57:43Z",
+            "owner": "PrincipatoG",
+            "repo": "Conformal-Prediction-for-Hierarchical-Data",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Conformal Predictions for longitudinal data",
+          "description": "by Devesh Batra, Salvatore Mercuri and Raad Khraishi (Data Science & Innovation - NatWest Group, Institute of Finance and Technology, UCL, UK, 2023) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥 code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-03-24T00:05:03Z",
+            "owner": "EconAIorg",
+            "repo": "LPCI",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Feature Fitted Online Conformal Prediction for Deep Time Series Forecasting Model",
+          "description": "by Xiannan Huang, Shuhan Qiu (Tongji University, 2025) code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-16T06:40:51Z",
+            "owner": "xiannanhuang",
+            "repo": "FFDCI",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Conformal prediction set for time-series",
+          "description": "by Chen Xu, Yao Xie (Georgia Tech, 2022) Python Code TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-07-26T05:56:36Z",
+            "owner": "hamrel-cxu",
+            "repo": "Ensemble-Regularized-Adaptive-Prediction-Set-ERAPS",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Conformal prediction set for time-series](Conformal prediction set for time-series) by Chen Xu, Yao Xie (Georgia Tech, 2022) Code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-07-26T05:56:36Z",
+            "owner": "hamrel-cxu",
+            "repo": "Ensemble-Regularized-Adaptive-Prediction-Set-ERAPS",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flow-based Conformal Prediction for Multi-dimensional Time Series",
+          "description": "by Junghwan Lee, Chen Xu, Yao Xie (Georgia Tech, 2025) code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-17T04:13:44Z",
+            "owner": "Jayaos",
+            "repo": "flow_cp",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Foundation models for time series forecasting: Application in conformal prediction",
+          "description": "by Sami Achour, Yassine Bouher, Duong Nguyen, Nicolas Chesneau (Ekimetrics, Ecole Polytechnique, 2025) code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-09T10:19:57Z",
+            "owner": "ekimetrics",
+            "repo": "ts-genai-conformal",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Conformal time series decomposition with component-wise exchangeability",
+          "description": "by Derck W. E. Prinzhorn, Thijmen Nijdam, Putri A. van der Linden, Alexander Timans (University of Amsterdam, 2024) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥 code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-09-01T16:20:27Z",
+            "owner": "dweprinz",
+            "repo": "CP-TSD",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Distribution-Free Conformal Joint Prediction Regions for Neural Marked Temporal Point Processes",
+          "description": "by Victor Dheur, Tanguy Bosser, Rafael Izbicki, Souhaib Ben Taieb (Universidade Federal de Sao Carlos, Brazil and University of Mons, Belgium, 2024) code TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-01-07T18:25:53Z",
+            "owner": "valeman",
+            "repo": "conf_tpp",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Enhancing reliability in prediction intervals using point forecasters: Heteroscedastic Quantile Regression and Width-Adaptive Conformal Inference",
+          "description": "Carlos Sebastiana,Carlos E. Gonzalez-Guillenc, Jesus Juane (Fortia Energıa, Universidad Politecnica de Madrid, Instituto de Ciencias Matematicas, Madrid) code (2024) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-01-17T16:31:37Z",
+            "owner": "CCaribe9",
+            "repo": "HQR-WACI",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Conformalized Online Learning: Online Calibration Without a Holdout Set",
+          "description": "by Shai Feldman, Stephen Bates and Yaniv Romano (2022). TIME SERIES 🔥🔥🔥🔥🔥 Code",
+          "children": []
+        }
+      ],
+      "title": "Conformal Prediction for Time Series Forecasting"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Benchmarking conformal prediction methods for time series regression",
+          "description": "by Derck W.E. Prinzhorn (2023) code 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-09T11:49:02Z",
+            "owner": "valeman",
+            "repo": "awesome-conformal-prediction",
+            "stars": 1282
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Conformal Prediction in Limit Order Books: Calibration and Uncertainty Quantification of DeepLOB",
+          "description": "by Fabio Rossi, Imperial College (2024)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-09-05T21:06:39Z",
+            "owner": "Fabio-Rossi-Hub",
+            "repo": "Conformal-HFT",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Conformal prediction and beyond",
+          "description": ", MSc thesis by Gerard CASTRO CASTILLO (University of Barcelona, 2024) code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-06-16T13:09:51Z",
+            "owner": "gcastro-98",
+            "repo": "conformal-prediction",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "An Active Learning Approach for Reject Inference in Credit Scoring using Conformal Prediction Intervals on Real and Semi-Artificial Data",
+          "description": "by Maximilian Suliga (Humboldt University of Berlin, 2023)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-06-02T17:55:27Z",
+            "owner": "MaximilianSuliga",
+            "repo": "Conformal-Active-Learning-for-Reject-Inference",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Exploring Conformal Prediction for Long Memory Processes",
+          "description": "MSc thesis by Alessandra Campanella (Sapienza University Rome, 2025)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-08-20T10:52:14Z",
+            "owner": "AleCamp",
+            "repo": "Master-s-Thesis-on-Conformal-Prediction",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Inductive Confidence Machine for Pattern Recognition - is it the next step towards AI",
+          "description": "by David Surkov (Royal Holloway, UK, 2004)",
+          "children": []
+        }
+      ],
+      "title": "PhD Theses on Conformal Prediction"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🌍 Community, Events, and People"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T18:06:24.735Z",
+    "original_repository": "valeman/awesome-conformal-prediction",
+    "original_repository_sha": "2cf64bc6ba796d700fd1d424a84c25ed760faa41",
+    "enhanced_repository": "enhansome/enhansome-conformal-prediction",
+    "enhanced_repository_description": null,
+    "title": "Awesome Conformal Prediction: The Definitive Resource with stars"
+  }
+}
