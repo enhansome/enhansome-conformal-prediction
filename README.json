@@ -54,7 +54,7 @@
             "last_commit": "2025-11-14T09:33:36Z",
             "owner": "aangelopoulos",
             "repo": "conformal-prediction",
-            "stars": 1077
+            "stars": 1078
           }
         },
         {
@@ -150,7 +150,7 @@
             "last_commit": "2026-07-09T11:49:02Z",
             "owner": "valeman",
             "repo": "awesome-conformal-prediction",
-            "stars": 1282
+            "stars": 1283
           }
         },
         {
@@ -164,7 +164,7 @@
             "last_commit": "2026-07-09T11:49:02Z",
             "owner": "valeman",
             "repo": "awesome-conformal-prediction",
-            "stars": 1282
+            "stars": 1283
           }
         }
       ],
@@ -273,7 +273,7 @@
             "last_commit": "2026-07-10T14:04:19Z",
             "owner": "deel-ai",
             "repo": "puncc",
-            "stars": 402
+            "stars": 401
           }
         },
         {
@@ -287,7 +287,7 @@
             "last_commit": "2026-07-10T14:04:19Z",
             "owner": "deel-ai",
             "repo": "puncc",
-            "stars": 402
+            "stars": 401
           }
         },
         {
@@ -705,7 +705,7 @@
             "last_commit": "2026-01-30T19:48:54Z",
             "owner": "business-science",
             "repo": "modeltime",
-            "stars": 581
+            "stars": 582
           }
         },
         {
@@ -786,7 +786,7 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-08-03T15:18:20Z",
+            "last_commit": "2026-08-14T17:03:56Z",
             "owner": "tidymodels",
             "repo": "tidymodels.org",
             "stars": 23
@@ -1070,7 +1070,7 @@
             "last_commit": "2026-07-10T14:04:19Z",
             "owner": "deel-ai",
             "repo": "puncc",
-            "stars": 402
+            "stars": 401
           }
         },
         {
@@ -3160,7 +3160,7 @@
             "last_commit": "2026-07-09T11:49:02Z",
             "owner": "valeman",
             "repo": "awesome-conformal-prediction",
-            "stars": 1282
+            "stars": 1283
           }
         },
         {
@@ -3235,7 +3235,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T18:06:24.735Z",
+    "last_updated": "2026-08-14T18:05:34.445Z",
     "original_repository": "valeman/awesome-conformal-prediction",
     "original_repository_sha": "2cf64bc6ba796d700fd1d424a84c25ed760faa41",
     "enhanced_repository": "enhansome/enhansome-conformal-prediction",
