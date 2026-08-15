@@ -136,7 +136,7 @@
             "last_commit": "2026-08-12T14:45:51Z",
             "owner": "online-ml",
             "repo": "river",
-            "stars": 5916
+            "stars": 5917
           }
         },
         {
@@ -189,7 +189,7 @@
             "last_commit": "2026-08-12T14:45:51Z",
             "owner": "online-ml",
             "repo": "river",
-            "stars": 5916
+            "stars": 5917
           }
         },
         {
@@ -3235,7 +3235,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T18:05:34.445Z",
+    "last_updated": "2026-08-15T17:34:16.141Z",
     "original_repository": "valeman/awesome-conformal-prediction",
     "original_repository_sha": "2cf64bc6ba796d700fd1d424a84c25ed760faa41",
     "enhanced_repository": "enhansome/enhansome-conformal-prediction",

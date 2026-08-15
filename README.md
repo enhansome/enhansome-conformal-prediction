@@ -396,7 +396,7 @@ These are active research and practitioner questions — contributions, discussi
 
 ## Conformal Prediction Presentation Slides
 
-1. [Conformal Prediction: an Introduction](https://github.com/online-ml/river/files/10098389/Conformal_Prediction_Presentation.pdf) ⭐ 5,916 | 🐛 70 | 🌐 Python | 📅 2026-08-12 by Leo Andeol (2022)
+1. [Conformal Prediction: an Introduction](https://github.com/online-ml/river/files/10098389/Conformal_Prediction_Presentation.pdf) ⭐ 5,917 | 🐛 70 | 🌐 Python | 📅 2026-08-12 by Leo Andeol (2022)
 2. [Machine Learning for Probabilistic Prediction](https://github.com/valeman/awesome-conformal-prediction/blob/main/assets/Machine%20Learning%20for%20Probabilistic%20Prediction.pdf) ⭐ 1,283 | 🐛 3 | 📅 2026-07-09 by Valery Manokhin, 2022 🔥🔥🔥🔥🔥
 3. [EnbPI poster](https://github.com/valeman/awesome-conformal-prediction/blob/main/assets/EnbPI_poster.pdf) ⭐ 1,283 | 🐛 3 | 📅 2026-07-09 by Chen Xu, Yao Xie (2021)
 4. [Machine Learning for Probabilistic Prediction, Seattle Artificial Intelligence Workshops Meetup](https://www.researchgate.net/publication/371566526_Machine_Learning_for_Probabilistic_Prediction) by Valery Manokhin, 2023 🔥🔥🔥🔥🔥
@@ -429,7 +429,7 @@ These are active research and practitioner questions — contributions, discussi
 
 ## Conformal Prediction Libraries in Python
 
-1. [River](https://github.com/online-ml/river/blob/0506ad73e45403638f13d66c6b2d71920d307461/river/conf/jackknife.py#L9) ⭐ 5,916 | 🐛 70 | 🌐 Python | 📅 2026-08-12 2022
+1. [River](https://github.com/online-ml/river/blob/0506ad73e45403638f13d66c6b2d71920d307461/river/conf/jackknife.py#L9) ⭐ 5,917 | 🐛 70 | 🌐 Python | 📅 2026-08-12 2022
 2. [NeuralProphet](https://github.com/ourownstory/neural_prophet/blob/main/tutorials/feature-use/uncertainty_conformal_prediction.ipynb) ⭐ 4,295 | 🐛 89 | 🌐 Python | 📅 2025-01-08 (2022) 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 3. [Conformalized density- and distance-based anomaly detection in time-series data (KNN-CAD)](https://github.com/numenta/NAB/tree/master/nab/detectors/knncad) ⭐ 2,100 | 🐛 44 | 🌐 Jupyter Notebook | 📅 2024-12-03 by Evgeny Burnaev, Vladislav Ishimtsev (2016). Top #3 winning solution in Numenta competition 🔥🔥🔥🔥🔥
 4. ['Crêpes' - Conformal regressors and predictive systems](https://github.com/henrikbostrom/crepes) ⭐ 581 | 🐛 9 | 🌐 Python | 📅 2026-07-08 by Henrik Boström (2021) [Paper](https://copa-conference.com/papers/COPA2022_paper_11.pdf) 🔥🔥🔥🔥🔥 [Presentation](https://copa-conference.com/presentations/COPA_2022_Presentation__crepes.pdf) by Henrik Bostroem (KTH, Sweden, 2022) [paper](https://raw.githubusercontent.com/mlresearch/v230/main/assets/bostrom24a/bostrom24a.pdf)
@@ -1364,4 +1364,4 @@ These are active research and practitioner questions — contributions, discussi
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
