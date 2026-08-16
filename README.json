@@ -1098,7 +1098,7 @@
             "last_commit": "2026-04-10T06:03:09Z",
             "owner": "aangelopoulos",
             "repo": "ppi_py",
-            "stars": 297
+            "stars": 298
           }
         },
         {
@@ -3235,7 +3235,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T17:34:16.141Z",
+    "last_updated": "2026-08-16T17:32:55.902Z",
     "original_repository": "valeman/awesome-conformal-prediction",
     "original_repository_sha": "2cf64bc6ba796d700fd1d424a84c25ed760faa41",
     "enhanced_repository": "enhansome/enhansome-conformal-prediction",
