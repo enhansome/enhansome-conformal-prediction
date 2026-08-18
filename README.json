@@ -136,7 +136,7 @@
             "last_commit": "2026-08-12T14:45:51Z",
             "owner": "online-ml",
             "repo": "river",
-            "stars": 5917
+            "stars": 5918
           }
         },
         {
@@ -150,7 +150,7 @@
             "last_commit": "2026-07-09T11:49:02Z",
             "owner": "valeman",
             "repo": "awesome-conformal-prediction",
-            "stars": 1283
+            "stars": 1284
           }
         },
         {
@@ -164,7 +164,7 @@
             "last_commit": "2026-07-09T11:49:02Z",
             "owner": "valeman",
             "repo": "awesome-conformal-prediction",
-            "stars": 1283
+            "stars": 1284
           }
         }
       ],
@@ -189,7 +189,7 @@
             "last_commit": "2026-08-12T14:45:51Z",
             "owner": "online-ml",
             "repo": "river",
-            "stars": 5917
+            "stars": 5918
           }
         },
         {
@@ -217,7 +217,7 @@
             "last_commit": "2024-12-03T17:49:50Z",
             "owner": "numenta",
             "repo": "NAB",
-            "stars": 2101
+            "stars": 2102
           }
         },
         {
@@ -438,7 +438,7 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-10T22:43:18Z",
+            "last_commit": "2026-08-17T22:43:24Z",
             "owner": "Moffran",
             "repo": "calibrated_explanations",
             "stars": 79
@@ -786,7 +786,7 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-08-17T14:54:20Z",
+            "last_commit": "2026-08-18T12:54:16Z",
             "owner": "tidymodels",
             "repo": "tidymodels.org",
             "stars": 23
@@ -1179,7 +1179,7 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-10T22:43:18Z",
+            "last_commit": "2026-08-17T22:43:24Z",
             "owner": "Moffran",
             "repo": "calibrated_explanations",
             "stars": 79
@@ -1565,6 +1565,20 @@
         },
         {
           "node_type": "item",
+          "title": "Transformer Conformal Prediction for Time Series",
+          "description": "by Junghwan Lee, Chen Xu, Yao Xie (Georgia Tech, 2024) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥 code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-13T20:54:50Z",
+            "owner": "Jayaos",
+            "repo": "TCPTS",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Neural Conformal Control for Time Series Forecasting](https://arxiv.org/abs/2412.18144",
           "description": ") by Ruipu Li, Alexander Rodrıguez (University of Michigan, 2024) code TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥",
           "children": [],
@@ -1575,20 +1589,6 @@
             "owner": "complex-ai-lab",
             "repo": "ncc",
             "stars": 19
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Transformer Conformal Prediction for Time Series",
-          "description": "by Junghwan Lee, Chen Xu, Yao Xie (Georgia Tech, 2024) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥 code",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-04-13T20:54:50Z",
-            "owner": "Jayaos",
-            "repo": "TCPTS",
-            "stars": 18
           }
         },
         {
@@ -2887,6 +2887,20 @@
         },
         {
           "node_type": "item",
+          "title": "Transformer Conformal Prediction for Time Series",
+          "description": "by Jonghyeok Lee, Chen Xu, Yao Xie (Georgia Tech, 2024) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥 code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-13T20:54:50Z",
+            "owner": "Jayaos",
+            "repo": "TCPTS",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Neural Conformal Control for Time Series Forecasting",
           "description": "by Ruipu Li, Alexander Rodrıguez (University of Michigan, 2024) code TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥",
           "children": [],
@@ -2897,20 +2911,6 @@
             "owner": "complex-ai-lab",
             "repo": "ncc",
             "stars": 19
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Transformer Conformal Prediction for Time Series",
-          "description": "by Jonghyeok Lee, Chen Xu, Yao Xie (Georgia Tech, 2024) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥 code",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-04-13T20:54:50Z",
-            "owner": "Jayaos",
-            "repo": "TCPTS",
-            "stars": 18
           }
         },
         {
@@ -3160,7 +3160,7 @@
             "last_commit": "2026-07-09T11:49:02Z",
             "owner": "valeman",
             "repo": "awesome-conformal-prediction",
-            "stars": 1283
+            "stars": 1284
           }
         },
         {
@@ -3235,7 +3235,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T17:43:40.099Z",
+    "last_updated": "2026-08-18T17:41:28.220Z",
     "original_repository": "valeman/awesome-conformal-prediction",
     "original_repository_sha": "2cf64bc6ba796d700fd1d424a84c25ed760faa41",
     "enhanced_repository": "enhansome/enhansome-conformal-prediction",
