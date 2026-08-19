@@ -102,7 +102,7 @@
             "last_commit": "2026-08-12T14:45:51Z",
             "owner": "online-ml",
             "repo": "river",
-            "stars": 5918
+            "stars": 5919
           }
         },
         {
@@ -117,7 +117,7 @@
             "last_commit": "2026-07-09T11:49:02Z",
             "owner": "valeman",
             "repo": "awesome-conformal-prediction",
-            "stars": 1284
+            "stars": 1285
           }
         },
         {
@@ -132,7 +132,7 @@
             "last_commit": "2026-07-09T11:49:02Z",
             "owner": "valeman",
             "repo": "awesome-conformal-prediction",
-            "stars": 1284
+            "stars": 1285
           }
         }
       ],
@@ -153,7 +153,7 @@
             "last_commit": "2026-08-12T14:45:51Z",
             "owner": "online-ml",
             "repo": "river",
-            "stars": 5918
+            "stars": 5919
           }
         },
         {
@@ -786,7 +786,7 @@
             "archived": false,
             "id": 584985844,
             "language": "HTML",
-            "last_commit": "2026-08-18T12:54:16Z",
+            "last_commit": "2026-08-19T15:13:18Z",
             "owner": "tidymodels",
             "repo": "tidymodels.org",
             "stars": 23
@@ -3309,7 +3309,7 @@
             "last_commit": "2026-07-09T11:49:02Z",
             "owner": "valeman",
             "repo": "awesome-conformal-prediction",
-            "stars": 1284
+            "stars": 1285
           }
         },
         {
@@ -3377,7 +3377,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:21:03.737Z",
+    "last_updated": "2026-08-19T17:39:11.192Z",
     "original_repository": "valeman/awesome-conformal-prediction",
     "original_repository_id": 436989758,
     "original_repository_sha": "2cf64bc6ba796d700fd1d424a84c25ed760faa41",
