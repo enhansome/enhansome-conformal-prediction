@@ -15,7 +15,7 @@
             "last_commit": "2025-11-14T09:33:36Z",
             "owner": "aangelopoulos",
             "repo": "conformal-prediction",
-            "stars": 1079
+            "stars": 1080
           }
         },
         {
@@ -99,7 +99,7 @@
             "archived": false,
             "id": 167388434,
             "language": "Python",
-            "last_commit": "2026-08-12T14:45:51Z",
+            "last_commit": "2026-08-20T12:05:23Z",
             "owner": "online-ml",
             "repo": "river",
             "stars": 5919
@@ -117,7 +117,7 @@
             "last_commit": "2026-07-09T11:49:02Z",
             "owner": "valeman",
             "repo": "awesome-conformal-prediction",
-            "stars": 1285
+            "stars": 1287
           }
         },
         {
@@ -132,7 +132,7 @@
             "last_commit": "2026-07-09T11:49:02Z",
             "owner": "valeman",
             "repo": "awesome-conformal-prediction",
-            "stars": 1285
+            "stars": 1287
           }
         }
       ],
@@ -150,7 +150,7 @@
             "archived": false,
             "id": 167388434,
             "language": "Python",
-            "last_commit": "2026-08-12T14:45:51Z",
+            "last_commit": "2026-08-20T12:05:23Z",
             "owner": "online-ml",
             "repo": "river",
             "stars": 5919
@@ -228,7 +228,7 @@
             "last_commit": "2026-08-05T11:58:30Z",
             "owner": "ml-stat-Sustech",
             "repo": "TorchCP",
-            "stars": 476
+            "stars": 477
           }
         },
         {
@@ -240,10 +240,10 @@
             "archived": false,
             "id": 515914540,
             "language": "Python",
-            "last_commit": "2026-07-10T14:04:19Z",
+            "last_commit": "2026-08-20T14:19:24Z",
             "owner": "deel-ai",
             "repo": "puncc",
-            "stars": 401
+            "stars": 402
           }
         },
         {
@@ -255,10 +255,10 @@
             "archived": false,
             "id": 515914540,
             "language": "Python",
-            "last_commit": "2026-07-10T14:04:19Z",
+            "last_commit": "2026-08-20T14:19:24Z",
             "owner": "deel-ai",
             "repo": "puncc",
-            "stars": 401
+            "stars": 402
           }
         },
         {
@@ -1074,10 +1074,10 @@
             "archived": false,
             "id": 515914540,
             "language": "Python",
-            "last_commit": "2026-07-10T14:04:19Z",
+            "last_commit": "2026-08-20T14:19:24Z",
             "owner": "deel-ai",
             "repo": "puncc",
-            "stars": 401
+            "stars": 402
           }
         },
         {
@@ -1884,7 +1884,7 @@
             "archived": false,
             "id": 655404116,
             "language": "Jupyter Notebook",
-            "last_commit": "2025-12-30T05:51:57Z",
+            "last_commit": "2026-08-20T12:58:30Z",
             "owner": "nandantumu",
             "repo": "conformal_region_designer",
             "stars": 11
@@ -3309,7 +3309,7 @@
             "last_commit": "2026-07-09T11:49:02Z",
             "owner": "valeman",
             "repo": "awesome-conformal-prediction",
-            "stars": 1285
+            "stars": 1287
           }
         },
         {
@@ -3377,7 +3377,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T17:39:11.192Z",
+    "last_updated": "2026-08-20T17:44:10.000Z",
     "original_repository": "valeman/awesome-conformal-prediction",
     "original_repository_id": 436989758,
     "original_repository_sha": "2cf64bc6ba796d700fd1d424a84c25ed760faa41",
