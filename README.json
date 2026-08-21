@@ -15,7 +15,7 @@
             "last_commit": "2025-11-14T09:33:36Z",
             "owner": "aangelopoulos",
             "repo": "conformal-prediction",
-            "stars": 1080
+            "stars": 1079
           }
         },
         {
@@ -99,10 +99,10 @@
             "archived": false,
             "id": 167388434,
             "language": "Python",
-            "last_commit": "2026-08-20T12:05:23Z",
+            "last_commit": "2026-08-21T15:06:00Z",
             "owner": "online-ml",
             "repo": "river",
-            "stars": 5919
+            "stars": 5920
           }
         },
         {
@@ -117,7 +117,7 @@
             "last_commit": "2026-07-09T11:49:02Z",
             "owner": "valeman",
             "repo": "awesome-conformal-prediction",
-            "stars": 1287
+            "stars": 1290
           }
         },
         {
@@ -132,7 +132,7 @@
             "last_commit": "2026-07-09T11:49:02Z",
             "owner": "valeman",
             "repo": "awesome-conformal-prediction",
-            "stars": 1287
+            "stars": 1290
           }
         }
       ],
@@ -150,10 +150,10 @@
             "archived": false,
             "id": 167388434,
             "language": "Python",
-            "last_commit": "2026-08-20T12:05:23Z",
+            "last_commit": "2026-08-21T15:06:00Z",
             "owner": "online-ml",
             "repo": "river",
-            "stars": 5919
+            "stars": 5920
           }
         },
         {
@@ -198,7 +198,7 @@
             "last_commit": "2026-07-08T08:07:39Z",
             "owner": "henrikbostrom",
             "repo": "crepes",
-            "stars": 581
+            "stars": 579
           }
         },
         {
@@ -213,7 +213,7 @@
             "last_commit": "2021-03-20T19:50:56Z",
             "owner": "donlnz",
             "repo": "nonconformist",
-            "stars": 478
+            "stars": 479
           }
         },
         {
@@ -243,7 +243,7 @@
             "last_commit": "2026-08-20T14:19:24Z",
             "owner": "deel-ai",
             "repo": "puncc",
-            "stars": 402
+            "stars": 403
           }
         },
         {
@@ -258,7 +258,7 @@
             "last_commit": "2026-08-20T14:19:24Z",
             "owner": "deel-ai",
             "repo": "puncc",
-            "stars": 402
+            "stars": 403
           }
         },
         {
@@ -288,7 +288,7 @@
             "last_commit": "2026-02-02T15:12:18Z",
             "owner": "yromano",
             "repo": "cqr",
-            "stars": 313
+            "stars": 314
           }
         },
         {
@@ -1077,7 +1077,7 @@
             "last_commit": "2026-08-20T14:19:24Z",
             "owner": "deel-ai",
             "repo": "puncc",
-            "stars": 402
+            "stars": 403
           }
         },
         {
@@ -1092,7 +1092,7 @@
             "last_commit": "2026-02-02T15:12:18Z",
             "owner": "yromano",
             "repo": "cqr",
-            "stars": 313
+            "stars": 314
           }
         },
         {
@@ -1112,21 +1112,6 @@
         },
         {
           "node_type": "item",
-          "title": "CONffusion: CONFIDENCE INTERVALS FOR DIFFUSION MODELS",
-          "description": "ProjectCode by Eliahu Horwitz, Yedid Hoshen (Hebrew University of Jerusalem, 2022) 🔥🔥🔥🔥🔥",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 567179083,
-            "language": "Python",
-            "last_commit": "2022-11-27T19:11:26Z",
-            "owner": "eliahuhorwitz",
-            "repo": "Conffusion",
-            "stars": 144
-          }
-        },
-        {
-          "node_type": "item",
           "title": "Conformal PID Control for Time Series Prediction",
           "description": "by Anastasios N. Angelopoulos, Emmanuel J. Candes, Ryan J. Tibshirani (Berkeley/Stanford, NeurIPS2023) code",
           "children": [],
@@ -1138,6 +1123,21 @@
             "owner": "aangelopoulos",
             "repo": "conformal-time-series",
             "stars": 144
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CONffusion: CONFIDENCE INTERVALS FOR DIFFUSION MODELS",
+          "description": "ProjectCode by Eliahu Horwitz, Yedid Hoshen (Hebrew University of Jerusalem, 2022) 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 567179083,
+            "language": "Python",
+            "last_commit": "2022-11-27T19:11:26Z",
+            "owner": "eliahuhorwitz",
+            "repo": "Conffusion",
+            "stars": 143
           }
         },
         {
@@ -1242,7 +1242,7 @@
             "last_commit": "2024-06-21T17:13:50Z",
             "owner": "bhaweshiitk",
             "repo": "ConformalLLM",
-            "stars": 70
+            "stars": 69
           }
         },
         {
@@ -1257,7 +1257,7 @@
             "last_commit": "2024-06-21T17:13:50Z",
             "owner": "bhaweshiitk",
             "repo": "ConformalLLM",
-            "stars": 70
+            "stars": 69
           }
         },
         {
@@ -1272,7 +1272,7 @@
             "last_commit": "2024-06-21T17:13:50Z",
             "owner": "bhaweshiitk",
             "repo": "ConformalLLM",
-            "stars": 70
+            "stars": 69
           }
         },
         {
@@ -3309,7 +3309,7 @@
             "last_commit": "2026-07-09T11:49:02Z",
             "owner": "valeman",
             "repo": "awesome-conformal-prediction",
-            "stars": 1287
+            "stars": 1290
           }
         },
         {
@@ -3377,7 +3377,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T17:44:10.000Z",
+    "last_updated": "2026-08-21T17:43:39.383Z",
     "original_repository": "valeman/awesome-conformal-prediction",
     "original_repository_id": 436989758,
     "original_repository_sha": "2cf64bc6ba796d700fd1d424a84c25ed760faa41",
