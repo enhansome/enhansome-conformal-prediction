@@ -99,10 +99,10 @@
             "archived": false,
             "id": 167388434,
             "language": "Python",
-            "last_commit": "2026-08-21T15:06:00Z",
+            "last_commit": "2026-08-21T19:05:47Z",
             "owner": "online-ml",
             "repo": "river",
-            "stars": 5920
+            "stars": 5921
           }
         },
         {
@@ -150,10 +150,10 @@
             "archived": false,
             "id": 167388434,
             "language": "Python",
-            "last_commit": "2026-08-21T15:06:00Z",
+            "last_commit": "2026-08-21T19:05:47Z",
             "owner": "online-ml",
             "repo": "river",
-            "stars": 5920
+            "stars": 5921
           }
         },
         {
@@ -183,7 +183,7 @@
             "last_commit": "2024-12-03T17:49:50Z",
             "owner": "numenta",
             "repo": "NAB",
-            "stars": 2102
+            "stars": 2103
           }
         },
         {
@@ -3377,7 +3377,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T17:43:39.383Z",
+    "last_updated": "2026-08-22T17:34:48.737Z",
     "original_repository": "valeman/awesome-conformal-prediction",
     "original_repository_id": 436989758,
     "original_repository_sha": "2cf64bc6ba796d700fd1d424a84c25ed760faa41",
