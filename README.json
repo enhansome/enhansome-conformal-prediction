@@ -15,7 +15,7 @@
             "last_commit": "2025-11-14T09:33:36Z",
             "owner": "aangelopoulos",
             "repo": "conformal-prediction",
-            "stars": 1079
+            "stars": 1081
           }
         },
         {
@@ -102,7 +102,7 @@
             "last_commit": "2026-08-21T19:05:47Z",
             "owner": "online-ml",
             "repo": "river",
-            "stars": 5921
+            "stars": 5922
           }
         },
         {
@@ -153,7 +153,7 @@
             "last_commit": "2026-08-21T19:05:47Z",
             "owner": "online-ml",
             "repo": "river",
-            "stars": 5921
+            "stars": 5922
           }
         },
         {
@@ -786,7 +786,7 @@
             "archived": false,
             "id": 584985844,
             "language": "HTML",
-            "last_commit": "2026-08-19T15:13:18Z",
+            "last_commit": "2026-08-23T00:09:39Z",
             "owner": "tidymodels",
             "repo": "tidymodels.org",
             "stars": 23
@@ -3377,7 +3377,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T17:34:48.737Z",
+    "last_updated": "2026-08-23T17:33:23.323Z",
     "original_repository": "valeman/awesome-conformal-prediction",
     "original_repository_id": 436989758,
     "original_repository_sha": "2cf64bc6ba796d700fd1d424a84c25ed760faa41",
