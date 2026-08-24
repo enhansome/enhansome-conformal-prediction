@@ -56,6 +56,48 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Topics in Modern Statistical Learning",
+          "description": "by Edgar Dobriban (Wharton School, University of Pennsylvania, 2022) 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 425150158,
+            "language": null,
+            "last_commit": "2024-05-17T14:34:41Z",
+            "owner": "dobriban",
+            "repo": "Topics-In-Modern-Statistical-Learning",
+            "stars": 179
+          }
+        }
+      ],
+      "title": "Conformal Prediction Courses"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Stanford statisticians and Washington Post data scientists build more honest prediction models",
+          "description": "Code 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 536667866,
+            "language": "Python",
+            "last_commit": "2025-05-06T21:29:26Z",
+            "owner": "washingtonpost",
+            "repo": "elex-live-model",
+            "stars": 80
+          }
+        }
+      ],
+      "title": "Articles on Conformal Prediction"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "An introduction to conformal prediction - PyLadies Amsterdam",
           "description": "by Inge van den Ende (2024) 🔥🔥🔥🔥🔥code",
           "children": [],
@@ -168,7 +210,7 @@
             "last_commit": "2025-01-08T20:48:50Z",
             "owner": "ourownstory",
             "repo": "neural_prophet",
-            "stars": 4294
+            "stars": 4295
           }
         },
         {
@@ -240,7 +282,7 @@
             "archived": false,
             "id": 515914540,
             "language": "Python",
-            "last_commit": "2026-08-20T14:19:24Z",
+            "last_commit": "2026-08-24T09:36:22Z",
             "owner": "deel-ai",
             "repo": "puncc",
             "stars": 403
@@ -255,7 +297,7 @@
             "archived": false,
             "id": 515914540,
             "language": "Python",
-            "last_commit": "2026-08-20T14:19:24Z",
+            "last_commit": "2026-08-24T09:36:22Z",
             "owner": "deel-ai",
             "repo": "puncc",
             "stars": 403
@@ -273,7 +315,7 @@
             "last_commit": "2026-08-09T01:18:37Z",
             "owner": "mikekeith52",
             "repo": "scalecast",
-            "stars": 353
+            "stars": 354
           }
         },
         {
@@ -786,7 +828,7 @@
             "archived": false,
             "id": 584985844,
             "language": "HTML",
-            "last_commit": "2026-08-23T00:09:39Z",
+            "last_commit": "2026-08-24T13:38:48Z",
             "owner": "tidymodels",
             "repo": "tidymodels.org",
             "stars": 23
@@ -1074,7 +1116,7 @@
             "archived": false,
             "id": 515914540,
             "language": "Python",
-            "last_commit": "2026-08-20T14:19:24Z",
+            "last_commit": "2026-08-24T09:36:22Z",
             "owner": "deel-ai",
             "repo": "puncc",
             "stars": 403
@@ -3377,7 +3419,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T17:33:23.323Z",
+    "last_updated": "2026-08-24T14:12:14.048Z",
     "original_repository": "valeman/awesome-conformal-prediction",
     "original_repository_id": 436989758,
     "original_repository_sha": "2cf64bc6ba796d700fd1d424a84c25ed760faa41",
