@@ -305,7 +305,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/mikekeith52/scalecast",
+          "title": "mikekeith52/scalecast",
           "description": "TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥",
           "children": [],
           "repo_info": {
@@ -470,6 +470,21 @@
         },
         {
           "node_type": "item",
+          "title": "Venn-ABERS Predictor",
+          "description": "by Paolo Toccaceli (2019) Paper 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 95372917,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-02-15T19:55:59Z",
+            "owner": "ptocca",
+            "repo": "VennABERS",
+            "stars": 78
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Conformal time-series forecasting",
           "description": "by Kamile ̇ Stankeviciute (Cambridge, NeurIPS 2021) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥",
           "children": [],
@@ -481,21 +496,6 @@
             "owner": "kamilest",
             "repo": "conformal-rnn",
             "stars": 78
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Venn-ABERS Predictor",
-          "description": "by Paolo Toccaceli (2019) Paper 🔥🔥🔥🔥🔥",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 95372917,
-            "language": "Jupyter Notebook",
-            "last_commit": "2024-02-15T19:55:59Z",
-            "owner": "ptocca",
-            "repo": "VennABERS",
-            "stars": 77
           }
         },
         {
@@ -3419,7 +3419,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T17:45:59.960Z",
+    "last_updated": "2026-08-25T06:08:38.252Z",
     "original_repository": "valeman/awesome-conformal-prediction",
     "original_repository_id": 436989758,
     "original_repository_sha": "2cf64bc6ba796d700fd1d424a84c25ed760faa41",
