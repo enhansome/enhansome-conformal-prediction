@@ -156,7 +156,7 @@
             "archived": false,
             "id": 436989758,
             "language": null,
-            "last_commit": "2026-07-09T11:49:02Z",
+            "last_commit": "2026-08-25T10:44:29Z",
             "owner": "valeman",
             "repo": "awesome-conformal-prediction",
             "stars": 1291
@@ -171,7 +171,7 @@
             "archived": false,
             "id": 436989758,
             "language": null,
-            "last_commit": "2026-07-09T11:49:02Z",
+            "last_commit": "2026-08-25T10:44:29Z",
             "owner": "valeman",
             "repo": "awesome-conformal-prediction",
             "stars": 1291
@@ -226,21 +226,6 @@
             "owner": "numenta",
             "repo": "NAB",
             "stars": 2103
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "'Crêpes' - Conformal regressors and predictive systems",
-          "description": "by Henrik Boström (2021) Paper 🔥🔥🔥🔥🔥 Presentation by Henrik Bostroem (KTH, Sweden, 2022) paper",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 428992317,
-            "language": "Python",
-            "last_commit": "2026-07-08T08:07:39Z",
-            "owner": "henrikbostrom",
-            "repo": "crepes",
-            "stars": 579
           }
         },
         {
@@ -828,7 +813,7 @@
             "archived": false,
             "id": 584985844,
             "language": "HTML",
-            "last_commit": "2026-08-24T13:38:48Z",
+            "last_commit": "2026-08-25T06:43:38Z",
             "owner": "tidymodels",
             "repo": "tidymodels.org",
             "stars": 23
@@ -933,7 +918,7 @@
             "archived": false,
             "id": 820522015,
             "language": "R",
-            "last_commit": "2026-03-16T12:06:25Z",
+            "last_commit": "2026-08-25T08:22:49Z",
             "owner": "Doktorandahl",
             "repo": "pintervals",
             "stars": 7
@@ -2970,7 +2955,7 @@
             "last_commit": "2025-05-01T17:30:37Z",
             "owner": "salesforce",
             "repo": "online_conformal",
-            "stars": 118
+            "stars": 117
           }
         },
         {
@@ -3348,7 +3333,7 @@
             "archived": false,
             "id": 436989758,
             "language": null,
-            "last_commit": "2026-07-09T11:49:02Z",
+            "last_commit": "2026-08-25T10:44:29Z",
             "owner": "valeman",
             "repo": "awesome-conformal-prediction",
             "stars": 1291
@@ -3419,10 +3404,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:08:38.252Z",
+    "last_updated": "2026-08-25T17:45:02.575Z",
     "original_repository": "valeman/awesome-conformal-prediction",
     "original_repository_id": 436989758,
-    "original_repository_sha": "2cf64bc6ba796d700fd1d424a84c25ed760faa41",
+    "original_repository_sha": "a4c7c433b2bdfe5fba41e8b3639cf1b1c2cbf9d7",
     "enhanced_repository": "enhansome/enhansome-conformal-prediction",
     "enhanced_repository_description": null,
     "title": "Awesome Conformal Prediction: The Definitive Resource with stars"
