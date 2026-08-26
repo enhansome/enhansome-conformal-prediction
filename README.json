@@ -144,7 +144,7 @@
             "last_commit": "2026-08-21T19:05:47Z",
             "owner": "online-ml",
             "repo": "river",
-            "stars": 5922
+            "stars": 5924
           }
         },
         {
@@ -195,7 +195,7 @@
             "last_commit": "2026-08-21T19:05:47Z",
             "owner": "online-ml",
             "repo": "river",
-            "stars": 5922
+            "stars": 5924
           }
         },
         {
@@ -999,7 +999,7 @@
             "archived": false,
             "id": 904442172,
             "language": "Julia",
-            "last_commit": "2026-07-10T08:28:28Z",
+            "last_commit": "2026-08-26T13:17:35Z",
             "owner": "lipiecki",
             "repo": "PostForecasts.jl",
             "stars": 32
@@ -3255,7 +3255,7 @@
             "last_commit": "2026-04-17T04:13:44Z",
             "owner": "Jayaos",
             "repo": "flow_cp",
-            "stars": 5
+            "stars": 6
           }
         },
         {
@@ -3404,7 +3404,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T17:45:02.575Z",
+    "last_updated": "2026-08-26T19:19:20.445Z",
     "original_repository": "valeman/awesome-conformal-prediction",
     "original_repository_id": 436989758,
     "original_repository_sha": "a4c7c433b2bdfe5fba41e8b3639cf1b1c2cbf9d7",
