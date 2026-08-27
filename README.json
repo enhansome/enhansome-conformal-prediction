@@ -159,7 +159,7 @@
             "last_commit": "2026-08-25T10:44:29Z",
             "owner": "valeman",
             "repo": "awesome-conformal-prediction",
-            "stars": 1291
+            "stars": 1292
           }
         },
         {
@@ -174,7 +174,7 @@
             "last_commit": "2026-08-25T10:44:29Z",
             "owner": "valeman",
             "repo": "awesome-conformal-prediction",
-            "stars": 1291
+            "stars": 1292
           }
         }
       ],
@@ -210,7 +210,7 @@
             "last_commit": "2025-01-08T20:48:50Z",
             "owner": "ourownstory",
             "repo": "neural_prophet",
-            "stars": 4295
+            "stars": 4296
           }
         },
         {
@@ -492,7 +492,7 @@
             "archived": false,
             "id": 780814119,
             "language": "Python",
-            "last_commit": "2026-08-19T11:51:26Z",
+            "last_commit": "2026-08-27T11:08:27Z",
             "owner": "OliverHennhoefer",
             "repo": "nonconform",
             "stars": 57
@@ -3336,7 +3336,7 @@
             "last_commit": "2026-08-25T10:44:29Z",
             "owner": "valeman",
             "repo": "awesome-conformal-prediction",
-            "stars": 1291
+            "stars": 1292
           }
         },
         {
@@ -3404,9 +3404,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T19:19:20.445Z",
-    "original_repository": "valeman/awesome-conformal-prediction",
-    "original_repository_id": 436989758,
+    "last_updated": "2026-08-27T11:32:32.904Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 436989758,
+      "language": null,
+      "last_commit": "2026-08-25T10:44:29Z",
+      "owner": "valeman",
+      "repo": "awesome-conformal-prediction",
+      "stars": 1292
+    },
     "original_repository_sha": "a4c7c433b2bdfe5fba41e8b3639cf1b1c2cbf9d7",
     "enhanced_repository": "enhansome/enhansome-conformal-prediction",
     "enhanced_repository_description": null,
