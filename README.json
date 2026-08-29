@@ -10,12 +10,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lightweight, useful implementation of conformal prediction on real data.",
+            "homepage": "http://people.eecs.berkeley.edu/~angelopoulos/blog/posts/gentle-intro/",
             "id": 441586070,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2025-11-14T09:33:36Z",
+            "open_issues": 7,
             "owner": "aangelopoulos",
             "repo": "conformal-prediction",
-            "stars": 1081
+            "stars": 1081,
+            "topics": [
+              "computer-vision",
+              "conformal",
+              "conformal-inference",
+              "conformal-prediction",
+              "distribution-shift",
+              "natural-language-processing",
+              "time-series",
+              "time-series-prediction",
+              "uncertainty",
+              "uncertainty-estimation",
+              "uncertainty-quantification"
+            ]
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -26,12 +43,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Various Conformal Prediction methods implemented from scratch in pure NumPy for an educational purpose.",
+            "homepage": null,
             "id": 736312421,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2024-01-14T19:28:36Z",
+            "open_issues": 0,
             "owner": "joneswack",
             "repo": "conformal-predictions-from-scratch",
-            "stars": 229
+            "stars": 229,
+            "topics": [
+              "conformal-prediction",
+              "machine-learning",
+              "numpy",
+              "python",
+              "uncertainty-estimation"
+            ]
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -42,12 +70,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 691517839,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2024-05-24T09:26:54Z",
+            "open_issues": 0,
             "owner": "BiolApps",
             "repo": "ConformalPrediction",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         }
@@ -64,12 +97,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Materials for STAT 991: Topics In Modern Statistical Learning (UPenn, 2022 Spring) - uncertainty quantification, conformal prediction, calibration, etc",
+            "homepage": null,
             "id": 425150158,
             "language": null,
+            "license": null,
             "last_commit": "2024-05-17T14:34:41Z",
+            "open_issues": 0,
             "owner": "dobriban",
             "repo": "Topics-In-Modern-Statistical-Learning",
-            "stars": 179
+            "stars": 179,
+            "topics": [
+              "calibration",
+              "conformal-prediction",
+              "deep-learning",
+              "machine-learning",
+              "prediction",
+              "tolerance-intervals",
+              "uncertainty-quantification"
+            ]
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         }
@@ -86,12 +132,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a model to generate estimates of the number of outstanding votes on an election night based on the current results of the race",
+            "homepage": null,
             "id": 536667866,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-05-06T21:29:26Z",
+            "open_issues": 3,
             "owner": "washingtonpost",
             "repo": "elex-live-model",
-            "stars": 80
+            "stars": 80,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         }
@@ -108,12 +159,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An introduction to conformal prediction",
+            "homepage": null,
             "id": 720801487,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2024-01-31T14:58:24Z",
+            "open_issues": 0,
             "owner": "pyladiesams",
             "repo": "conformal-prediction-jan2024",
-            "stars": 27
+            "stars": 27,
+            "topics": [
+              "conformal-prediction",
+              "forecasting",
+              "python"
+            ]
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -124,12 +184,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Talks and presentations",
+            "homepage": null,
             "id": 774856902,
             "language": null,
+            "license": null,
             "last_commit": "2024-03-20T10:29:41Z",
+            "open_issues": 0,
             "owner": "Carl-McBride-Ellis",
             "repo": "talks",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         }
@@ -146,12 +211,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🌊 Online machine learning in Python",
+            "homepage": "https://riverml.xyz",
             "id": 167388434,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-21T19:05:47Z",
+            "open_issues": 71,
             "owner": "online-ml",
             "repo": "river",
-            "stars": 5924
+            "stars": 5925,
+            "topics": [
+              "concept-drift",
+              "data-science",
+              "incremental-learning",
+              "machine-learning",
+              "online-learning",
+              "online-machine-learning",
+              "online-statistics",
+              "python",
+              "real-time-processing",
+              "stream-processing",
+              "streaming",
+              "streaming-data"
+            ]
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -162,12 +245,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A professionally curated list of awesome Conformal Prediction videos, tutorials, books, papers, PhD and MSc theses, articles and open-source libraries.",
+            "homepage": null,
             "id": 436989758,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2026-08-25T10:44:29Z",
+            "open_issues": 3,
             "owner": "valeman",
             "repo": "awesome-conformal-prediction",
-            "stars": 1294
+            "stars": 1295,
+            "topics": [
+              "ai",
+              "awesome",
+              "awesome-list",
+              "conformal-prediction",
+              "datascience",
+              "deeplearning",
+              "explainable-ai",
+              "machine-learning",
+              "machinelearning",
+              "probability",
+              "probability-distribution",
+              "probability-distributions",
+              "python",
+              "r",
+              "robust-ml",
+              "statistics",
+              "uncertainty",
+              "uncertainty-estimation",
+              "uncertainty-quantification"
+            ]
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -178,12 +286,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A professionally curated list of awesome Conformal Prediction videos, tutorials, books, papers, PhD and MSc theses, articles and open-source libraries.",
+            "homepage": null,
             "id": 436989758,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2026-08-25T10:44:29Z",
+            "open_issues": 3,
             "owner": "valeman",
             "repo": "awesome-conformal-prediction",
-            "stars": 1294
+            "stars": 1295,
+            "topics": [
+              "ai",
+              "awesome",
+              "awesome-list",
+              "conformal-prediction",
+              "datascience",
+              "deeplearning",
+              "explainable-ai",
+              "machine-learning",
+              "machinelearning",
+              "probability",
+              "probability-distribution",
+              "probability-distributions",
+              "python",
+              "r",
+              "robust-ml",
+              "statistics",
+              "uncertainty",
+              "uncertainty-estimation",
+              "uncertainty-quantification"
+            ]
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         }
@@ -200,12 +333,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🌊 Online machine learning in Python",
+            "homepage": "https://riverml.xyz",
             "id": 167388434,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-21T19:05:47Z",
+            "open_issues": 71,
             "owner": "online-ml",
             "repo": "river",
-            "stars": 5924
+            "stars": 5925,
+            "topics": [
+              "concept-drift",
+              "data-science",
+              "incremental-learning",
+              "machine-learning",
+              "online-learning",
+              "online-machine-learning",
+              "online-statistics",
+              "python",
+              "real-time-processing",
+              "stream-processing",
+              "streaming",
+              "streaming-data"
+            ]
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -216,12 +367,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NeuralProphet: A simple forecasting package",
+            "homepage": "https://neuralprophet.com",
             "id": 261086130,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-01-08T20:48:50Z",
+            "open_issues": 89,
             "owner": "ourownstory",
             "repo": "neural_prophet",
-            "stars": 4295
+            "stars": 4295,
+            "topics": [
+              "artificial-intelligence",
+              "autoregression",
+              "deep-learning",
+              "fbprophet",
+              "forecast",
+              "forecasting",
+              "forecasting-algorithm",
+              "forecasting-model",
+              "machine-learning",
+              "neural",
+              "neural-network",
+              "neuralprophet",
+              "prediction",
+              "prophet",
+              "python",
+              "pytorch",
+              "seasonality",
+              "time-series",
+              "timeseries",
+              "trend"
+            ]
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -232,12 +409,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Numenta Anomaly Benchmark",
+            "homepage": null,
             "id": 19504082,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2024-12-03T17:49:50Z",
+            "open_issues": 44,
             "owner": "numenta",
             "repo": "NAB",
-            "stars": 2103
+            "stars": 2103,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -248,12 +430,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python implementation of the conformal prediction framework.",
+            "homepage": null,
             "id": 32337300,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-03-20T19:50:56Z",
+            "open_issues": 20,
             "owner": "donlnz",
             "repo": "nonconformist",
-            "stars": 479
+            "stars": 479,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -264,12 +451,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Python toolbox for conformal prediction research on deep learning models, using PyTorch.",
+            "homepage": null,
             "id": 728116762,
             "language": "Python",
+            "license": "LGPL-3.0",
             "last_commit": "2026-08-05T11:58:30Z",
+            "open_issues": 8,
             "owner": "ml-stat-Sustech",
             "repo": "TorchCP",
-            "stars": 477
+            "stars": 477,
+            "topics": [
+              "classification",
+              "conformal-prediction",
+              "graph",
+              "large-language-models",
+              "regression",
+              "uncertainty-quantification"
+            ]
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -280,12 +479,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "👋 Puncc is a python library for predictive uncertainty quantification using conformal prediction.",
+            "homepage": "https://deel-ai.github.io/puncc/",
             "id": 515914540,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-24T09:36:22Z",
+            "open_issues": 2,
             "owner": "deel-ai",
             "repo": "puncc",
-            "stars": 403
+            "stars": 403,
+            "topics": [
+              "conformal-inference",
+              "conformal-prediction",
+              "conformal-regressors",
+              "uncertainty-estimation",
+              "uncertainty-quantification"
+            ]
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -296,12 +506,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "👋 Puncc is a python library for predictive uncertainty quantification using conformal prediction.",
+            "homepage": "https://deel-ai.github.io/puncc/",
             "id": 515914540,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-24T09:36:22Z",
+            "open_issues": 2,
             "owner": "deel-ai",
             "repo": "puncc",
-            "stars": 403
+            "stars": 403,
+            "topics": [
+              "conformal-inference",
+              "conformal-prediction",
+              "conformal-regressors",
+              "uncertainty-estimation",
+              "uncertainty-quantification"
+            ]
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -312,12 +533,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The practitioner's forecasting library",
+            "homepage": null,
             "id": 382052875,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-09T01:18:37Z",
+            "open_issues": 164,
             "owner": "mikekeith52",
             "repo": "scalecast",
-            "stars": 354
+            "stars": 354,
+            "topics": [
+              "auto-ml",
+              "data-science",
+              "deep-learning",
+              "easy-to-use",
+              "forecasting",
+              "keras",
+              "lstm",
+              "machine-learning",
+              "mase",
+              "msis",
+              "pandas",
+              "python",
+              "recurrent-neural-networks",
+              "scikit-learn",
+              "scikit-learn-python",
+              "smape",
+              "time-series",
+              "vecm"
+            ]
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -328,12 +573,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Conformalized Quantile Regression",
+            "homepage": "https://sites.google.com/view/cqr",
             "id": 180909014,
             "language": "Jupyter Notebook",
+            "license": "NOASSERTION",
             "last_commit": "2026-02-02T15:12:18Z",
+            "open_issues": 4,
             "owner": "yromano",
             "repo": "cqr",
-            "stars": 314
+            "stars": 314,
+            "topics": [
+              "algorithmic-fairness",
+              "conformal-methods",
+              "conformal-prediction",
+              "deep-learning",
+              "fairness",
+              "prediction",
+              "prediction-intervals",
+              "pytorch",
+              "quantile-regression",
+              "random-forest",
+              "random-forest-regression"
+            ]
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -344,12 +606,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Various Conformal Prediction methods implemented from scratch in pure NumPy for an educational purpose.",
+            "homepage": null,
             "id": 736312421,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2024-01-14T19:28:36Z",
+            "open_issues": 0,
             "owner": "joneswack",
             "repo": "conformal-predictions-from-scratch",
-            "stars": 229
+            "stars": 229,
+            "topics": [
+              "conformal-prediction",
+              "machine-learning",
+              "numpy",
+              "python",
+              "uncertainty-estimation"
+            ]
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -360,12 +633,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python implementation of binary and multi-class Venn-ABERS calibration",
+            "homepage": null,
             "id": 667156782,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-12T04:49:02Z",
+            "open_issues": 1,
             "owner": "ip200",
             "repo": "venn-abers",
-            "stars": 207
+            "stars": 207,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -376,12 +654,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official code for: Conformal prediction interval for dynamic time-series (conference, ICML 21 Long Presentation) AND Conformal prediction for time-series (journal, IEEE TPAMI)",
+            "homepage": null,
             "id": 377386757,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2023-11-25T15:22:14Z",
+            "open_issues": 2,
             "owner": "hamrel-cxu",
             "repo": "EnbPI",
-            "stars": 134
+            "stars": 134,
+            "topics": [
+              "anomaly-detection",
+              "conformal-prediction",
+              "machine-learning",
+              "prediction",
+              "prediction-interval",
+              "time-series"
+            ]
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -392,12 +682,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A library for uncertainty quantification based on PyTorch",
+            "homepage": null,
             "id": 359920349,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2022-01-10T22:17:23Z",
+            "open_issues": 0,
             "owner": "TorchUQ",
             "repo": "torchuq",
-            "stars": 119
+            "stars": 119,
+            "topics": [
+              "deep-learning",
+              "pytorch",
+              "uncertainty",
+              "uncertainty-quantification"
+            ]
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -408,12 +708,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "👖 Conformal Tights adds conformal prediction of coherent quantiles and intervals to any scikit-learn regressor or Darts forecaster",
+            "homepage": null,
             "id": 765698489,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-05-01T10:48:46Z",
+            "open_issues": 7,
             "owner": "superlinear-ai",
             "repo": "conformal-tights",
-            "stars": 118
+            "stars": 118,
+            "topics": [
+              "conformal-prediction",
+              "forecasting",
+              "machine-learning",
+              "prediction-intervals",
+              "python",
+              "quantile-regression",
+              "scikit-learn",
+              "time-series-forecasting"
+            ]
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -424,12 +738,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 720891570,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2024-02-18T15:16:30Z",
+            "open_issues": 0,
             "owner": "tblume1992",
             "repo": "MFLES",
-            "stars": 114
+            "stars": 114,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -440,12 +759,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Valid and adaptive prediction intervals for probabilistic time series forecasting.",
+            "homepage": "https://arxiv.org/abs/2202.08756",
             "id": 457991247,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2025-03-15T19:22:16Z",
+            "open_issues": 3,
             "owner": "FilippoMB",
             "repo": "Ensemble-Conformalized-Quantile-Regression",
-            "stars": 104
+            "stars": 104,
+            "topics": [
+              "conformal-prediction",
+              "ensemble-machine-learning",
+              "frequentist-statistics",
+              "frequentistic-confidence-intervals",
+              "prediction-intervals",
+              "probabilistic-forecasting",
+              "quantile-regression",
+              "random-forest",
+              "recurrent-neural-networks",
+              "time-series-forecasting",
+              "time-series-prediction",
+              "uncertainty-quantification"
+            ]
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -456,12 +793,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Library for Conformal Hyperparameter Tuning",
+            "homepage": "https://confopt.readthedocs.io",
             "id": 729633680,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-11-24T00:36:54Z",
+            "open_issues": 0,
             "owner": "rick12000",
             "repo": "confopt",
-            "stars": 104
+            "stars": 104,
+            "topics": [
+              "automl",
+              "conformal-prediction",
+              "hyperparameter-optimization",
+              "hyperparameter-tuning",
+              "inferential-statistics",
+              "machine-learning",
+              "predictive-modeling"
+            ]
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -472,12 +822,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Calibrated Explanations is an explanation method for uncertainty-aware explanations of classification and regression models.",
+            "homepage": "calibrated-explanations-demo.ju.se",
             "id": 634794673,
             "language": "Jupyter Notebook",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-17T22:43:24Z",
+            "open_issues": 12,
             "owner": "Moffran",
             "repo": "calibrated_explanations",
-            "stars": 79
+            "stars": 79,
+            "topics": [
+              "calibration",
+              "classification",
+              "conformal-prediction",
+              "regression",
+              "uncertainty-calibration",
+              "uncertainty-estimation",
+              "uncertainty-quantification",
+              "uncertainty-visualisation",
+              "venn-abers",
+              "xai"
+            ]
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -488,12 +854,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast implementation of Venn-ABERS probabilistic predictors",
+            "homepage": null,
             "id": 95372917,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2024-02-15T19:55:59Z",
+            "open_issues": 2,
             "owner": "ptocca",
             "repo": "VennABERS",
-            "stars": 78
+            "stars": 78,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -504,12 +875,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Implementation for Stankevičiūtė et al. \"Conformal time-series forecasting\", NeurIPS 2021.",
+            "homepage": null,
             "id": 364963667,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2024-11-07T18:17:10Z",
+            "open_issues": 2,
             "owner": "kamilest",
             "repo": "conformal-rnn",
-            "stars": 78
+            "stars": 78,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -520,12 +896,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Conformal Anomaly Detection & Change-Point Detection",
+            "homepage": "https://oliverhennhoefer.github.io/nonconform/",
             "id": 780814119,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-27T15:14:27Z",
+            "open_issues": 1,
             "owner": "OliverHennhoefer",
             "repo": "nonconform",
-            "stars": 57
+            "stars": 57,
+            "topics": [
+              "anomaly-detection",
+              "change-point-detection",
+              "conformal-anomaly-detection",
+              "exchangeability",
+              "false-discovery-rate",
+              "martingale",
+              "outlier-detection",
+              "uncertainty-quantification"
+            ]
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -536,12 +926,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Causal Impact but with MFLES and conformal prediction intervals",
+            "homepage": null,
             "id": 755596946,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-12-31T16:17:06Z",
+            "open_issues": 0,
             "owner": "tblume1992",
             "repo": "ConformalImpact",
-            "stars": 33
+            "stars": 33,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -552,12 +947,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for paper \"Copula-based conformal prediction for Multi-Target Regression\"",
+            "homepage": null,
             "id": 353773028,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-04-01T17:18:58Z",
+            "open_issues": 2,
             "owner": "M-Soundouss",
             "repo": "CopulaConformalMTR",
-            "stars": 33
+            "stars": 33,
+            "topics": [
+              "conformal-prediction",
+              "copulas",
+              "multi-target-regression"
+            ]
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -568,12 +972,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unofficial implementation of Conformal Language Modeling by Quach et al",
+            "homepage": null,
             "id": 663711358,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-07-15T14:00:04Z",
+            "open_issues": 2,
             "owner": "Bradley-Butcher",
             "repo": "Conformers",
-            "stars": 29
+            "stars": 29,
+            "topics": [
+              "alignment",
+              "conformal-prediction",
+              "language-model",
+              "transformers"
+            ]
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -584,12 +998,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Conformal Prediction-Based Global and Model Agnostic Explainability for Classification tasks.",
+            "homepage": "https://link.springer.com/chapter/10.1007/978-3-031-63800-8_14",
             "id": 785362211,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2025-02-06T10:46:04Z",
+            "open_issues": 1,
             "owner": "rabia174",
             "repo": "ConformaSight",
-            "stars": 27
+            "stars": 27,
+            "topics": [
+              "explainability",
+              "transparent-ai",
+              "trustworthy-ai"
+            ]
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -600,12 +1023,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An introduction to conformal prediction",
+            "homepage": null,
             "id": 720801487,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2024-01-31T14:58:24Z",
+            "open_issues": 0,
             "owner": "pyladiesams",
             "repo": "conformal-prediction-jan2024",
-            "stars": 27
+            "stars": 27,
+            "topics": [
+              "conformal-prediction",
+              "forecasting",
+              "python"
+            ]
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -616,12 +1048,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Extension of crepes package, to enable weighted conformal prediction and conformal predictive systems that can handle covariate shifts.",
+            "homepage": null,
             "id": 784728433,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2025-02-18T14:26:51Z",
+            "open_issues": 0,
             "owner": "predict-idlab",
             "repo": "crepes-weighted",
-            "stars": 26
+            "stars": 26,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -632,12 +1069,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lightweight Python package for generating classification intervals in binary classification tasks using Pearson residuals and conformal prediction",
+            "homepage": null,
             "id": 934330061,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-02-20T01:55:22Z",
+            "open_issues": 0,
             "owner": "xRiskLab",
             "repo": "pearsonify",
-            "stars": 26
+            "stars": 26,
+            "topics": [
+              "classification",
+              "machine-learning",
+              "python"
+            ]
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -648,12 +1094,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Python Package for Probabilistic Prediction",
+            "homepage": "https://pysloth.readthedocs.io/",
             "id": 350656313,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2021-04-18T11:59:12Z",
+            "open_issues": 3,
             "owner": "PySloth",
             "repo": "pysloth",
-            "stars": 22
+            "stars": 22,
+            "topics": [
+              "data-analysis",
+              "data-science",
+              "machine-learning",
+              "python",
+              "statistics"
+            ]
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -664,12 +1121,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code related to different aspects of conformal learning",
+            "homepage": null,
             "id": 437951137,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2025-01-28T20:12:44Z",
+            "open_issues": 0,
             "owner": "marharyta-aleksandrova",
             "repo": "conformal-learning",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -680,12 +1142,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Repo that groups utility functions for e.g. plotting of Conformal prediction metrics",
+            "homepage": null,
             "id": 267549494,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2024-02-02T12:19:38Z",
+            "open_issues": 0,
             "owner": "pharmbio",
             "repo": "plot_utils",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -696,12 +1163,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Conformal Prediction library for Orange3",
+            "homepage": null,
             "id": 80833241,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2019-05-24T07:41:10Z",
+            "open_issues": 0,
             "owner": "biolab",
             "repo": "orange3-conformal",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -712,12 +1184,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Conformal Prediction for Digital Soil Mapping",
+            "homepage": null,
             "id": 702879769,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2024-01-23T10:31:35Z",
+            "open_issues": 0,
             "owner": "nafisehkakhani",
             "repo": "Conformal_Prediction_DSM",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "conformal-prediction",
+              "remote-sensing",
+              "soil-science",
+              "uncertainty-quantification"
+            ]
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -728,12 +1210,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "HyperConformal brings calibrated uncertainty quantification to hyperdimensional computing (HDC). This is the first library combining HDC's ultra-efficient binary/complex vector operations with conformal prediction's statistical guarantees—perfect for ultra-low-power MCUs where traditional neural networks' softmax computations are too expensive.",
+            "homepage": null,
             "id": 1031444103,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-03-19T04:49:42Z",
+            "open_issues": 0,
             "owner": "danieleschmidt",
             "repo": "HyperConformal",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -744,12 +1231,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official Implementation of \"Predictive Inference with (Fast) Feature Conformal Prediction\"",
+            "homepage": null,
             "id": 1138784446,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-01-23T06:24:28Z",
+            "open_issues": 0,
             "owner": "ElvisWang1111",
             "repo": "F-F-CP",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         }
@@ -766,12 +1258,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Modeltime unlocks time series forecast models and machine learning in one framework",
+            "homepage": "https://business-science.github.io/modeltime/",
             "id": 256504051,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2026-01-30T19:48:54Z",
+            "open_issues": 61,
             "owner": "business-science",
             "repo": "modeltime",
-            "stars": 582
+            "stars": 582,
+            "topics": [
+              "arima",
+              "data-science",
+              "deep-learning",
+              "ets",
+              "forecasting",
+              "machine-learning",
+              "machine-learning-algorithms",
+              "modeltime",
+              "prophet",
+              "r-package",
+              "tbats",
+              "tidymodeling",
+              "tidymodels",
+              "time",
+              "time-series",
+              "time-series-analysis",
+              "timeseries",
+              "timeseries-forecasting"
+            ]
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -782,12 +1298,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tools for conformal inference in regression",
+            "homepage": null,
             "id": 54260514,
             "language": "R",
+            "license": "GPL-2.0",
             "last_commit": "2024-08-21T13:04:09Z",
+            "open_issues": 13,
             "owner": "ryantibs",
             "repo": "conformal",
-            "stars": 253
+            "stars": 253,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -798,12 +1319,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Methods and tools for multistep-ahead time series conformal prediction.",
+            "homepage": "https://xqnwang.github.io/conformalForecast/",
             "id": 780276716,
             "language": "R",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-08T15:59:38Z",
+            "open_issues": 1,
             "owner": "xqnwang",
             "repo": "conformalForecast",
-            "stars": 43
+            "stars": 43,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -814,12 +1340,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Conformal prediction in R",
+            "homepage": null,
             "id": 24913486,
             "language": "R",
+            "license": null,
             "last_commit": "2019-08-01T10:45:55Z",
+            "open_issues": 3,
             "owner": "isidroc",
             "repo": "conformal",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -830,12 +1361,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Conformal prediction in R",
+            "homepage": null,
             "id": 24913486,
             "language": "R",
+            "license": null,
             "last_commit": "2019-08-01T10:45:55Z",
+            "open_issues": 3,
             "owner": "isidroc",
             "repo": "conformal",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -846,12 +1382,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Conformal Time Series Forecasting Using State of Art Machine Learning Algorithms",
+            "homepage": "https://taf-society.github.io/caretForecast",
             "id": 297356014,
             "language": "R",
+            "license": "GPL-3.0",
             "last_commit": "2026-01-31T15:14:24Z",
+            "open_issues": 1,
             "owner": "taf-society",
             "repo": "caretForecast",
-            "stars": 29
+            "stars": 29,
+            "topics": [
+              "caret",
+              "conformal-prediction",
+              "data-science",
+              "econometrics",
+              "forecast",
+              "forecasting",
+              "forecasting-models",
+              "machine-learning",
+              "macroeconometrics",
+              "microeconometrics",
+              "r",
+              "time-series",
+              "time-series-forcasting",
+              "time-series-prediction"
+            ]
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -862,12 +1418,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Source of tidymodels.org",
+            "homepage": "https://www.tidymodels.org/",
             "id": 584985844,
             "language": "HTML",
+            "license": null,
             "last_commit": "2026-08-28T22:51:44Z",
+            "open_issues": 41,
             "owner": "tidymodels",
             "repo": "tidymodels.org",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -878,12 +1439,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "R package for Adaptive Conformal Inference",
+            "homepage": null,
             "id": 631290205,
             "language": "R",
+            "license": "MIT",
             "last_commit": "2024-06-13T17:10:11Z",
+            "open_issues": 0,
             "owner": "herbps10",
             "repo": "AdaptiveConformal",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -894,12 +1460,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "R package to compute distribution-free prediction bands using density estimators",
+            "homepage": null,
             "id": 214660738,
             "language": "R",
+            "license": null,
             "last_commit": "2021-07-26T18:10:39Z",
+            "open_issues": 2,
             "owner": "rizbicki",
             "repo": "predictionBands",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -910,12 +1481,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "R Package for Spatial Conformal Prediction",
+            "homepage": null,
             "id": 253079017,
             "language": "R",
+            "license": "GPL-3.0",
             "last_commit": "2022-08-06T00:59:27Z",
+            "open_issues": 0,
             "owner": "mhuiying",
             "repo": "scp",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -926,12 +1502,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 464697061,
             "language": "R",
+            "license": null,
             "last_commit": "2022-03-01T16:18:26Z",
+            "open_issues": 0,
             "owner": "LeyingGuan",
             "repo": "LCP",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -942,12 +1523,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Jackknife(+) Predictive Intervals for Bayesian Models",
+            "homepage": "http://corymccartan.com/conformalbayes/",
             "id": 463707674,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2025-07-25T03:16:19Z",
+            "open_issues": 0,
             "owner": "CoryMcCartan",
             "repo": "conformalbayes",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "bayesian",
+              "conformal-prediction",
+              "prediction",
+              "r"
+            ]
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -958,12 +1549,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "conformal prediction for generalized linear regression models",
+            "homepage": null,
             "id": 154151208,
             "language": "TeX",
+            "license": null,
             "last_commit": "2019-12-05T20:25:08Z",
+            "open_issues": 0,
             "owner": "DEck13",
             "repo": "conformal.glm",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -974,12 +1570,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Model agnostic prediction intervals",
+            "homepage": null,
             "id": 820522015,
             "language": "R",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-25T08:22:49Z",
+            "open_issues": 0,
             "owner": "Doktorandahl",
             "repo": "pintervals",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -990,12 +1591,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "implements multiple prediction interval methods for random forests",
+            "homepage": null,
             "id": 238091667,
             "language": "R",
+            "license": null,
             "last_commit": "2025-04-10T01:11:47Z",
+            "open_issues": 1,
             "owner": "chancejohnstone",
             "repo": "piRF",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -1006,12 +1612,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Conformal inference prediction regions for Multiple Functional response regression",
+            "homepage": null,
             "id": 450849534,
             "language": "R",
+            "license": "GPL-2.0",
             "last_commit": "2025-04-07T09:05:52Z",
+            "open_issues": 2,
             "owner": "paolo-vergo",
             "repo": "conformal-fd",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -1022,12 +1633,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Online Time Series Anomaly Detectors",
+            "homepage": null,
             "id": 438634657,
             "language": null,
+            "license": null,
             "last_commit": "2021-09-24T09:18:05Z",
+            "open_issues": 0,
             "owner": "valeman",
             "repo": "otsad",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         }
@@ -1044,12 +1660,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Predictive Uncertainty Quantification through Conformal Prediction for Machine Learning models trained in MLJ.",
+            "homepage": "https://www.taija.org/ConformalPrediction.jl/",
             "id": 541479870,
             "language": "Julia",
+            "license": "MIT",
             "last_commit": "2026-02-17T09:21:07Z",
+            "open_issues": 24,
             "owner": "JuliaTrustworthyAI",
             "repo": "ConformalPrediction.jl",
-            "stars": 148
+            "stars": 148,
+            "topics": [
+              "conformal-prediction",
+              "julia",
+              "machine-learning",
+              "predictive-uncertainty"
+            ]
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -1060,12 +1686,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Julia package for postprocessing point predictions into probabilistic forecasts",
+            "homepage": "https://lipiecki.github.io/PostForecasts.jl/",
             "id": 904442172,
             "language": "Julia",
+            "license": "MIT",
             "last_commit": "2026-08-26T13:17:35Z",
+            "open_issues": 0,
             "owner": "lipiecki",
             "repo": "PostForecasts.jl",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -1076,12 +1707,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Julia implementation of random forests for classification and regression with conformal prediction",
+            "homepage": null,
             "id": 29523798,
             "language": "Julia",
+            "license": "NOASSERTION",
             "last_commit": "2018-04-11T21:54:45Z",
+            "open_issues": 0,
             "owner": "henrikbostrom",
             "repo": "RandomForest",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         }
@@ -1098,12 +1734,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Conformal Prediction in Scala",
+            "homepage": null,
             "id": 90966701,
             "language": "Scala",
+            "license": "Apache-2.0",
             "last_commit": "2020-10-13T02:10:13Z",
+            "open_issues": 2,
             "owner": "mcapuccini",
             "repo": "scala-cp",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -1114,12 +1755,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LibCP -- A Library for Conformal Prediction",
+            "homepage": null,
             "id": 25892766,
             "language": "C++",
+            "license": "GPL-2.0",
             "last_commit": "2015-02-26T20:39:58Z",
+            "open_issues": 1,
             "owner": "fated",
             "repo": "libcp",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -1130,12 +1776,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Implementation of Venn-ABERS predictor",
+            "homepage": null,
             "id": 25825902,
             "language": "C++",
+            "license": "GPL-2.0",
             "last_commit": "2014-10-28T20:19:09Z",
+            "open_issues": 1,
             "owner": "fated",
             "repo": "venn-abers-predictor",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -1146,12 +1797,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LibVM -- A Library for Venn Machine",
+            "homepage": null,
             "id": 19387883,
             "language": "C++",
+            "license": "GPL-2.0",
             "last_commit": "2015-02-27T23:18:13Z",
+            "open_issues": 0,
             "owner": "fated",
             "repo": "libvm",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         }
@@ -1168,12 +1824,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "👋 Puncc is a python library for predictive uncertainty quantification using conformal prediction.",
+            "homepage": "https://deel-ai.github.io/puncc/",
             "id": 515914540,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-24T09:36:22Z",
+            "open_issues": 2,
             "owner": "deel-ai",
             "repo": "puncc",
-            "stars": 403
+            "stars": 403,
+            "topics": [
+              "conformal-inference",
+              "conformal-prediction",
+              "conformal-regressors",
+              "uncertainty-estimation",
+              "uncertainty-quantification"
+            ]
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -1184,12 +1851,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Conformalized Quantile Regression",
+            "homepage": "https://sites.google.com/view/cqr",
             "id": 180909014,
             "language": "Jupyter Notebook",
+            "license": "NOASSERTION",
             "last_commit": "2026-02-02T15:12:18Z",
+            "open_issues": 4,
             "owner": "yromano",
             "repo": "cqr",
-            "stars": 314
+            "stars": 314,
+            "topics": [
+              "algorithmic-fairness",
+              "conformal-methods",
+              "conformal-prediction",
+              "deep-learning",
+              "fairness",
+              "prediction",
+              "prediction-intervals",
+              "pytorch",
+              "quantile-regression",
+              "random-forest",
+              "random-forest-regression"
+            ]
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -1200,12 +1884,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A package for statistically rigorous scientific discovery using machine learning. Implements prediction-powered inference.",
+            "homepage": null,
             "id": 682380805,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-04-10T06:03:09Z",
+            "open_issues": 7,
             "owner": "aangelopoulos",
             "repo": "ppi_py",
-            "stars": 299
+            "stars": 299,
+            "topics": [
+              "confidence-interval",
+              "confidence-intervals",
+              "inference",
+              "machine-learning",
+              "p-value",
+              "p-values",
+              "statistical-analysis",
+              "statistical-inference",
+              "statistics"
+            ]
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -1216,12 +1915,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Conformal prediction for time-series applications.",
+            "homepage": null,
             "id": 635509131,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2023-11-30T19:44:20Z",
+            "open_issues": 1,
             "owner": "aangelopoulos",
             "repo": "conformal-time-series",
-            "stars": 144
+            "stars": 144,
+            "topics": [
+              "conformal",
+              "conformal-prediction",
+              "control",
+              "control-systems",
+              "control-theory",
+              "controls",
+              "time-series",
+              "time-series-analysis",
+              "uncertainty",
+              "uncertainty-quantification"
+            ]
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -1232,12 +1947,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official Implementation for the \"Conffusion: Confidence Intervals for Diffusion Models\" paper.",
+            "homepage": "https://horwitz.ai/conffusion/",
             "id": 567179083,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-11-27T19:11:26Z",
+            "open_issues": 0,
             "owner": "eliahuhorwitz",
             "repo": "Conffusion",
-            "stars": 143
+            "stars": 143,
+            "topics": [
+              "computer-vision",
+              "conformal-prediction",
+              "deep-learning",
+              "diffusion",
+              "diffusion-models",
+              "generative-model",
+              "image-generation",
+              "image-to-image",
+              "inpainting",
+              "prediction-intervals",
+              "pytorch",
+              "quantile-regression",
+              "super-resolution",
+              "uncertainty-estimation",
+              "uncertainty-quantification"
+            ]
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -1248,12 +1984,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Valid and adaptive prediction intervals for probabilistic time series forecasting.",
+            "homepage": "https://arxiv.org/abs/2202.08756",
             "id": 457991247,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2025-03-15T19:22:16Z",
+            "open_issues": 3,
             "owner": "FilippoMB",
             "repo": "Ensemble-Conformalized-Quantile-Regression",
-            "stars": 104
+            "stars": 104,
+            "topics": [
+              "conformal-prediction",
+              "ensemble-machine-learning",
+              "frequentist-statistics",
+              "frequentistic-confidence-intervals",
+              "prediction-intervals",
+              "probabilistic-forecasting",
+              "quantile-regression",
+              "random-forest",
+              "recurrent-neural-networks",
+              "time-series-forecasting",
+              "time-series-prediction",
+              "uncertainty-quantification"
+            ]
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -1264,12 +2018,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Library for Conformal Hyperparameter Tuning",
+            "homepage": "https://confopt.readthedocs.io",
             "id": 729633680,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-11-24T00:36:54Z",
+            "open_issues": 0,
             "owner": "rick12000",
             "repo": "confopt",
-            "stars": 104
+            "stars": 104,
+            "topics": [
+              "automl",
+              "conformal-prediction",
+              "hyperparameter-optimization",
+              "hyperparameter-tuning",
+              "inferential-statistics",
+              "machine-learning",
+              "predictive-modeling"
+            ]
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -1280,12 +2047,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Uncertainty Quantification over Graph with Conformalized Graph Neural Networks (NeurIPS 2023)",
+            "homepage": null,
             "id": 686734041,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-09-27T00:58:55Z",
+            "open_issues": 0,
             "owner": "snap-stanford",
             "repo": "conformalized-gnn",
-            "stars": 87
+            "stars": 87,
+            "topics": [
+              "calibration",
+              "conformal-prediction",
+              "gnn",
+              "graph",
+              "graph-neural-networks",
+              "uncertainty-quantification"
+            ]
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -1296,12 +2075,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Calibrated Explanations is an explanation method for uncertainty-aware explanations of classification and regression models.",
+            "homepage": "calibrated-explanations-demo.ju.se",
             "id": 634794673,
             "language": "Jupyter Notebook",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-17T22:43:24Z",
+            "open_issues": 12,
             "owner": "Moffran",
             "repo": "calibrated_explanations",
-            "stars": 79
+            "stars": 79,
+            "topics": [
+              "calibration",
+              "classification",
+              "conformal-prediction",
+              "regression",
+              "uncertainty-calibration",
+              "uncertainty-estimation",
+              "uncertainty-quantification",
+              "uncertainty-visualisation",
+              "venn-abers",
+              "xai"
+            ]
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -1312,12 +2107,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A package for conformal prediction with conditional guarantees.",
+            "homepage": null,
             "id": 573189321,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2025-10-07T18:34:52Z",
+            "open_issues": 3,
             "owner": "jjcherian",
             "repo": "conditional-conformal",
-            "stars": 71
+            "stars": 71,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -1328,12 +2128,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Machine learning accelerated docking screens",
+            "homepage": null,
             "id": 639127995,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-01-20T09:05:54Z",
+            "open_issues": 3,
             "owner": "Carlssonlab",
             "repo": "conformalpredictor",
-            "stars": 70
+            "stars": 70,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -1344,12 +2149,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Extending Conformal Prediction to LLMs",
+            "homepage": null,
             "id": 640064851,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2024-06-21T17:13:50Z",
+            "open_issues": 2,
             "owner": "bhaweshiitk",
             "repo": "ConformalLLM",
-            "stars": 69
+            "stars": 69,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -1360,12 +2170,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Extending Conformal Prediction to LLMs",
+            "homepage": null,
             "id": 640064851,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2024-06-21T17:13:50Z",
+            "open_issues": 2,
             "owner": "bhaweshiitk",
             "repo": "ConformalLLM",
-            "stars": 69
+            "stars": 69,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -1376,12 +2191,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Extending Conformal Prediction to LLMs",
+            "homepage": null,
             "id": 640064851,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2024-06-21T17:13:50Z",
+            "open_issues": 2,
             "owner": "bhaweshiitk",
             "repo": "ConformalLLM",
-            "stars": 69
+            "stars": 69,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -1392,12 +2212,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ NeurIPS 2023 ] Official Codebase for \"Conformal Meta-learners for Predictive Inference of Individual Treatment Effects\"",
+            "homepage": "https://proceedings.neurips.cc/paper_files/paper/2023/file/94ab02a30b0e4a692a42ccd0b4c55399-Paper-Conference.pdf",
             "id": 686648785,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-10-19T17:49:24Z",
+            "open_issues": 0,
             "owner": "AlaaLab",
             "repo": "conformal-metalearners",
-            "stars": 48
+            "stars": 48,
+            "topics": [
+              "causal-effects",
+              "conformal-prediction",
+              "predictive-inference",
+              "treatment-effect-estimation",
+              "uncertainty-estimation"
+            ]
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -1408,12 +2239,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TISSUE (Transcript Imputation with Spatial Single-cell Uncertainty Estimation) provides tools for estimating well-calibrated uncertainty measures for gene expression predictions in single-cell spatial transcriptomics datasets and utilizing them in downstream analyses",
+            "homepage": null,
             "id": 620168965,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-03-10T20:30:23Z",
+            "open_issues": 1,
             "owner": "sunericd",
             "repo": "TISSUE",
-            "stars": 45
+            "stars": 45,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -1424,12 +2260,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 502056599,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2022-09-13T22:20:34Z",
+            "open_issues": 0,
             "owner": "Quilograma",
             "repo": "ConformalPredictionTutorial",
-            "stars": 43
+            "stars": 43,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -1440,12 +2281,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The official codebase for Predictive Inference with Feature Conformal Prediction",
+            "homepage": null,
             "id": 621464877,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-04-09T16:20:08Z",
+            "open_issues": 1,
             "owner": "AlvinWen428",
             "repo": "FeatureCP",
-            "stars": 35
+            "stars": 35,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -1456,12 +2302,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for paper \"Copula-based conformal prediction for Multi-Target Regression\"",
+            "homepage": null,
             "id": 353773028,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-04-01T17:18:58Z",
+            "open_issues": 2,
             "owner": "M-Soundouss",
             "repo": "CopulaConformalMTR",
-            "stars": 33
+            "stars": 33,
+            "topics": [
+              "conformal-prediction",
+              "copulas",
+              "multi-target-regression"
+            ]
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -1472,12 +2327,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Adaptive Conformal Prediction Intervals (ACPI) is a Python package that enhances the Predictive Intervals provided by the split conformal approach by employing a weighting strategy. ",
+            "homepage": null,
             "id": 597229321,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2023-03-23T08:04:32Z",
+            "open_issues": 0,
             "owner": "salimamoukou",
             "repo": "ACPI",
-            "stars": 30
+            "stars": 30,
+            "topics": [
+              "confidence-intervals",
+              "conformal-prediction",
+              "conformal-regressors",
+              "prediction-intervals",
+              "uncertainty-quantification"
+            ]
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -1488,12 +2354,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Adaptive Conformal Prediction Intervals (ACPI) is a Python package that enhances the Predictive Intervals provided by the split conformal approach by employing a weighting strategy. ",
+            "homepage": null,
             "id": 597229321,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2023-03-23T08:04:32Z",
+            "open_issues": 0,
             "owner": "salimamoukou",
             "repo": "ACPI",
-            "stars": 30
+            "stars": 30,
+            "topics": [
+              "confidence-intervals",
+              "conformal-prediction",
+              "conformal-regressors",
+              "prediction-intervals",
+              "uncertainty-quantification"
+            ]
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -1504,12 +2381,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bayesian optimization with conformal coverage guarantees",
+            "homepage": null,
             "id": 475214251,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2022-10-28T18:06:22Z",
+            "open_issues": 1,
             "owner": "samuelstanton",
             "repo": "conformal-bayesopt",
-            "stars": 29
+            "stars": 29,
+            "topics": [
+              "bayesian-optimization",
+              "conformal-prediction"
+            ]
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -1520,12 +2405,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "All the material needed to use MC-CP and the Adaptive MC Dropout method",
+            "homepage": "https://daniel-bethell.co.uk/posts/mccp/",
             "id": 673425616,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2025-05-22T10:20:37Z",
+            "open_issues": 0,
             "owner": "team-daniel",
             "repo": "MC-CP",
-            "stars": 29
+            "stars": 29,
+            "topics": [
+              "conformal-prediction",
+              "monte-carlo-dropout",
+              "uncertainty-quantification"
+            ]
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -1536,12 +2430,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for multistep feedback covariate shift conformal prediction experiments in \"Conformal Validity Guarantees Exist for Any Data Distribution (and How to Find Them)\" (ICML 2024)",
+            "homepage": null,
             "id": 797429238,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2024-06-28T20:56:31Z",
+            "open_issues": 0,
             "owner": "drewprinster",
             "repo": "conformal-mfcs",
-            "stars": 29
+            "stars": 29,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -1552,12 +2451,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPRW 2024] Conformal prediction for uncertainty quantification in image segmentation",
+            "homepage": "https://arxiv.org/abs/2405.05145",
             "id": 781871606,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-12-09T15:26:05Z",
+            "open_issues": 0,
             "owner": "deel-ai-papers",
             "repo": "conformal-segmentation",
-            "stars": 27
+            "stars": 27,
+            "topics": [
+              "conformal-prediction",
+              "semantic-segmentation",
+              "uncertainty-quantification"
+            ]
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -1568,12 +2476,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python implementation for Bellman Conformal Inference algorithm for time series forecasting. ",
+            "homepage": "https://arxiv.org/pdf/2402.05203.pdf",
             "id": 750647602,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2024-02-09T07:29:52Z",
+            "open_issues": 0,
             "owner": "ZitongYang",
             "repo": "bellman-conformal-inference",
-            "stars": 26
+            "stars": 26,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -1584,12 +2497,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Extension of crepes package, to enable weighted conformal prediction and conformal predictive systems that can handle covariate shifts.",
+            "homepage": null,
             "id": 784728433,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2025-02-18T14:26:51Z",
+            "open_issues": 0,
             "owner": "predict-idlab",
             "repo": "crepes-weighted",
-            "stars": 26
+            "stars": 26,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -1600,12 +2518,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official Code of \"Error-quantified Conformal Inference for Time Series\", ICLR 2025",
+            "homepage": null,
             "id": 925936566,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-02-02T06:09:23Z",
+            "open_issues": 0,
             "owner": "creator-xi",
             "repo": "Error-quantified-Conformal-Inference",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -1616,12 +2539,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for the AISTATS 2024 Paper \"From Data Imputation to Data Cleaning - Automated Cleaning of Tabular Data Improves Downstream Predictive Performance\"",
+            "homepage": null,
             "id": 754166309,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-02-14T10:39:08Z",
+            "open_issues": 0,
             "owner": "se-jaeger",
             "repo": "conformal-data-cleaning",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -1632,12 +2560,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 704918539,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-04-13T23:14:07Z",
+            "open_issues": 1,
             "owner": "EtashGuha",
             "repo": "R2CCP",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -1648,12 +2581,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official implementation of \"Conformal prediction for multi-dimensional time series by ellipsoidal sets\" (ICML 2024 spotlight)",
+            "homepage": null,
             "id": 768160430,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2024-07-16T00:31:00Z",
+            "open_issues": 0,
             "owner": "hamrel-cxu",
             "repo": "MultiDimSPCI",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -1664,12 +2602,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is the repository for the CONFLARE (CONformal LArge language model REtrieval) Python package. ",
+            "homepage": null,
             "id": 781049610,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-04-19T08:05:41Z",
+            "open_issues": 0,
             "owner": "Mayo-Radiology-Informatics-Lab",
             "repo": "conflare",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -1680,12 +2623,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR'25] Conformal prediction for vision-language models. Enhancing VLMs deployment with reliability gurarantees.",
+            "homepage": "https://jusiro.github.io/projects/confot",
             "id": 953094882,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-06-07T21:50:35Z",
+            "open_issues": 0,
             "owner": "jusiro",
             "repo": "CLIP-Conformal",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "clip",
+              "conformal-prediction",
+              "image-classification",
+              "reliability",
+              "trustworthy-ai",
+              "vision-language-model",
+              "zero-shot"
+            ]
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -1696,12 +2652,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Efficient Conformal Prediction via Cascaded Inference with Expanded Admission",
+            "homepage": null,
             "id": 271166072,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-09-15T19:47:29Z",
+            "open_issues": 0,
             "owner": "ajfisch",
             "repo": "conformal-cascades",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -1712,12 +2673,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 556359789,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2025-04-07T22:27:53Z",
+            "open_issues": 0,
             "owner": "isgibbs",
             "repo": "DtACI",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -1728,12 +2694,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vector Quantile Regression",
+            "homepage": null,
             "id": 381466646,
             "language": "Python",
+            "license": "LGPL-3.0",
             "last_commit": "2025-04-03T12:58:03Z",
+            "open_issues": 5,
             "owner": "vistalab-technion",
             "repo": "vqr",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -1744,12 +2715,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Transformer Conformal Prediction for Time Series",
+            "homepage": null,
             "id": 817899787,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-04-13T20:54:50Z",
+            "open_issues": 0,
             "owner": "Jayaos",
             "repo": "TCPTS",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -1760,12 +2736,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 917862788,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-03-27T18:35:29Z",
+            "open_issues": 0,
             "owner": "complex-ai-lab",
             "repo": "ncc",
-            "stars": 19
+            "stars": 19,
+            "topics": [
+              "conformal-prediction",
+              "time-series"
+            ]
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -1776,12 +2760,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 396063111,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-08-22T15:31:33Z",
+            "open_issues": 0,
             "owner": "jv-rv",
             "repo": "split-conformal-nonexchangeable",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -1792,12 +2781,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A repository for reproducing the results in Selection by Prediction paper",
+            "homepage": null,
             "id": 545255620,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-11-02T20:15:19Z",
+            "open_issues": 0,
             "owner": "ying531",
             "repo": "selcf_paper",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "conformal-prediction",
+              "replication-materials",
+              "selective-inference",
+              "uncertainty-quantification"
+            ]
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -1808,12 +2807,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "\"How to Trust Your Diffusion Models: A Convex Optimization Approach to Conformal Risk Control\"",
+            "homepage": "https://arxiv.org/abs/2302.03791",
             "id": 598757228,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-01-06T13:30:45Z",
+            "open_issues": 2,
             "owner": "Sulam-Group",
             "repo": "k-rcps",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -1824,12 +2828,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SSCP: Improving Adaptive Conformal Prediction Using Self-supervised Learning (AISTATS 2023)",
+            "homepage": null,
             "id": 601146041,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2023-03-08T11:25:30Z",
+            "open_issues": 0,
             "owner": "seedatnabeel",
             "repo": "SSCP",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "conformal-prediction",
+              "deep-learning",
+              "machine-learning",
+              "self-supervised-learning",
+              "uncertainty-quantification"
+            ]
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -1840,12 +2855,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "\"How to Trust Your Diffusion Models: A Convex Optimization Approach to Conformal Risk Control\"",
+            "homepage": "https://arxiv.org/abs/2302.03791",
             "id": 598757228,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-01-06T13:30:45Z",
+            "open_issues": 2,
             "owner": "Sulam-Group",
             "repo": "k-rcps",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -1856,12 +2876,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 737269822,
             "language": "R",
+            "license": null,
             "last_commit": "2025-03-12T08:07:53Z",
+            "open_issues": 0,
             "owner": "ctanujit",
             "repo": "FEWNet",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -1872,12 +2897,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Conformal Locally Valid interval-Estimates for Regression",
+            "homepage": null,
             "id": 503504583,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2024-09-27T20:04:48Z",
+            "open_issues": 0,
             "owner": "Monoxido45",
             "repo": "clover",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -1888,12 +2918,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official Code for the ICCPS 2023 conference paper (nominated for best paper award) and ICML 2022 PODS workshop paper.",
+            "homepage": null,
             "id": 431312347,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-11-15T18:52:22Z",
+            "open_issues": 0,
             "owner": "kaustubhsridhar",
             "repo": "time-series-OOD",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -1904,12 +2939,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 515769826,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-05-05T16:33:46Z",
+            "open_issues": 0,
             "owner": "Quilograma",
             "repo": "AEnbMIMOCQR",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -1920,12 +2960,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICML'24] Conformal Prediction for Deep Classifier via Label Ranking ",
+            "homepage": null,
             "id": 704119343,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-06-14T09:40:18Z",
+            "open_issues": 1,
             "owner": "ml-stat-Sustech",
             "repo": "conformal_prediction_via_label_ranking",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -1936,12 +2981,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 720270672,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-03-03T15:30:23Z",
+            "open_issues": 0,
             "owner": "luo-lorry",
             "repo": "conformal-load-forecasting",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -1952,12 +3002,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An implementation of Self-Calibrating Conformal Prediction, accepted to Neurips 2024. SC-CP combines Venn-Abers calibration and conformal prediction to deliver calibrated point predictions alongside prediction intervals with finite-sample validity conditional on these predictions.",
+            "homepage": "https://larsvanderlaan.github.io/SelfCalibratingConformal/",
             "id": 747807959,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2026-04-16T16:12:40Z",
+            "open_issues": 0,
             "owner": "Larsvanderlaan",
             "repo": "SelfCalibratingConformal",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "calibration",
+              "conformal-prediction",
+              "isotonic-calibration",
+              "prediction-intervals",
+              "predictive-inference",
+              "uncertainty-quantification",
+              "venn-abers"
+            ]
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -1968,12 +3031,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Repository for the NeurIPS 2023 paper \"Beyond Confidence: Reliable Models Should Also Consider Atypicality\"",
+            "homepage": null,
             "id": 646930747,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-04-21T19:53:05Z",
+            "open_issues": 0,
             "owner": "mertyg",
             "repo": "beyond-confidence-atypicality",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "calibration",
+              "conformal-prediction",
+              "trustworthy-machine-learning",
+              "uncertainty-quantification"
+            ]
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -1984,12 +3057,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "R package to compute distribution-free prediction bands using density estimators",
+            "homepage": null,
             "id": 214660738,
             "language": "R",
+            "license": null,
             "last_commit": "2021-07-26T18:10:39Z",
+            "open_issues": 2,
             "owner": "rizbicki",
             "repo": "predictionBands",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -2000,12 +3078,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation for the paper \"Approximating full conformal prediction at scale via influence functions\"",
+            "homepage": "https://ojs.aaai.org/index.php/AAAI/article/view/25814",
             "id": 454518258,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2024-04-25T15:59:14Z",
+            "open_issues": 0,
             "owner": "cambridge-mlg",
             "repo": "acp",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "conformal-prediction",
+              "machine-learning",
+              "trustworthy-machine-learning",
+              "uncertainty-quantification"
+            ]
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -2016,12 +3104,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TRIAGE: Characterizing and auditing training data for improved regression (NeurIPS 2023)",
+            "homepage": null,
             "id": 703455102,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2024-03-14T14:57:20Z",
+            "open_issues": 1,
             "owner": "seedatnabeel",
             "repo": "TRIAGE",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "data-centric-ai",
+              "data-centric-machine-learning",
+              "reliable-ai",
+              "trustworthy-ai",
+              "trustworthy-machine-learning"
+            ]
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -2032,12 +3131,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Picking good non-conformity scores for spatio-temporal and other data",
+            "homepage": null,
             "id": 655404116,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2026-08-20T12:58:30Z",
+            "open_issues": 0,
             "owner": "nandantumu",
             "repo": "conformal_region_designer",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -2048,12 +3152,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Online conformal inference for multi-step time series forecasting. The conformalForecast R package developed for this work is available on CRAN.",
+            "homepage": null,
             "id": 705489100,
             "language": "TeX",
+            "license": null,
             "last_commit": "2026-02-02T15:57:12Z",
+            "open_issues": 0,
             "owner": "xqnwang",
             "repo": "cpts",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -2064,12 +3173,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official Python implementation for paper: Probabilistic Conformal Prediction Using Conditional Random Samples",
+            "homepage": null,
             "id": 505579242,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2022-07-08T02:38:57Z",
+            "open_issues": 1,
             "owner": "Zhendong-Wang",
             "repo": "Probabilistic-Conformal-Prediction",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -2080,12 +3194,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for the paper \"Quantum Conformal Prediction for Reliable Uncertainty Quantification in Quantum Machine Learning\"",
+            "homepage": null,
             "id": 625730151,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-10-22T20:59:34Z",
+            "open_issues": 0,
             "owner": "kclip",
             "repo": "quantum-CP",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -2096,12 +3215,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kandinsky conformal prediction for image segmentation algorithms",
+            "homepage": null,
             "id": 730762152,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-02-16T14:38:50Z",
+            "open_issues": 0,
             "owner": "NKI-AI",
             "repo": "kandinsky-calibration",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -2112,12 +3236,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 602174678,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-09-26T09:32:27Z",
+            "open_issues": 0,
             "owner": "Kaleidophon",
             "repo": "non-exchangeable-conformal-language-generation",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -2128,12 +3257,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 986880467,
             "language": "R",
+            "license": "MIT",
             "last_commit": "2026-05-12T11:57:43Z",
+            "open_issues": 0,
             "owner": "PrincipatoG",
             "repo": "Conformal-Prediction-for-Hierarchical-Data",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -2144,12 +3278,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This package implements the conformal prediction LPCI algorithm for panel data in a regression setting. ",
+            "homepage": null,
             "id": 918124050,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2026-03-24T00:05:03Z",
+            "open_issues": 5,
             "owner": "EconAIorg",
             "repo": "LPCI",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -2160,12 +3299,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Uncertainty Aware CQR",
+            "homepage": null,
             "id": 649751584,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2025-04-09T04:12:20Z",
+            "open_issues": 0,
             "owner": "rrross",
             "repo": "UACQR",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -2176,12 +3320,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 784176519,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2024-04-10T04:27:44Z",
+            "open_issues": 0,
             "owner": "jborah2",
             "repo": "WaveCatBoost-Time-Series-Model",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -2192,12 +3341,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The project aims at developing a locally-weighted conformal prediction algorithm, which can attain meaningful local coverage guarantees in a model-free manner.",
+            "homepage": null,
             "id": 700923871,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2024-10-01T03:00:15Z",
+            "open_issues": 0,
             "owner": "rohanhore",
             "repo": "RLCP",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -2208,12 +3362,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This package implements the conformal prediction LPCI algorithm for panel data in a regression setting. ",
+            "homepage": null,
             "id": 918124050,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2026-03-24T00:05:03Z",
+            "open_issues": 5,
             "owner": "EconAIorg",
             "repo": "LPCI",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -2224,12 +3383,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Conformalized matrix completion",
+            "homepage": null,
             "id": 633514868,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2023-05-23T22:28:03Z",
+            "open_issues": 0,
             "owner": "yugjerry",
             "repo": "conf-mc",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "conformal-prediction",
+              "distribution-free",
+              "matrix-completion"
+            ]
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -2240,12 +3408,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Application of tree modeling on top of conformal prediction to improve local efficiency",
+            "homepage": null,
             "id": 785368954,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2025-03-01T19:31:03Z",
+            "open_issues": 0,
             "owner": "JungeumKim",
             "repo": "conformal_tree",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -2256,12 +3429,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 822817316,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2024-07-01T22:26:42Z",
+            "open_issues": 0,
             "owner": "shayankiyani98",
             "repo": "CP",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -2272,12 +3450,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "E-Values Expand the Scope of Conformal Prediction",
+            "homepage": "https://arxiv.org/abs/2503.13050",
             "id": 947846478,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2025-03-18T10:34:05Z",
+            "open_issues": 0,
             "owner": "GauthierE",
             "repo": "evalues-expand-cp",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -2288,12 +3471,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reproduction code of 'Fast Conformal Prediction using Conditional Interquantile Intervals'",
+            "homepage": null,
             "id": 1095870941,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-11-13T16:18:30Z",
+            "open_issues": 0,
             "owner": "orince",
             "repo": "CIR",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -2304,12 +3492,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A repository of the code to reproduce numerical results in paper Sensitivity Analysis of Individual Treatment Effects: A Robust Conformal Inference Approach",
+            "homepage": null,
             "id": 425591387,
             "language": "R",
+            "license": null,
             "last_commit": "2021-11-28T18:58:09Z",
+            "open_issues": 0,
             "owner": "ying531",
             "repo": "cfsensitivity_paper",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -2320,12 +3513,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 638607897,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2023-08-15T03:19:48Z",
+            "open_issues": 0,
             "owner": "ahnobari",
             "repo": "AutoSurf",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -2336,12 +3534,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 659174710,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2025-02-03T12:42:23Z",
+            "open_issues": 0,
             "owner": "unisb-bioinf",
             "repo": "Conformal-Drug-Sensitivity-Prediction",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -2352,12 +3555,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rolling Risk Control",
+            "homepage": null,
             "id": 643843494,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2023-07-15T14:30:34Z",
+            "open_issues": 0,
             "owner": "Shai128",
             "repo": "rrc",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -2368,12 +3576,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Conformal Prediction with Localized De-correlation",
+            "homepage": null,
             "id": 403365945,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2022-06-27T07:32:03Z",
+            "open_issues": 0,
             "owner": "aaronhan223",
             "repo": "SLCP",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -2384,12 +3597,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is the source code for the paper \"Wasserstein-Regularized Conformal Prediction under General Distribution Shift\"",
+            "homepage": "https://iclr.cc/virtual/2025/poster/29180",
             "id": 927461161,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-06-04T01:46:05Z",
+            "open_issues": 0,
             "owner": "rxu0112",
             "repo": "WR-CP",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -2400,12 +3618,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Conformalized Fairness via Quantile Regression (Neurips 2022)",
+            "homepage": null,
             "id": 545637660,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2023-07-11T19:16:53Z",
+            "open_issues": 0,
             "owner": "Lei-Ding07",
             "repo": "Conformal_Quantile_Fairness",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -2416,12 +3639,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code and experimental details for JAWS-X",
+            "homepage": null,
             "id": 641783139,
             "language": "Jupyter Notebook",
+            "license": "GPL-2.0",
             "last_commit": "2024-06-20T17:33:25Z",
+            "open_issues": 0,
             "owner": "drewprinster",
             "repo": "jaws-x",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -2432,12 +3660,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 700529262,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-05-01T00:30:17Z",
+            "open_issues": 0,
             "owner": "Guneet-Dhillon",
             "repo": "expected-conformal-prediction-set-size",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -2448,12 +3681,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ACM CHI'24 Paper titled \"Evaluating the Utility of Conformal Prediction Sets for AI-Advised Image Labeling\"",
+            "homepage": null,
             "id": 790982685,
             "language": "HTML",
+            "license": null,
             "last_commit": "2024-05-02T21:08:03Z",
+            "open_issues": 0,
             "owner": "dpzhang",
             "repo": "conformal-prediction-utility",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -2464,12 +3702,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 826366010,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-07-09T15:24:02Z",
+            "open_issues": 0,
             "owner": "jwen307",
             "repo": "TaskUQ",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -2480,12 +3723,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 826366010,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-07-09T15:24:02Z",
+            "open_issues": 0,
             "owner": "jwen307",
             "repo": "TaskUQ",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -2496,12 +3744,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 718727248,
             "language": "Python",
+            "license": "Unlicense",
             "last_commit": "2024-10-30T16:13:08Z",
+            "open_issues": 0,
             "owner": "brandongk-ubco",
             "repo": "conformal-in-the-loop",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -2512,12 +3765,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Conformal Prediction Sets with Limited False Positives",
+            "homepage": null,
             "id": 459325264,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-09-19T17:11:14Z",
+            "open_issues": 0,
             "owner": "ajfisch",
             "repo": "conformal-fp",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -2528,12 +3786,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 464697175,
             "language": "HTML",
+            "license": null,
             "last_commit": "2022-03-01T16:19:13Z",
+            "open_issues": 0,
             "owner": "LeyingGuan",
             "repo": "LCPexperiments",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -2544,12 +3807,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 802439661,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-05-18T09:57:08Z",
+            "open_issues": 0,
             "owner": "benolmbrt",
             "repo": "wcp_miccai",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -2560,12 +3828,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Posterior Conformal Prediction",
+            "homepage": null,
             "id": 859990206,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2024-10-01T06:20:28Z",
+            "open_issues": 0,
             "owner": "yaozhang24",
             "repo": "pcp",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -2576,12 +3849,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "\"'I do not Know! But Why?' -- Local Model-Agnostic Example-based Explanations of Reject\" by André Artelt, Roel Visser and Barbara Hammer",
+            "homepage": null,
             "id": 588462544,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-01-13T07:32:43Z",
+            "open_issues": 0,
             "owner": "HammerLabML",
             "repo": "LocalModelAgnosticExamplebasedExplanationsReject",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -2592,12 +3870,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code and Example for PCP-VCR: Optimizing Probabilistic Conformal Prediction with Vectorized Non-Conformity Scores",
+            "homepage": null,
             "id": 900306234,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2024-12-08T14:00:45Z",
+            "open_issues": 0,
             "owner": "Minxing-Zheng",
             "repo": "PCP-VCR",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -2608,12 +3891,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Confidence intervals for multi-view learning using conformal prediction",
+            "homepage": "https://github.com/an-michaelg/RT4U",
             "id": 753280091,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2025-04-26T09:51:08Z",
+            "open_issues": 0,
             "owner": "an-michaelg",
             "repo": "RT4U",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -2624,12 +3912,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "QTC: Test-time recalibration of conformal predictors under distribution shift based on unlabeled examples",
+            "homepage": null,
             "id": 552575797,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2022-10-29T18:48:56Z",
+            "open_issues": 0,
             "owner": "MLI-lab",
             "repo": "recalibrating_conformal_prediction",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -2640,12 +3933,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repo contains code implementation for Conformalized Interval Arithmetic (CIA), which extends Conformal Prediction's coverage guarantees to the arithmetic operations of variables, such as summation.",
+            "homepage": null,
             "id": 844503982,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-08-21T02:08:57Z",
+            "open_issues": 0,
             "owner": "luo-lorry",
             "repo": "CIA",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -2656,12 +3954,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "implementation of (1) conformal thresholded intervals (CTI), (2) entropy reweighted conformal classification, (3) rank-based conformal prediction (RANK), and (4) conformal inter-quantile regression (CIR)",
+            "homepage": null,
             "id": 831105092,
             "language": "Python",
+            "license": "LGPL-3.0",
             "last_commit": "2025-11-12T02:58:41Z",
+            "open_issues": 0,
             "owner": "luo-lorry",
             "repo": "CTI",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -2672,12 +3975,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repo contains code implementation for Conformalized Interval Arithmetic (CIA), which extends Conformal Prediction's coverage guarantees to the arithmetic operations of variables, such as summation.",
+            "homepage": null,
             "id": 844503982,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-08-21T02:08:57Z",
+            "open_issues": 0,
             "owner": "luo-lorry",
             "repo": "CIA",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -2688,12 +3996,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Companion code for the paper Learning Robot Safety from Sparse Human Feedback using Conformal Prediction.",
+            "homepage": null,
             "id": 883906722,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-02-04T20:56:28Z",
+            "open_issues": 0,
             "owner": "StanfordMSL",
             "repo": "conformal-safety-learning",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -2704,12 +4017,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1013188968,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-07-09T10:19:57Z",
+            "open_issues": 0,
             "owner": "ekimetrics",
             "repo": "ts-genai-conformal",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -2720,12 +4038,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 836738114,
             "language": "R",
+            "license": "MIT",
             "last_commit": "2026-06-09T16:24:53Z",
+            "open_issues": 0,
             "owner": "heltongraziadei",
             "repo": "conformal-fs",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -2736,12 +4059,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Conformal Prediction with Localized De-correlation",
+            "homepage": null,
             "id": 508630875,
             "language": null,
+            "license": "BSD-3-Clause",
             "last_commit": "2022-06-27T07:32:03Z",
+            "open_issues": 0,
             "owner": "valeman",
             "repo": "SLCP",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -2752,12 +4080,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official repository for the ICML 2022 DFUQ paper: conformal prediction sets for time-series",
+            "homepage": null,
             "id": 505222284,
             "language": null,
+            "license": null,
             "last_commit": "2022-06-17T01:47:43Z",
+            "open_issues": 0,
             "owner": "valeman",
             "repo": "Ensemble-Regularized-Adaptive-Prediction-Set-ERAPS",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -2768,12 +4101,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Conformal time series decomposition with component-wise exchangeability",
+            "homepage": "https://arxiv.org/abs/2406.16766",
             "id": 817830754,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-09-01T16:20:27Z",
+            "open_issues": 0,
             "owner": "dweprinz",
             "repo": "CP-TSD",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -2784,12 +4122,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 688408753,
             "language": "R",
+            "license": null,
             "last_commit": "2024-02-29T09:37:35Z",
+            "open_issues": 0,
             "owner": "yujinhanml",
             "repo": "CSForest",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -2800,12 +4143,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official Implementation of \"Accelerating Feature Conformal Prediction via Taylor Approximation\"",
+            "homepage": null,
             "id": 846011948,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-10-23T11:12:09Z",
+            "open_issues": 0,
             "owner": "ElvisWang1111",
             "repo": "FastFeatureCP",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -2816,12 +4164,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for enhancing Conformal Prediction using Temperature Scaling. Explore more of our work at:",
+            "homepage": " https://github.com/tirer-lab",
             "id": 989459148,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-06-13T08:51:11Z",
+            "open_issues": 0,
             "owner": "lahavdabah",
             "repo": "TS4CP",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "classification",
+              "confidence-calibration",
+              "conformal-prediction",
+              "icml",
+              "icml-2025",
+              "temperature-scaling",
+              "uncertainty-quantification"
+            ]
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -2832,12 +4193,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 823669144,
             "language": "Jupyter Notebook",
+            "license": "GPL-3.0",
             "last_commit": "2024-07-03T14:29:32Z",
+            "open_issues": 0,
             "owner": "gpmp-dev",
             "repo": "lod2024-conformal",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -2848,12 +4214,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 517288348,
             "language": null,
+            "license": "MIT",
             "last_commit": "2021-03-16T23:26:27Z",
+            "open_issues": 0,
             "owner": "valeman",
             "repo": "cfsurv_paper",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -2864,12 +4235,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "\"Improving Trustworthiness of AI Disease Severity Rating in Medical Imaging with Ordinal Conformal Prediction Sets\" presented at MICCAI 2022",
+            "homepage": null,
             "id": 508346453,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2023-05-28T18:15:51Z",
+            "open_issues": 0,
             "owner": "clu5",
             "repo": "lumbar-conformal",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "conformal-prediction",
+              "machine-learning",
+              "medical-imaging"
+            ]
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -2880,12 +4260,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 586830385,
             "language": null,
+            "license": null,
             "last_commit": "2022-12-15T16:09:41Z",
+            "open_issues": 0,
             "owner": "valeman",
             "repo": "conformal_prediction_in_latent_space",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -2896,12 +4281,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "R code and output associated with \"Design-based conformal prediction,\" Wieczorek (2023), https://www150.statcan.gc.ca/n1/pub/12-001-x/2023002/article/00007-eng.htm",
+            "homepage": null,
             "id": 671394670,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2024-01-17T19:10:44Z",
+            "open_issues": 0,
             "owner": "ColbyStatSvyRsch",
             "repo": "surveyConformal-paper-code",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -2912,12 +4302,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation of Conformal Monte Carlo (CMC) learner",
+            "homepage": "https://arxiv.org/abs/2402.04906",
             "id": 761672679,
             "language": null,
+            "license": "MIT",
             "last_commit": "2024-02-08T10:38:34Z",
+            "open_issues": 0,
             "owner": "valeman",
             "repo": "cmc-learner",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -2928,12 +4323,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 826299994,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2024-08-27T14:55:11Z",
+            "open_issues": 0,
             "owner": "yugjerry",
             "repo": "iso-DRL",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -2944,12 +4344,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 739524521,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2024-01-08T20:02:41Z",
+            "open_issues": 0,
             "owner": "jase-clarkson",
             "repo": "cp_under_data_contamination",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -2960,12 +4365,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 861943265,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2024-09-30T08:27:32Z",
+            "open_issues": 0,
             "owner": "ruijiang81",
             "repo": "adjusting_reg_model",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -2976,12 +4386,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 903664617,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-05-09T16:49:05Z",
+            "open_issues": 0,
             "owner": "CityU-T",
             "repo": "RCP-GNN",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -2992,12 +4407,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Single cell annotator",
+            "homepage": null,
             "id": 914320480,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-07-15T06:27:25Z",
+            "open_issues": 0,
             "owner": "digital-medicine-research-group-UNAV",
             "repo": "conformalized_single_cell_annotator",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -3008,12 +4428,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The provided files implement the method proposed in the paper \"Split conformal classification with unsupervised calibration\"",
+            "homepage": null,
             "id": 1072342284,
             "language": "MATLAB",
+            "license": "MIT",
             "last_commit": "2025-11-24T11:41:30Z",
+            "open_issues": 0,
             "owner": "MachineLearningBCAM",
             "repo": "Unsupervised-conformal-prediction-NeurIPS2025",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -3024,12 +4449,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "code to reproduce results in paper Residual Distribution Predictive Systems",
+            "homepage": null,
             "id": 1085755959,
             "language": "R",
+            "license": null,
             "last_commit": "2026-06-22T10:51:25Z",
+            "open_issues": 0,
             "owner": "sallen12",
             "repo": "RDPS_rep",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -3040,12 +4470,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 741478472,
             "language": null,
+            "license": "MIT",
             "last_commit": "2024-01-07T18:25:53Z",
+            "open_issues": 0,
             "owner": "valeman",
             "repo": "conf_tpp",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -3056,12 +4491,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 918294137,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2025-01-17T16:31:37Z",
+            "open_issues": 0,
             "owner": "CCaribe9",
             "repo": "HQR-WACI",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -3072,12 +4512,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1069043986,
             "language": null,
+            "license": null,
             "last_commit": "2025-02-14T00:21:53Z",
+            "open_issues": 0,
             "owner": "valeman",
             "repo": "LOO-StabCP",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -3088,12 +4533,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository contains the official implementation of the paper \"Colorful Pinball: Density-Weighted Quantile Regression for Conditional Guarantee of Conformal Prediction\".  Authors: Qianyi Chen, Bo Li (Tsinghua University)",
+            "homepage": null,
             "id": 1128897766,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-01-05T14:05:19Z",
+            "open_issues": 0,
             "owner": "valeman",
             "repo": "Colorful-Pinball-Conformal-Prediction-CPCP",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         }
@@ -3110,12 +4560,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Conformal prediction for time-series applications.",
+            "homepage": null,
             "id": 635509131,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2023-11-30T19:44:20Z",
+            "open_issues": 1,
             "owner": "aangelopoulos",
             "repo": "conformal-time-series",
-            "stars": 144
+            "stars": 144,
+            "topics": [
+              "conformal",
+              "conformal-prediction",
+              "control",
+              "control-systems",
+              "control-theory",
+              "controls",
+              "time-series",
+              "time-series-analysis",
+              "uncertainty",
+              "uncertainty-quantification"
+            ]
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -3126,12 +4592,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official code for: Conformal prediction interval for dynamic time-series (conference, ICML 21 Long Presentation) AND Conformal prediction for time-series (journal, IEEE TPAMI)",
+            "homepage": null,
             "id": 377386757,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2023-11-25T15:22:14Z",
+            "open_issues": 2,
             "owner": "hamrel-cxu",
             "repo": "EnbPI",
-            "stars": 134
+            "stars": 134,
+            "topics": [
+              "anomaly-detection",
+              "conformal-prediction",
+              "machine-learning",
+              "prediction",
+              "prediction-interval",
+              "time-series"
+            ]
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -3142,12 +4620,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Methods for online conformal prediction.",
+            "homepage": null,
             "id": 590258321,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2025-05-01T17:30:37Z",
+            "open_issues": 0,
             "owner": "salesforce",
             "repo": "online_conformal",
-            "stars": 117
+            "stars": 117,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -3158,12 +4641,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official implementation of the ICML 2023 work \"Sequential Predictive Conformal Inference\"",
+            "homepage": null,
             "id": 645464885,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2024-07-16T00:31:53Z",
+            "open_issues": 0,
             "owner": "hamrel-cxu",
             "repo": "SPCI-code",
-            "stars": 39
+            "stars": 39,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -3174,12 +4662,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for Copula conformal prediction paper (ICLR 2024)",
+            "homepage": null,
             "id": 760899337,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2026-08-11T07:48:23Z",
+            "open_issues": 1,
             "owner": "Rose-STL-Lab",
             "repo": "CopulaCPTS",
-            "stars": 33
+            "stars": 33,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -3190,12 +4683,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python implementation for Bellman Conformal Inference algorithm for time series forecasting. ",
+            "homepage": "https://arxiv.org/pdf/2402.05203.pdf",
             "id": 750647602,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2024-02-09T07:29:52Z",
+            "open_issues": 0,
             "owner": "ZitongYang",
             "repo": "bellman-conformal-inference",
-            "stars": 26
+            "stars": 26,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -3206,12 +4704,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official Code of \"Error-quantified Conformal Inference for Time Series\", ICLR 2025",
+            "homepage": null,
             "id": 925936566,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-02-02T06:09:23Z",
+            "open_issues": 0,
             "owner": "creator-xi",
             "repo": "Error-quantified-Conformal-Inference",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -3222,12 +4725,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official Code of \"Error-quantified Conformal Inference for Time Series\", ICLR 2025",
+            "homepage": null,
             "id": 925936566,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-02-02T06:09:23Z",
+            "open_issues": 0,
             "owner": "creator-xi",
             "repo": "Error-quantified-Conformal-Inference",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -3238,12 +4746,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official implementation of \"Conformal prediction for multi-dimensional time series by ellipsoidal sets\" (ICML 2024 spotlight)",
+            "homepage": null,
             "id": 768160430,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2024-07-16T00:31:00Z",
+            "open_issues": 0,
             "owner": "hamrel-cxu",
             "repo": "MultiDimSPCI",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -3254,12 +4767,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Transformer Conformal Prediction for Time Series",
+            "homepage": null,
             "id": 817899787,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-04-13T20:54:50Z",
+            "open_issues": 0,
             "owner": "Jayaos",
             "repo": "TCPTS",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -3270,12 +4788,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 917862788,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-03-27T18:35:29Z",
+            "open_issues": 0,
             "owner": "complex-ai-lab",
             "repo": "ncc",
-            "stars": 19
+            "stars": 19,
+            "topics": [
+              "conformal-prediction",
+              "time-series"
+            ]
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -3286,12 +4812,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 396063111,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-08-22T15:31:33Z",
+            "open_issues": 0,
             "owner": "jv-rv",
             "repo": "split-conformal-nonexchangeable",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -3302,12 +4833,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 396063111,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-08-22T15:31:33Z",
+            "open_issues": 0,
             "owner": "jv-rv",
             "repo": "split-conformal-nonexchangeable",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -3318,12 +4854,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official Code for the ICCPS 2023 conference paper (nominated for best paper award) and ICML 2022 PODS workshop paper.",
+            "homepage": null,
             "id": 431312347,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-11-15T18:52:22Z",
+            "open_issues": 0,
             "owner": "kaustubhsridhar",
             "repo": "time-series-OOD",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -3334,12 +4875,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 515769826,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-05-05T16:33:46Z",
+            "open_issues": 0,
             "owner": "Quilograma",
             "repo": "AEnbMIMOCQR",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -3350,12 +4896,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Online conformal inference for multi-step time series forecasting. The conformalForecast R package developed for this work is available on CRAN.",
+            "homepage": null,
             "id": 705489100,
             "language": "TeX",
+            "license": null,
             "last_commit": "2026-02-02T15:57:12Z",
+            "open_issues": 0,
             "owner": "xqnwang",
             "repo": "cpts",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -3366,12 +4917,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 986880467,
             "language": "R",
+            "license": "MIT",
             "last_commit": "2026-05-12T11:57:43Z",
+            "open_issues": 0,
             "owner": "PrincipatoG",
             "repo": "Conformal-Prediction-for-Hierarchical-Data",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -3382,12 +4938,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 986880467,
             "language": "R",
+            "license": "MIT",
             "last_commit": "2026-05-12T11:57:43Z",
+            "open_issues": 0,
             "owner": "PrincipatoG",
             "repo": "Conformal-Prediction-for-Hierarchical-Data",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -3398,12 +4959,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This package implements the conformal prediction LPCI algorithm for panel data in a regression setting. ",
+            "homepage": null,
             "id": 918124050,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2026-03-24T00:05:03Z",
+            "open_issues": 5,
             "owner": "EconAIorg",
             "repo": "LPCI",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -3414,12 +4980,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 919310944,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-01-16T06:40:51Z",
+            "open_issues": 1,
             "owner": "xiannanhuang",
             "repo": "FFDCI",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -3430,12 +5001,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official repository for the ICML 2022 DFUQ paper: conformal prediction sets for time-series",
+            "homepage": null,
             "id": 500186849,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2022-07-26T05:56:36Z",
+            "open_issues": 0,
             "owner": "hamrel-cxu",
             "repo": "Ensemble-Regularized-Adaptive-Prediction-Set-ERAPS",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -3446,12 +5022,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official repository for the ICML 2022 DFUQ paper: conformal prediction sets for time-series",
+            "homepage": null,
             "id": 500186849,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2022-07-26T05:56:36Z",
+            "open_issues": 0,
             "owner": "hamrel-cxu",
             "repo": "Ensemble-Regularized-Adaptive-Prediction-Set-ERAPS",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -3462,12 +5043,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flow-based Conformal Prediction for Multi-dimensional Time Series",
+            "homepage": null,
             "id": 929267111,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-04-17T04:13:44Z",
+            "open_issues": 0,
             "owner": "Jayaos",
             "repo": "flow_cp",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -3478,12 +5064,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1013188968,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-07-09T10:19:57Z",
+            "open_issues": 0,
             "owner": "ekimetrics",
             "repo": "ts-genai-conformal",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -3494,12 +5085,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Conformal time series decomposition with component-wise exchangeability",
+            "homepage": "https://arxiv.org/abs/2406.16766",
             "id": 817830754,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-09-01T16:20:27Z",
+            "open_issues": 0,
             "owner": "dweprinz",
             "repo": "CP-TSD",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -3510,12 +5106,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 741478472,
             "language": null,
+            "license": "MIT",
             "last_commit": "2024-01-07T18:25:53Z",
+            "open_issues": 0,
             "owner": "valeman",
             "repo": "conf_tpp",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -3526,12 +5127,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 918294137,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2025-01-17T16:31:37Z",
+            "open_issues": 0,
             "owner": "CCaribe9",
             "repo": "HQR-WACI",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         }
@@ -3548,12 +5154,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A professionally curated list of awesome Conformal Prediction videos, tutorials, books, papers, PhD and MSc theses, articles and open-source libraries.",
+            "homepage": null,
             "id": 436989758,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2026-08-25T10:44:29Z",
+            "open_issues": 3,
             "owner": "valeman",
             "repo": "awesome-conformal-prediction",
-            "stars": 1294
+            "stars": 1295,
+            "topics": [
+              "ai",
+              "awesome",
+              "awesome-list",
+              "conformal-prediction",
+              "datascience",
+              "deeplearning",
+              "explainable-ai",
+              "machine-learning",
+              "machinelearning",
+              "probability",
+              "probability-distribution",
+              "probability-distributions",
+              "python",
+              "r",
+              "robust-ml",
+              "statistics",
+              "uncertainty",
+              "uncertainty-estimation",
+              "uncertainty-quantification"
+            ]
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -3564,12 +5195,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Msc Thesis turned working paper on the applications of conformal prediction in an HFT setting for better model calibration and uncertainty quantification.",
+            "homepage": null,
             "id": 828312222,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2024-09-05T21:06:39Z",
+            "open_issues": 0,
             "owner": "Fabio-Rossi-Hub",
             "repo": "Conformal-HFT",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -3580,12 +5216,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Conformal prediction applied both to exchangeable and time-series data. Carried out as part of (UB 2023) MSc thesis work.",
+            "homepage": "https://gcastro-98.github.io/conformal-prediction-media/thesis.pdf",
             "id": 794096158,
             "language": "Jupyter Notebook",
+            "license": "AGPL-3.0",
             "last_commit": "2024-06-16T13:09:51Z",
+            "open_issues": 1,
             "owner": "gcastro-98",
             "repo": "conformal-prediction",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -3596,12 +5237,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Master thesis of the full title \"An Active Learning Approach for Reject Inference in Credit Scoring using Conformal Prediction Intervals on Real and Semi-Artificial Data\"",
+            "homepage": null,
             "id": 647682355,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2023-06-02T17:55:27Z",
+            "open_issues": 0,
             "owner": "MaximilianSuliga",
             "repo": "Conformal-Active-Learning-for-Reject-Inference",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -3612,12 +5258,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Master's thesis about Conformal Prediction in Long Memory Processes",
+            "homepage": null,
             "id": 1032540174,
             "language": null,
+            "license": null,
             "last_commit": "2025-08-20T10:52:14Z",
+            "open_issues": 0,
             "owner": "AleCamp",
             "repo": "Master-s-Thesis-on-Conformal-Prediction",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         }
@@ -3626,15 +5277,40 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:58:03.411Z",
+    "last_updated": "2026-08-29T04:31:42.657Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A professionally curated list of awesome Conformal Prediction videos, tutorials, books, papers, PhD and MSc theses, articles and open-source libraries.",
+      "homepage": null,
       "id": 436989758,
       "language": null,
+      "license": "NOASSERTION",
       "last_commit": "2026-08-25T10:44:29Z",
+      "open_issues": 3,
       "owner": "valeman",
       "repo": "awesome-conformal-prediction",
-      "stars": 1294
+      "stars": 1295,
+      "topics": [
+        "ai",
+        "awesome",
+        "awesome-list",
+        "conformal-prediction",
+        "datascience",
+        "deeplearning",
+        "explainable-ai",
+        "machine-learning",
+        "machinelearning",
+        "probability",
+        "probability-distribution",
+        "probability-distributions",
+        "python",
+        "r",
+        "robust-ml",
+        "statistics",
+        "uncertainty",
+        "uncertainty-estimation",
+        "uncertainty-quantification"
+      ]
     },
     "original_repository_sha": "a4c7c433b2bdfe5fba41e8b3639cf1b1c2cbf9d7",
     "enhanced_repository": "enhansome/enhansome-conformal-prediction",
