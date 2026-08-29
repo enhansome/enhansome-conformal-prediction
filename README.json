@@ -16,7 +16,8 @@
             "owner": "aangelopoulos",
             "repo": "conformal-prediction",
             "stars": 1081
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "joneswack",
             "repo": "conformal-predictions-from-scratch",
             "stars": 229
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "BiolApps",
             "repo": "ConformalPrediction",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         }
       ],
       "title": "Conformal Prediction Tutorials"
@@ -67,7 +70,8 @@
             "owner": "dobriban",
             "repo": "Topics-In-Modern-Statistical-Learning",
             "stars": 179
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         }
       ],
       "title": "Conformal Prediction Courses"
@@ -88,7 +92,8 @@
             "owner": "washingtonpost",
             "repo": "elex-live-model",
             "stars": 80
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         }
       ],
       "title": "Articles on Conformal Prediction"
@@ -109,7 +114,8 @@
             "owner": "pyladiesams",
             "repo": "conformal-prediction-jan2024",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -124,7 +130,8 @@
             "owner": "Carl-McBride-Ellis",
             "repo": "talks",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         }
       ],
       "title": "Conformal Prediction Videos and Talks"
@@ -145,7 +152,8 @@
             "owner": "online-ml",
             "repo": "river",
             "stars": 5924
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -159,8 +167,9 @@
             "last_commit": "2026-08-25T10:44:29Z",
             "owner": "valeman",
             "repo": "awesome-conformal-prediction",
-            "stars": 1293
-          }
+            "stars": 1294
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -174,8 +183,9 @@
             "last_commit": "2026-08-25T10:44:29Z",
             "owner": "valeman",
             "repo": "awesome-conformal-prediction",
-            "stars": 1293
-          }
+            "stars": 1294
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         }
       ],
       "title": "Conformal Prediction Presentation Slides"
@@ -196,7 +206,8 @@
             "owner": "online-ml",
             "repo": "river",
             "stars": 5924
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -211,7 +222,8 @@
             "owner": "ourownstory",
             "repo": "neural_prophet",
             "stars": 4295
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -226,7 +238,8 @@
             "owner": "numenta",
             "repo": "NAB",
             "stars": 2103
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -241,7 +254,8 @@
             "owner": "donlnz",
             "repo": "nonconformist",
             "stars": 479
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -256,7 +270,8 @@
             "owner": "ml-stat-Sustech",
             "repo": "TorchCP",
             "stars": 477
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -271,7 +286,8 @@
             "owner": "deel-ai",
             "repo": "puncc",
             "stars": 403
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -286,7 +302,8 @@
             "owner": "deel-ai",
             "repo": "puncc",
             "stars": 403
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -301,7 +318,8 @@
             "owner": "mikekeith52",
             "repo": "scalecast",
             "stars": 354
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -316,7 +334,8 @@
             "owner": "yromano",
             "repo": "cqr",
             "stars": 314
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -331,7 +350,8 @@
             "owner": "joneswack",
             "repo": "conformal-predictions-from-scratch",
             "stars": 229
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -346,7 +366,8 @@
             "owner": "ip200",
             "repo": "venn-abers",
             "stars": 207
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -361,7 +382,8 @@
             "owner": "hamrel-cxu",
             "repo": "EnbPI",
             "stars": 134
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -376,7 +398,8 @@
             "owner": "TorchUQ",
             "repo": "torchuq",
             "stars": 119
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -391,7 +414,8 @@
             "owner": "superlinear-ai",
             "repo": "conformal-tights",
             "stars": 118
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -406,7 +430,8 @@
             "owner": "tblume1992",
             "repo": "MFLES",
             "stars": 114
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -421,7 +446,8 @@
             "owner": "FilippoMB",
             "repo": "Ensemble-Conformalized-Quantile-Regression",
             "stars": 104
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -436,7 +462,8 @@
             "owner": "rick12000",
             "repo": "confopt",
             "stars": 104
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -451,7 +478,8 @@
             "owner": "Moffran",
             "repo": "calibrated_explanations",
             "stars": 79
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -466,7 +494,8 @@
             "owner": "ptocca",
             "repo": "VennABERS",
             "stars": 78
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -481,7 +510,8 @@
             "owner": "kamilest",
             "repo": "conformal-rnn",
             "stars": 78
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -496,7 +526,8 @@
             "owner": "OliverHennhoefer",
             "repo": "nonconform",
             "stars": 57
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -511,7 +542,8 @@
             "owner": "tblume1992",
             "repo": "ConformalImpact",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -526,7 +558,8 @@
             "owner": "M-Soundouss",
             "repo": "CopulaConformalMTR",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -541,7 +574,8 @@
             "owner": "Bradley-Butcher",
             "repo": "Conformers",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -556,7 +590,8 @@
             "owner": "rabia174",
             "repo": "ConformaSight",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -571,7 +606,8 @@
             "owner": "pyladiesams",
             "repo": "conformal-prediction-jan2024",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -586,7 +622,8 @@
             "owner": "predict-idlab",
             "repo": "crepes-weighted",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -601,7 +638,8 @@
             "owner": "xRiskLab",
             "repo": "pearsonify",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -616,7 +654,8 @@
             "owner": "PySloth",
             "repo": "pysloth",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -631,7 +670,8 @@
             "owner": "marharyta-aleksandrova",
             "repo": "conformal-learning",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -646,7 +686,8 @@
             "owner": "pharmbio",
             "repo": "plot_utils",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -661,7 +702,8 @@
             "owner": "biolab",
             "repo": "orange3-conformal",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -676,7 +718,8 @@
             "owner": "nafisehkakhani",
             "repo": "Conformal_Prediction_DSM",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -691,7 +734,8 @@
             "owner": "danieleschmidt",
             "repo": "HyperConformal",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -706,7 +750,8 @@
             "owner": "ElvisWang1111",
             "repo": "F-F-CP",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         }
       ],
       "title": "Conformal Prediction Libraries in Python"
@@ -727,7 +772,8 @@
             "owner": "business-science",
             "repo": "modeltime",
             "stars": 582
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -742,7 +788,8 @@
             "owner": "ryantibs",
             "repo": "conformal",
             "stars": 253
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -757,7 +804,8 @@
             "owner": "xqnwang",
             "repo": "conformalForecast",
             "stars": 43
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -772,7 +820,8 @@
             "owner": "isidroc",
             "repo": "conformal",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -787,7 +836,8 @@
             "owner": "isidroc",
             "repo": "conformal",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -802,7 +852,8 @@
             "owner": "taf-society",
             "repo": "caretForecast",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -813,11 +864,12 @@
             "archived": false,
             "id": 584985844,
             "language": "HTML",
-            "last_commit": "2026-08-25T06:43:38Z",
+            "last_commit": "2026-08-28T22:51:44Z",
             "owner": "tidymodels",
             "repo": "tidymodels.org",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -832,7 +884,8 @@
             "owner": "herbps10",
             "repo": "AdaptiveConformal",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -847,7 +900,8 @@
             "owner": "rizbicki",
             "repo": "predictionBands",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -862,7 +916,8 @@
             "owner": "mhuiying",
             "repo": "scp",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -877,7 +932,8 @@
             "owner": "LeyingGuan",
             "repo": "LCP",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -892,7 +948,8 @@
             "owner": "CoryMcCartan",
             "repo": "conformalbayes",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -907,7 +964,8 @@
             "owner": "DEck13",
             "repo": "conformal.glm",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -922,7 +980,8 @@
             "owner": "Doktorandahl",
             "repo": "pintervals",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -937,7 +996,8 @@
             "owner": "chancejohnstone",
             "repo": "piRF",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -952,7 +1012,8 @@
             "owner": "paolo-vergo",
             "repo": "conformal-fd",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -967,7 +1028,8 @@
             "owner": "valeman",
             "repo": "otsad",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         }
       ],
       "title": "Conformal Prediction Libraries in R"
@@ -988,7 +1050,8 @@
             "owner": "JuliaTrustworthyAI",
             "repo": "ConformalPrediction.jl",
             "stars": 148
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -1003,7 +1066,8 @@
             "owner": "lipiecki",
             "repo": "PostForecasts.jl",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -1018,7 +1082,8 @@
             "owner": "henrikbostrom",
             "repo": "RandomForest",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         }
       ],
       "title": "Conformal Prediction Libraries in Julia"
@@ -1039,7 +1104,8 @@
             "owner": "mcapuccini",
             "repo": "scala-cp",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -1054,7 +1120,8 @@
             "owner": "fated",
             "repo": "libcp",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -1069,7 +1136,8 @@
             "owner": "fated",
             "repo": "venn-abers-predictor",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -1084,7 +1152,8 @@
             "owner": "fated",
             "repo": "libvm",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         }
       ],
       "title": "Conformal Prediction in Other Languages"
@@ -1105,7 +1174,8 @@
             "owner": "deel-ai",
             "repo": "puncc",
             "stars": 403
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -1120,7 +1190,8 @@
             "owner": "yromano",
             "repo": "cqr",
             "stars": 314
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -1134,8 +1205,9 @@
             "last_commit": "2026-04-10T06:03:09Z",
             "owner": "aangelopoulos",
             "repo": "ppi_py",
-            "stars": 298
-          }
+            "stars": 299
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -1150,7 +1222,8 @@
             "owner": "aangelopoulos",
             "repo": "conformal-time-series",
             "stars": 144
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -1165,7 +1238,8 @@
             "owner": "eliahuhorwitz",
             "repo": "Conffusion",
             "stars": 143
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -1180,7 +1254,8 @@
             "owner": "FilippoMB",
             "repo": "Ensemble-Conformalized-Quantile-Regression",
             "stars": 104
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -1195,7 +1270,8 @@
             "owner": "rick12000",
             "repo": "confopt",
             "stars": 104
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -1210,7 +1286,8 @@
             "owner": "snap-stanford",
             "repo": "conformalized-gnn",
             "stars": 87
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -1225,7 +1302,8 @@
             "owner": "Moffran",
             "repo": "calibrated_explanations",
             "stars": 79
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -1240,7 +1318,8 @@
             "owner": "jjcherian",
             "repo": "conditional-conformal",
             "stars": 71
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -1255,7 +1334,8 @@
             "owner": "Carlssonlab",
             "repo": "conformalpredictor",
             "stars": 70
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -1270,7 +1350,8 @@
             "owner": "bhaweshiitk",
             "repo": "ConformalLLM",
             "stars": 69
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -1285,7 +1366,8 @@
             "owner": "bhaweshiitk",
             "repo": "ConformalLLM",
             "stars": 69
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -1300,7 +1382,8 @@
             "owner": "bhaweshiitk",
             "repo": "ConformalLLM",
             "stars": 69
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -1315,7 +1398,8 @@
             "owner": "AlaaLab",
             "repo": "conformal-metalearners",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -1330,7 +1414,8 @@
             "owner": "sunericd",
             "repo": "TISSUE",
             "stars": 45
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -1345,7 +1430,8 @@
             "owner": "Quilograma",
             "repo": "ConformalPredictionTutorial",
             "stars": 43
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -1360,7 +1446,8 @@
             "owner": "AlvinWen428",
             "repo": "FeatureCP",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -1375,7 +1462,8 @@
             "owner": "M-Soundouss",
             "repo": "CopulaConformalMTR",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -1390,7 +1478,8 @@
             "owner": "salimamoukou",
             "repo": "ACPI",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -1405,7 +1494,8 @@
             "owner": "salimamoukou",
             "repo": "ACPI",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -1420,7 +1510,8 @@
             "owner": "samuelstanton",
             "repo": "conformal-bayesopt",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -1435,7 +1526,8 @@
             "owner": "team-daniel",
             "repo": "MC-CP",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -1450,7 +1542,8 @@
             "owner": "drewprinster",
             "repo": "conformal-mfcs",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -1465,7 +1558,8 @@
             "owner": "deel-ai-papers",
             "repo": "conformal-segmentation",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -1480,7 +1574,8 @@
             "owner": "ZitongYang",
             "repo": "bellman-conformal-inference",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -1495,7 +1590,8 @@
             "owner": "predict-idlab",
             "repo": "crepes-weighted",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -1510,7 +1606,8 @@
             "owner": "creator-xi",
             "repo": "Error-quantified-Conformal-Inference",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -1525,7 +1622,8 @@
             "owner": "se-jaeger",
             "repo": "conformal-data-cleaning",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -1540,7 +1638,8 @@
             "owner": "EtashGuha",
             "repo": "R2CCP",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -1555,7 +1654,8 @@
             "owner": "hamrel-cxu",
             "repo": "MultiDimSPCI",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -1570,7 +1670,8 @@
             "owner": "Mayo-Radiology-Informatics-Lab",
             "repo": "conflare",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -1585,7 +1686,8 @@
             "owner": "jusiro",
             "repo": "CLIP-Conformal",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -1600,7 +1702,8 @@
             "owner": "ajfisch",
             "repo": "conformal-cascades",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -1615,7 +1718,8 @@
             "owner": "isgibbs",
             "repo": "DtACI",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -1630,7 +1734,8 @@
             "owner": "vistalab-technion",
             "repo": "vqr",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -1645,7 +1750,8 @@
             "owner": "Jayaos",
             "repo": "TCPTS",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -1660,7 +1766,8 @@
             "owner": "complex-ai-lab",
             "repo": "ncc",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -1675,7 +1782,8 @@
             "owner": "jv-rv",
             "repo": "split-conformal-nonexchangeable",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -1690,7 +1798,8 @@
             "owner": "ying531",
             "repo": "selcf_paper",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -1705,7 +1814,8 @@
             "owner": "Sulam-Group",
             "repo": "k-rcps",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -1720,7 +1830,8 @@
             "owner": "seedatnabeel",
             "repo": "SSCP",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -1735,7 +1846,8 @@
             "owner": "Sulam-Group",
             "repo": "k-rcps",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -1750,7 +1862,8 @@
             "owner": "ctanujit",
             "repo": "FEWNet",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -1765,7 +1878,8 @@
             "owner": "Monoxido45",
             "repo": "clover",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -1780,7 +1894,8 @@
             "owner": "kaustubhsridhar",
             "repo": "time-series-OOD",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -1795,7 +1910,8 @@
             "owner": "Quilograma",
             "repo": "AEnbMIMOCQR",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -1810,7 +1926,8 @@
             "owner": "ml-stat-Sustech",
             "repo": "conformal_prediction_via_label_ranking",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -1825,7 +1942,8 @@
             "owner": "luo-lorry",
             "repo": "conformal-load-forecasting",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -1840,7 +1958,8 @@
             "owner": "Larsvanderlaan",
             "repo": "SelfCalibratingConformal",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -1855,7 +1974,8 @@
             "owner": "mertyg",
             "repo": "beyond-confidence-atypicality",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -1870,7 +1990,8 @@
             "owner": "rizbicki",
             "repo": "predictionBands",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -1885,7 +2006,8 @@
             "owner": "cambridge-mlg",
             "repo": "acp",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -1900,7 +2022,8 @@
             "owner": "seedatnabeel",
             "repo": "TRIAGE",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -1915,7 +2038,8 @@
             "owner": "nandantumu",
             "repo": "conformal_region_designer",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -1930,7 +2054,8 @@
             "owner": "xqnwang",
             "repo": "cpts",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -1945,7 +2070,8 @@
             "owner": "Zhendong-Wang",
             "repo": "Probabilistic-Conformal-Prediction",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -1960,7 +2086,8 @@
             "owner": "kclip",
             "repo": "quantum-CP",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -1975,7 +2102,8 @@
             "owner": "NKI-AI",
             "repo": "kandinsky-calibration",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -1990,7 +2118,8 @@
             "owner": "Kaleidophon",
             "repo": "non-exchangeable-conformal-language-generation",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -2005,7 +2134,8 @@
             "owner": "PrincipatoG",
             "repo": "Conformal-Prediction-for-Hierarchical-Data",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -2020,7 +2150,8 @@
             "owner": "EconAIorg",
             "repo": "LPCI",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -2035,7 +2166,8 @@
             "owner": "rrross",
             "repo": "UACQR",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -2050,7 +2182,8 @@
             "owner": "jborah2",
             "repo": "WaveCatBoost-Time-Series-Model",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -2065,7 +2198,8 @@
             "owner": "rohanhore",
             "repo": "RLCP",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -2080,7 +2214,8 @@
             "owner": "EconAIorg",
             "repo": "LPCI",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -2095,7 +2230,8 @@
             "owner": "yugjerry",
             "repo": "conf-mc",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -2110,7 +2246,8 @@
             "owner": "JungeumKim",
             "repo": "conformal_tree",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -2125,7 +2262,8 @@
             "owner": "shayankiyani98",
             "repo": "CP",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -2140,7 +2278,8 @@
             "owner": "GauthierE",
             "repo": "evalues-expand-cp",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -2155,7 +2294,8 @@
             "owner": "orince",
             "repo": "CIR",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -2170,7 +2310,8 @@
             "owner": "ying531",
             "repo": "cfsensitivity_paper",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -2185,7 +2326,8 @@
             "owner": "ahnobari",
             "repo": "AutoSurf",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -2200,7 +2342,8 @@
             "owner": "unisb-bioinf",
             "repo": "Conformal-Drug-Sensitivity-Prediction",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -2215,7 +2358,8 @@
             "owner": "Shai128",
             "repo": "rrc",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -2230,7 +2374,8 @@
             "owner": "aaronhan223",
             "repo": "SLCP",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -2245,7 +2390,8 @@
             "owner": "rxu0112",
             "repo": "WR-CP",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -2260,7 +2406,8 @@
             "owner": "Lei-Ding07",
             "repo": "Conformal_Quantile_Fairness",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -2275,7 +2422,8 @@
             "owner": "drewprinster",
             "repo": "jaws-x",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -2290,7 +2438,8 @@
             "owner": "Guneet-Dhillon",
             "repo": "expected-conformal-prediction-set-size",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -2305,7 +2454,8 @@
             "owner": "dpzhang",
             "repo": "conformal-prediction-utility",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -2320,7 +2470,8 @@
             "owner": "jwen307",
             "repo": "TaskUQ",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -2335,7 +2486,8 @@
             "owner": "jwen307",
             "repo": "TaskUQ",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -2350,7 +2502,8 @@
             "owner": "brandongk-ubco",
             "repo": "conformal-in-the-loop",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -2365,7 +2518,8 @@
             "owner": "ajfisch",
             "repo": "conformal-fp",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -2380,7 +2534,8 @@
             "owner": "LeyingGuan",
             "repo": "LCPexperiments",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -2395,7 +2550,8 @@
             "owner": "benolmbrt",
             "repo": "wcp_miccai",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -2410,7 +2566,8 @@
             "owner": "yaozhang24",
             "repo": "pcp",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -2425,7 +2582,8 @@
             "owner": "HammerLabML",
             "repo": "LocalModelAgnosticExamplebasedExplanationsReject",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -2440,7 +2598,8 @@
             "owner": "Minxing-Zheng",
             "repo": "PCP-VCR",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -2455,7 +2614,8 @@
             "owner": "an-michaelg",
             "repo": "RT4U",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -2470,7 +2630,8 @@
             "owner": "MLI-lab",
             "repo": "recalibrating_conformal_prediction",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -2485,7 +2646,8 @@
             "owner": "luo-lorry",
             "repo": "CIA",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -2500,7 +2662,8 @@
             "owner": "luo-lorry",
             "repo": "CTI",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -2515,7 +2678,8 @@
             "owner": "luo-lorry",
             "repo": "CIA",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -2530,7 +2694,8 @@
             "owner": "StanfordMSL",
             "repo": "conformal-safety-learning",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -2545,7 +2710,8 @@
             "owner": "ekimetrics",
             "repo": "ts-genai-conformal",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -2560,7 +2726,8 @@
             "owner": "heltongraziadei",
             "repo": "conformal-fs",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -2575,7 +2742,8 @@
             "owner": "valeman",
             "repo": "SLCP",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -2590,7 +2758,8 @@
             "owner": "valeman",
             "repo": "Ensemble-Regularized-Adaptive-Prediction-Set-ERAPS",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -2605,7 +2774,8 @@
             "owner": "dweprinz",
             "repo": "CP-TSD",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -2620,7 +2790,8 @@
             "owner": "yujinhanml",
             "repo": "CSForest",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -2635,7 +2806,8 @@
             "owner": "ElvisWang1111",
             "repo": "FastFeatureCP",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -2650,7 +2822,8 @@
             "owner": "lahavdabah",
             "repo": "TS4CP",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -2665,7 +2838,8 @@
             "owner": "gpmp-dev",
             "repo": "lod2024-conformal",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -2680,7 +2854,8 @@
             "owner": "valeman",
             "repo": "cfsurv_paper",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -2695,7 +2870,8 @@
             "owner": "clu5",
             "repo": "lumbar-conformal",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -2710,7 +2886,8 @@
             "owner": "valeman",
             "repo": "conformal_prediction_in_latent_space",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -2725,7 +2902,8 @@
             "owner": "ColbyStatSvyRsch",
             "repo": "surveyConformal-paper-code",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -2740,7 +2918,8 @@
             "owner": "valeman",
             "repo": "cmc-learner",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -2755,7 +2934,8 @@
             "owner": "yugjerry",
             "repo": "iso-DRL",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -2770,7 +2950,8 @@
             "owner": "jase-clarkson",
             "repo": "cp_under_data_contamination",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -2785,7 +2966,8 @@
             "owner": "ruijiang81",
             "repo": "adjusting_reg_model",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -2800,7 +2982,8 @@
             "owner": "CityU-T",
             "repo": "RCP-GNN",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -2815,7 +2998,8 @@
             "owner": "digital-medicine-research-group-UNAV",
             "repo": "conformalized_single_cell_annotator",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -2830,7 +3014,8 @@
             "owner": "MachineLearningBCAM",
             "repo": "Unsupervised-conformal-prediction-NeurIPS2025",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -2845,7 +3030,8 @@
             "owner": "sallen12",
             "repo": "RDPS_rep",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -2860,7 +3046,8 @@
             "owner": "valeman",
             "repo": "conf_tpp",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -2875,7 +3062,8 @@
             "owner": "CCaribe9",
             "repo": "HQR-WACI",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -2890,7 +3078,8 @@
             "owner": "valeman",
             "repo": "LOO-StabCP",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -2905,7 +3094,8 @@
             "owner": "valeman",
             "repo": "Colorful-Pinball-Conformal-Prediction-CPCP",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         }
       ],
       "title": "Conformal Prediction Papers"
@@ -2926,7 +3116,8 @@
             "owner": "aangelopoulos",
             "repo": "conformal-time-series",
             "stars": 144
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -2941,7 +3132,8 @@
             "owner": "hamrel-cxu",
             "repo": "EnbPI",
             "stars": 134
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -2956,7 +3148,8 @@
             "owner": "salesforce",
             "repo": "online_conformal",
             "stars": 117
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -2971,7 +3164,8 @@
             "owner": "hamrel-cxu",
             "repo": "SPCI-code",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -2986,7 +3180,8 @@
             "owner": "Rose-STL-Lab",
             "repo": "CopulaCPTS",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -3001,7 +3196,8 @@
             "owner": "ZitongYang",
             "repo": "bellman-conformal-inference",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -3016,7 +3212,8 @@
             "owner": "creator-xi",
             "repo": "Error-quantified-Conformal-Inference",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -3031,7 +3228,8 @@
             "owner": "creator-xi",
             "repo": "Error-quantified-Conformal-Inference",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -3046,7 +3244,8 @@
             "owner": "hamrel-cxu",
             "repo": "MultiDimSPCI",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -3061,7 +3260,8 @@
             "owner": "Jayaos",
             "repo": "TCPTS",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -3076,7 +3276,8 @@
             "owner": "complex-ai-lab",
             "repo": "ncc",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -3091,7 +3292,8 @@
             "owner": "jv-rv",
             "repo": "split-conformal-nonexchangeable",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -3106,7 +3308,8 @@
             "owner": "jv-rv",
             "repo": "split-conformal-nonexchangeable",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -3121,7 +3324,8 @@
             "owner": "kaustubhsridhar",
             "repo": "time-series-OOD",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -3136,7 +3340,8 @@
             "owner": "Quilograma",
             "repo": "AEnbMIMOCQR",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -3151,7 +3356,8 @@
             "owner": "xqnwang",
             "repo": "cpts",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -3166,7 +3372,8 @@
             "owner": "PrincipatoG",
             "repo": "Conformal-Prediction-for-Hierarchical-Data",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -3181,7 +3388,8 @@
             "owner": "PrincipatoG",
             "repo": "Conformal-Prediction-for-Hierarchical-Data",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -3196,7 +3404,8 @@
             "owner": "EconAIorg",
             "repo": "LPCI",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -3211,7 +3420,8 @@
             "owner": "xiannanhuang",
             "repo": "FFDCI",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -3226,7 +3436,8 @@
             "owner": "hamrel-cxu",
             "repo": "Ensemble-Regularized-Adaptive-Prediction-Set-ERAPS",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -3241,7 +3452,8 @@
             "owner": "hamrel-cxu",
             "repo": "Ensemble-Regularized-Adaptive-Prediction-Set-ERAPS",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -3256,7 +3468,8 @@
             "owner": "Jayaos",
             "repo": "flow_cp",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -3271,7 +3484,8 @@
             "owner": "ekimetrics",
             "repo": "ts-genai-conformal",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -3286,7 +3500,8 @@
             "owner": "dweprinz",
             "repo": "CP-TSD",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -3301,7 +3516,8 @@
             "owner": "valeman",
             "repo": "conf_tpp",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -3316,7 +3532,8 @@
             "owner": "CCaribe9",
             "repo": "HQR-WACI",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         }
       ],
       "title": "Conformal Prediction for Time Series Forecasting"
@@ -3336,8 +3553,9 @@
             "last_commit": "2026-08-25T10:44:29Z",
             "owner": "valeman",
             "repo": "awesome-conformal-prediction",
-            "stars": 1293
-          }
+            "stars": 1294
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -3352,7 +3570,8 @@
             "owner": "Fabio-Rossi-Hub",
             "repo": "Conformal-HFT",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -3367,7 +3586,8 @@
             "owner": "gcastro-98",
             "repo": "conformal-prediction",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -3382,7 +3602,8 @@
             "owner": "MaximilianSuliga",
             "repo": "Conformal-Active-Learning-for-Reject-Inference",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         },
         {
           "node_type": "item",
@@ -3397,14 +3618,15 @@
             "owner": "AleCamp",
             "repo": "Master-s-Thesis-on-Conformal-Prediction",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
         }
       ],
       "title": "PhD Theses on Conformal Prediction"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T01:29:08.478Z",
+    "last_updated": "2026-08-29T00:58:03.411Z",
     "original_repository_info": {
       "archived": false,
       "id": 436989758,
@@ -3412,7 +3634,7 @@
       "last_commit": "2026-08-25T10:44:29Z",
       "owner": "valeman",
       "repo": "awesome-conformal-prediction",
-      "stars": 1293
+      "stars": 1294
     },
     "original_repository_sha": "a4c7c433b2bdfe5fba41e8b3639cf1b1c2cbf9d7",
     "enhanced_repository": "enhansome/enhansome-conformal-prediction",
