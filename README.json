@@ -220,7 +220,7 @@
             "open_issues": 72,
             "owner": "online-ml",
             "repo": "river",
-            "stars": 5951,
+            "stars": 5979,
             "topics": [
               "concept-drift",
               "data-science",
@@ -254,7 +254,7 @@
             "open_issues": 3,
             "owner": "valeman",
             "repo": "awesome-conformal-prediction",
-            "stars": 1295,
+            "stars": 1296,
             "topics": [
               "ai",
               "awesome",
@@ -295,7 +295,7 @@
             "open_issues": 3,
             "owner": "valeman",
             "repo": "awesome-conformal-prediction",
-            "stars": 1295,
+            "stars": 1296,
             "topics": [
               "ai",
               "awesome",
@@ -342,7 +342,7 @@
             "open_issues": 72,
             "owner": "online-ml",
             "repo": "river",
-            "stars": 5951,
+            "stars": 5979,
             "topics": [
               "concept-drift",
               "data-science",
@@ -2689,6 +2689,30 @@
         },
         {
           "node_type": "item",
+          "title": "Neural Conformal Control for Time Series Forecasting](https://arxiv.org/abs/2412.18144",
+          "description": ") by Ruipu Li, Alexander Rodrıguez (University of Michigan, 2024) code TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 917862788,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2025-03-27T18:35:29Z",
+            "open_issues": 0,
+            "owner": "complex-ai-lab",
+            "repo": "ncc",
+            "stars": 20,
+            "topics": [
+              "conformal-prediction",
+              "time-series"
+            ]
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
+        },
+        {
+          "node_type": "item",
           "title": "Fast nonlinear vector quantile regression",
           "description": "by Aviv A. Rosenberg, Sanketh Vedula, Yaniv Romano and Alex M. Bronstein (Technion, 2023) code 🔥🔥🔥🔥🔥",
           "children": [],
@@ -2726,30 +2750,6 @@
             "repo": "TCPTS",
             "stars": 19,
             "topics": []
-          },
-          "first_seen": "2026-08-29T00:58:03.411Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Neural Conformal Control for Time Series Forecasting](https://arxiv.org/abs/2412.18144",
-          "description": ") by Ruipu Li, Alexander Rodrıguez (University of Michigan, 2024) code TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 917862788,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2025-03-27T18:35:29Z",
-            "open_issues": 0,
-            "owner": "complex-ai-lab",
-            "repo": "ncc",
-            "stars": 19,
-            "topics": [
-              "conformal-prediction",
-              "time-series"
-            ]
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -4762,6 +4762,30 @@
         },
         {
           "node_type": "item",
+          "title": "Neural Conformal Control for Time Series Forecasting",
+          "description": "by Ruipu Li, Alexander Rodrıguez (University of Michigan, 2024) code TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 917862788,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2025-03-27T18:35:29Z",
+            "open_issues": 0,
+            "owner": "complex-ai-lab",
+            "repo": "ncc",
+            "stars": 20,
+            "topics": [
+              "conformal-prediction",
+              "time-series"
+            ]
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
+        },
+        {
+          "node_type": "item",
           "title": "Transformer Conformal Prediction for Time Series",
           "description": "by Jonghyeok Lee, Chen Xu, Yao Xie (Georgia Tech, 2024) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥 code",
           "children": [],
@@ -4778,30 +4802,6 @@
             "repo": "TCPTS",
             "stars": 19,
             "topics": []
-          },
-          "first_seen": "2026-08-29T00:58:03.411Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Neural Conformal Control for Time Series Forecasting",
-          "description": "by Ruipu Li, Alexander Rodrıguez (University of Michigan, 2024) code TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 917862788,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2025-03-27T18:35:29Z",
-            "open_issues": 0,
-            "owner": "complex-ai-lab",
-            "repo": "ncc",
-            "stars": 19,
-            "topics": [
-              "conformal-prediction",
-              "time-series"
-            ]
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -5052,7 +5052,7 @@
             "open_issues": 0,
             "owner": "Jayaos",
             "repo": "flow_cp",
-            "stars": 6,
+            "stars": 7,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
@@ -5163,7 +5163,7 @@
             "open_issues": 3,
             "owner": "valeman",
             "repo": "awesome-conformal-prediction",
-            "stars": 1295,
+            "stars": 1296,
             "topics": [
               "ai",
               "awesome",
@@ -5277,7 +5277,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T19:43:44.382Z",
+    "last_updated": "2026-08-30T19:49:47.678Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professionally curated list of awesome Conformal Prediction videos, tutorials, books, papers, PhD and MSc theses, articles and open-source libraries.",
@@ -5289,7 +5289,7 @@
       "open_issues": 3,
       "owner": "valeman",
       "repo": "awesome-conformal-prediction",
-      "stars": 1295,
+      "stars": 1296,
       "topics": [
         "ai",
         "awesome",
