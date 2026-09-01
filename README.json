@@ -220,7 +220,7 @@
             "open_issues": 73,
             "owner": "online-ml",
             "repo": "river",
-            "stars": 6031,
+            "stars": 6081,
             "topics": [
               "concept-drift",
               "data-science",
@@ -342,7 +342,7 @@
             "open_issues": 73,
             "owner": "online-ml",
             "repo": "river",
-            "stars": 6031,
+            "stars": 6081,
             "topics": [
               "concept-drift",
               "data-science",
@@ -418,7 +418,7 @@
             "open_issues": 44,
             "owner": "numenta",
             "repo": "NAB",
-            "stars": 2103,
+            "stars": 2105,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
@@ -827,8 +827,8 @@
             "id": 634794673,
             "language": "Jupyter Notebook",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-08-17T22:43:24Z",
-            "open_issues": 12,
+            "last_commit": "2026-08-31T22:43:19Z",
+            "open_issues": 13,
             "owner": "Moffran",
             "repo": "calibrated_explanations",
             "stars": 79,
@@ -2080,8 +2080,8 @@
             "id": 634794673,
             "language": "Jupyter Notebook",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-08-17T22:43:24Z",
-            "open_issues": 12,
+            "last_commit": "2026-08-31T22:43:19Z",
+            "open_issues": 13,
             "owner": "Moffran",
             "repo": "calibrated_explanations",
             "stars": 79,
@@ -5277,7 +5277,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T21:53:47.333Z",
+    "last_updated": "2026-09-01T19:56:00.068Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professionally curated list of awesome Conformal Prediction videos, tutorials, books, papers, PhD and MSc theses, articles and open-source libraries.",

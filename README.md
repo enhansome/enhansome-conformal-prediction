@@ -396,7 +396,7 @@ These are active research and practitioner questions — contributions, discussi
 
 ## Conformal Prediction Presentation Slides
 
-1. [Conformal Prediction: an Introduction](https://github.com/online-ml/river/files/10098389/Conformal_Prediction_Presentation.pdf) ⭐ 6,031 | 🐛 73 | 🌐 Python | 📅 2026-08-31 by Leo Andeol (2022)
+1. [Conformal Prediction: an Introduction](https://github.com/online-ml/river/files/10098389/Conformal_Prediction_Presentation.pdf) ⭐ 6,081 | 🐛 73 | 🌐 Python | 📅 2026-08-31 by Leo Andeol (2022)
 2. [Machine Learning for Probabilistic Prediction](https://github.com/valeman/awesome-conformal-prediction/blob/main/assets/Machine%20Learning%20for%20Probabilistic%20Prediction.pdf) ⭐ 1,297 | 🐛 3 | 📅 2026-08-25 by Valery Manokhin, 2022 🔥🔥🔥🔥🔥
 3. [EnbPI poster](https://github.com/valeman/awesome-conformal-prediction/blob/main/assets/EnbPI_poster.pdf) ⭐ 1,297 | 🐛 3 | 📅 2026-08-25 by Chen Xu, Yao Xie (2021)
 4. [Machine Learning for Probabilistic Prediction, Seattle Artificial Intelligence Workshops Meetup](https://www.researchgate.net/publication/371566526_Machine_Learning_for_Probabilistic_Prediction) by Valery Manokhin, 2023 🔥🔥🔥🔥🔥
@@ -429,9 +429,9 @@ These are active research and practitioner questions — contributions, discussi
 
 ## Conformal Prediction Libraries in Python
 
-1. [River](https://github.com/online-ml/river/blob/0506ad73e45403638f13d66c6b2d71920d307461/river/conf/jackknife.py#L9) ⭐ 6,031 | 🐛 73 | 🌐 Python | 📅 2026-08-31 2022
+1. [River](https://github.com/online-ml/river/blob/0506ad73e45403638f13d66c6b2d71920d307461/river/conf/jackknife.py#L9) ⭐ 6,081 | 🐛 73 | 🌐 Python | 📅 2026-08-31 2022
 2. [NeuralProphet](https://github.com/ourownstory/neural_prophet/blob/main/tutorials/feature-use/uncertainty_conformal_prediction.ipynb) ⭐ 4,295 | 🐛 89 | 🌐 Python | 📅 2025-01-08 (2022) 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
-3. [Conformalized density- and distance-based anomaly detection in time-series data (KNN-CAD)](https://github.com/numenta/NAB/tree/master/nab/detectors/knncad) ⭐ 2,103 | 🐛 44 | 🌐 Jupyter Notebook | 📅 2024-12-03 by Evgeny Burnaev, Vladislav Ishimtsev (2016). Top #3 winning solution in Numenta competition 🔥🔥🔥🔥🔥
+3. [Conformalized density- and distance-based anomaly detection in time-series data (KNN-CAD)](https://github.com/numenta/NAB/tree/master/nab/detectors/knncad) ⭐ 2,105 | 🐛 44 | 🌐 Jupyter Notebook | 📅 2024-12-03 by Evgeny Burnaev, Vladislav Ishimtsev (2016). Top #3 winning solution in Numenta competition 🔥🔥🔥🔥🔥
 4. [Nonconformist](https://github.com/donlnz/nonconformist) ⭐ 479 | 🐛 20 | 🌐 Python | 📅 2021-03-20 by Henrik Linusson (2015) 🔥🔥🔥🔥🔥
 5. [TorchCP - A library for conformal prediction](https://github.com/ml-stat-Sustech/TorchCP) ⭐ 477 | 🐛 8 | 🌐 Python | 📅 2026-08-05 🔥🔥🔥🔥🔥
 6. [Puncc (Predictive uncertainty calibration and conformalization)](https://github.com/deel-ai/puncc) ⭐ 403 | 🐛 2 | 🌐 Python | 📅 2026-08-29 [paper](https://proceedings.mlr.press/v204/mendil23a/mendil23a.pdf) [slides](https://copa-conference.com/presentations/COPA_2023_mouhcine_mendil_puncc.pdf) 🔥🔥🔥🔥🔥
@@ -446,7 +446,7 @@ These are active research and practitioner questions — contributions, discussi
 15. [MFLES - Gradient Boosted Decomposition for time series forecasting](https://github.com/tblume1992/MFLES) ⭐ 114 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-02-18 by Tyler Blume (2024) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 16. [Ensemble Conformalized Quantile Regression for Probabilistic Time Series Forecasting](https://github.com/FilippoMB/Ensemble-Conformalized-Quantile-Regression) ⭐ 104 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2025-03-15 Vilde Jensen, Filippo Maria Bianchi and Stian Norman Anfinsen (2022) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 17. [confopt - A Library for Conformal Hyperparameter Tuning](https://github.com/rick12000/confopt) ⭐ 104 | 🐛 0 | 🌐 Python | 📅 2025-11-24 by Ricardo Doyle (2024) [paper](https://arxiv.org/abs/2207.03017) 🔥🔥🔥🔥🔥
-18. [calibrated-explanations - Calibrated Explanations for Machine Learning Models using Venn-Abers and Conformal Predictive Systems](https://github.com/Moffran/calibrated_explanations) ⭐ 79 | 🐛 12 | 🌐 Jupyter Notebook | 📅 2026-08-17 by Helena Löfström (2023)
+18. [calibrated-explanations - Calibrated Explanations for Machine Learning Models using Venn-Abers and Conformal Predictive Systems](https://github.com/Moffran/calibrated_explanations) ⭐ 79 | 🐛 13 | 🌐 Jupyter Notebook | 📅 2026-08-31 by Helena Löfström (2023)
 19. [Venn-ABERS Predictor](https://github.com/ptocca/VennABERS) ⭐ 78 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2024-02-15 by Paolo Toccaceli (2019) [Paper](https://proceedings.neurips.cc/paper/2015/hash/a9a1d5317a33ae8cef33961c34144f84-Abstract.html) 🔥🔥🔥🔥🔥
 20. [Conformal time-series forecasting](https://github.com/kamilest/conformal-rnn) ⚠️ Archived by Kamile ̇ Stankeviciute (Cambridge, NeurIPS 2021) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 21. [unquad - Conformal Anomaly Detection](https://github.com/OliverHennhoefer/unquad) ⭐ 57 | 🐛 1 | 🌐 Python | 📅 2026-08-27 🔥🔥🔥🔥🔥
@@ -539,7 +539,7 @@ These are active research and practitioner questions — contributions, discussi
    Probabilistic Time Series Forecasting](https://arxiv.org/pdf/2202.08756v1.pdf) by Vilde Jensen, Filippo Maria Bianchi, Stian Norman Anfinsen (Arctic University of Norway, 2022) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥 [Python Code](https://github.com/FilippoMB/Ensemble-Conformalized-Quantile-Regression) ⭐ 104 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2025-03-15
 7. [ACHO: Adaptive Conformal Hyperparameter Optimization](https://arxiv.org/abs/2207.03017) by Ricardo Doyle (2023) 🔥🔥🔥🔥🔥 [code](https://github.com/rick12000/confopt) ⭐ 104 | 🐛 0 | 🌐 Python | 📅 2025-11-24
 8. [Uncertainty Quantification over Graph with Conformalized Graph Neural Networks](https://arxiv.org/abs/2305.14535) by Kexin Huang, Ying Jin, Emmanuel Candes, Jure Leskovec (Stanford, 2023) [code](https://github.com/snap-stanford/conformalized-gnn) ⭐ 87 | 🐛 0 | 🌐 Python | 📅 2023-09-27 🔥🔥🔥🔥🔥
-9. [Calibrated Explanations: with Uncertainty Information and Counterfactuals](https://arxiv.org/pdf/2305.02305.pdf) by Helena Löfström, Tuwe Löfström, Ulf Johansson, Cecilia S ̈onstr ̈od (2023) [Code](https://github.com/Moffran/calibrated_explanations) ⭐ 79 | 🐛 12 | 🌐 Jupyter Notebook | 📅 2026-08-17 🔥🔥🔥🔥🔥
+9. [Calibrated Explanations: with Uncertainty Information and Counterfactuals](https://arxiv.org/pdf/2305.02305.pdf) by Helena Löfström, Tuwe Löfström, Ulf Johansson, Cecilia S ̈onstr ̈od (2023) [Code](https://github.com/Moffran/calibrated_explanations) ⭐ 79 | 🐛 13 | 🌐 Jupyter Notebook | 📅 2026-08-31 🔥🔥🔥🔥🔥
 10. [Conformal Prediction With Conditional Guarantees](https://arxiv.org/pdf/2305.12616.pdf) by Isaac Gibbs, John Cherian, Emmanuel Candes (Stanford, 2023) [code](https://github.com/jjcherian/conditional-conformal) ⭐ 71 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2025-10-07
 11. [Rapid Traversal of Ultralarge Chemical Space using Machine Learning Guided Docking Screens](https://chemrxiv.org/engage/chemrxiv/article-details/6456778807c3f02937503688) by Andreas Luttens, Israel Cabeza de Vaca, Leonard Sparring, Ulf Norinder, Jens Carlsson (2023) [Code](https://github.com/carlssonlab/conformalpredictor) ⭐ 70 | 🐛 3 | 🌐 Python | 📅 2025-01-20 [Datasets](https://zenodo.org/record/7903161) 🔥🔥🔥🔥🔥
 12. [Federated Conformal Predictors for Distributed Uncertainty Quantification](https://arxiv.org/pdf/2305.17564.pdf) by Charles Lu, Yaodong Yu, Sai Praneeth Karimireddy, Michael I. Jordan, Ramesh Raskar (MIT/Berkeley, 2023) [code](https://github.com/bhaweshiitk/ConformalLLM) ⭐ 69 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2024-06-21 [video](https://www.youtube.com/watch?v=Ess8_S4avW4) 🔥🔥🔥🔥🔥
@@ -1227,7 +1227,7 @@ These are active research and practitioner questions — contributions, discussi
 1. [Microsoft Azure](https://learn.microsoft.com/en-gb/archive/blogs/machinelearning/anomaly-detection-using-machine-learning-to-detect-abnormalities-in-time-series-data) Microsoft Azure Anomaly Detection powered by Conformal Prediction 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 2. [Testing Exchangeability On-Line](https://aaai.org/papers/icml03-100-testing-exchangeability-on-line/) by Vladimir Vovk, Ilia Nouretdinov, Alex Gammerman (Royal Holloway, UK, 2023)
 3. [Plug-in martingales for testing exchangeability on-line](https://icml.cc/2012/papers/808.pdf) by Valentina Fedorova, Alex Gammerman, Ilia Nouretdinov, Vladimir (Vovk Royal Holloway, UK, 2012) 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
-4. [Conformalized density- and distance-based anomaly detection in time-series data](https://arxiv.org/abs/1608.04585) by Evgeny Burnaev, Vladislav Ishimtsev (Skoprech 2016) one of top methods in high profile Numenta Anomaly Detection competition [code](https://github.com/numenta/NAB/tree/master/nab/detectors/knncad) ⭐ 2,103 | 🐛 44 | 🌐 Jupyter Notebook | 📅 2024-12-03 TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
+4. [Conformalized density- and distance-based anomaly detection in time-series data](https://arxiv.org/abs/1608.04585) by Evgeny Burnaev, Vladislav Ishimtsev (Skoprech 2016) one of top methods in high profile Numenta Anomaly Detection competition [code](https://github.com/numenta/NAB/tree/master/nab/detectors/knncad) ⭐ 2,105 | 🐛 44 | 🌐 Jupyter Notebook | 📅 2024-12-03 TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 5. [Conformal prediction for trustworthy detection of railway signals](https://www.researchgate.net/publication/377596211_Conformal_prediction_for_trustworthy_detection_of_railway_signals) by Léo Andéol, Thomas Fel, Flornce de Grancey, Luca Mossina (Institut de Mathématiques de Toulouse, SNCF,Brown University,Thales, AVS France, IRT Saint Exupéry, Toulouse; France/USA 2024)
 6. [Detecting Railway Track Irregularities Using Conformal Prediction](https://tik-old.ee.ethz.ch/db/public/tik/?db=publications\&form=report_single_publication\&publication_id=5176) by Andreas Plesner, Allan P. Engsig-Karup, Hans True (ETH Zurich, Technical University of Denmark) (2024)
 7. [CoPAL: Conformal Prediction in Active Learning An Algorithm for Enhancing Remaining Useful Life Estimation in Predictive Maintenance](https://proceedings.mlr.press/v230/kharazian24a.html) by Zahra Kharazian, Tony Lindgren, Sindri Magnusson, Henrik Boström (Stockholm University, KTH, 2024)
@@ -1363,4 +1363,4 @@ These are active research and practitioner questions — contributions, discussi
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
