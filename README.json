@@ -52,7 +52,7 @@
             "open_issues": 0,
             "owner": "joneswack",
             "repo": "conformal-predictions-from-scratch",
-            "stars": 229,
+            "stars": 230,
             "topics": [
               "conformal-prediction",
               "machine-learning",
@@ -216,11 +216,11 @@
             "id": 167388434,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-02T16:52:44Z",
-            "open_issues": 75,
+            "last_commit": "2026-09-03T08:52:54Z",
+            "open_issues": 76,
             "owner": "online-ml",
             "repo": "river",
-            "stars": 6085,
+            "stars": 6086,
             "topics": [
               "concept-drift",
               "data-science",
@@ -254,7 +254,7 @@
             "open_issues": 3,
             "owner": "valeman",
             "repo": "awesome-conformal-prediction",
-            "stars": 1297,
+            "stars": 1296,
             "topics": [
               "ai",
               "awesome",
@@ -295,7 +295,7 @@
             "open_issues": 3,
             "owner": "valeman",
             "repo": "awesome-conformal-prediction",
-            "stars": 1297,
+            "stars": 1296,
             "topics": [
               "ai",
               "awesome",
@@ -338,11 +338,11 @@
             "id": 167388434,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-02T16:52:44Z",
-            "open_issues": 75,
+            "last_commit": "2026-09-03T08:52:54Z",
+            "open_issues": 76,
             "owner": "online-ml",
             "repo": "river",
-            "stars": 6085,
+            "stars": 6086,
             "topics": [
               "concept-drift",
               "data-science",
@@ -418,7 +418,7 @@
             "open_issues": 44,
             "owner": "numenta",
             "repo": "NAB",
-            "stars": 2106,
+            "stars": 2107,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
@@ -484,7 +484,7 @@
             "id": 515914540,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-08-29T09:01:56Z",
+            "last_commit": "2026-09-03T08:59:26Z",
             "open_issues": 2,
             "owner": "deel-ai",
             "repo": "puncc",
@@ -511,7 +511,7 @@
             "id": 515914540,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-08-29T09:01:56Z",
+            "last_commit": "2026-09-03T08:59:26Z",
             "open_issues": 2,
             "owner": "deel-ai",
             "repo": "puncc",
@@ -615,7 +615,7 @@
             "open_issues": 0,
             "owner": "joneswack",
             "repo": "conformal-predictions-from-scratch",
-            "stars": 229,
+            "stars": 230,
             "topics": [
               "conformal-prediction",
               "machine-learning",
@@ -817,6 +817,27 @@
         },
         {
           "node_type": "item",
+          "title": "Venn-ABERS Predictor",
+          "description": "by Paolo Toccaceli (2019) Paper 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Fast implementation of Venn-ABERS probabilistic predictors",
+            "homepage": null,
+            "id": 95372917,
+            "language": "Jupyter Notebook",
+            "license": "MIT",
+            "last_commit": "2024-02-15T19:55:59Z",
+            "open_issues": 2,
+            "owner": "ptocca",
+            "repo": "VennABERS",
+            "stars": 79,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
+        },
+        {
+          "node_type": "item",
           "title": "calibrated-explanations - Calibrated Explanations for Machine Learning Models using Venn-Abers and Conformal Predictive Systems",
           "description": "by Helena Löfström (2023)",
           "children": [],
@@ -827,7 +848,7 @@
             "id": 634794673,
             "language": "Jupyter Notebook",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-08-31T22:43:19Z",
+            "last_commit": "2026-09-03T19:36:22Z",
             "open_issues": 13,
             "owner": "Moffran",
             "repo": "calibrated_explanations",
@@ -844,27 +865,6 @@
               "venn-abers",
               "xai"
             ]
-          },
-          "first_seen": "2026-08-29T00:58:03.411Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Venn-ABERS Predictor",
-          "description": "by Paolo Toccaceli (2019) Paper 🔥🔥🔥🔥🔥",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Fast implementation of Venn-ABERS probabilistic predictors",
-            "homepage": null,
-            "id": 95372917,
-            "language": "Jupyter Notebook",
-            "license": "MIT",
-            "last_commit": "2024-02-15T19:55:59Z",
-            "open_issues": 2,
-            "owner": "ptocca",
-            "repo": "VennABERS",
-            "stars": 78,
-            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -1423,7 +1423,7 @@
             "id": 584985844,
             "language": "HTML",
             "license": null,
-            "last_commit": "2026-09-02T00:19:39Z",
+            "last_commit": "2026-09-03T16:29:56Z",
             "open_issues": 39,
             "owner": "tidymodels",
             "repo": "tidymodels.org",
@@ -1829,7 +1829,7 @@
             "id": 515914540,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-08-29T09:01:56Z",
+            "last_commit": "2026-09-03T08:59:26Z",
             "open_issues": 2,
             "owner": "deel-ai",
             "repo": "puncc",
@@ -2080,7 +2080,7 @@
             "id": 634794673,
             "language": "Jupyter Notebook",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-08-31T22:43:19Z",
+            "last_commit": "2026-09-03T19:36:22Z",
             "open_issues": 13,
             "owner": "Moffran",
             "repo": "calibrated_explanations",
@@ -5163,7 +5163,7 @@
             "open_issues": 3,
             "owner": "valeman",
             "repo": "awesome-conformal-prediction",
-            "stars": 1297,
+            "stars": 1296,
             "topics": [
               "ai",
               "awesome",
@@ -5277,7 +5277,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T19:47:13.869Z",
+    "last_updated": "2026-09-03T19:49:29.173Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professionally curated list of awesome Conformal Prediction videos, tutorials, books, papers, PhD and MSc theses, articles and open-source libraries.",
@@ -5289,7 +5289,7 @@
       "open_issues": 3,
       "owner": "valeman",
       "repo": "awesome-conformal-prediction",
-      "stars": 1297,
+      "stars": 1296,
       "topics": [
         "ai",
         "awesome",
