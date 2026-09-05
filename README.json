@@ -217,10 +217,10 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-09-03T08:52:54Z",
-            "open_issues": 76,
+            "open_issues": 75,
             "owner": "online-ml",
             "repo": "river",
-            "stars": 6086,
+            "stars": 6088,
             "topics": [
               "concept-drift",
               "data-science",
@@ -339,10 +339,10 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-09-03T08:52:54Z",
-            "open_issues": 76,
+            "open_issues": 75,
             "owner": "online-ml",
             "repo": "river",
-            "stars": 6086,
+            "stars": 6088,
             "topics": [
               "concept-drift",
               "data-science",
@@ -488,7 +488,7 @@
             "open_issues": 2,
             "owner": "deel-ai",
             "repo": "puncc",
-            "stars": 403,
+            "stars": 404,
             "topics": [
               "conformal-inference",
               "conformal-prediction",
@@ -515,7 +515,7 @@
             "open_issues": 2,
             "owner": "deel-ai",
             "repo": "puncc",
-            "stars": 403,
+            "stars": 404,
             "topics": [
               "conformal-inference",
               "conformal-prediction",
@@ -901,7 +901,7 @@
             "id": 780814119,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-04T18:35:47Z",
+            "last_commit": "2026-09-05T06:31:06Z",
             "open_issues": 1,
             "owner": "OliverHennhoefer",
             "repo": "nonconform",
@@ -1267,7 +1267,7 @@
             "open_issues": 62,
             "owner": "business-science",
             "repo": "modeltime",
-            "stars": 583,
+            "stars": 584,
             "topics": [
               "arima",
               "data-science",
@@ -1423,8 +1423,8 @@
             "id": 584985844,
             "language": "HTML",
             "license": null,
-            "last_commit": "2026-09-04T17:35:02Z",
-            "open_issues": 39,
+            "last_commit": "2026-09-05T14:38:04Z",
+            "open_issues": 38,
             "owner": "tidymodels",
             "repo": "tidymodels.org",
             "stars": 24,
@@ -1833,7 +1833,7 @@
             "open_issues": 2,
             "owner": "deel-ai",
             "repo": "puncc",
-            "stars": 403,
+            "stars": 404,
             "topics": [
               "conformal-inference",
               "conformal-prediction",
@@ -5277,7 +5277,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T19:34:02.276Z",
+    "last_updated": "2026-09-05T19:01:26.927Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professionally curated list of awesome Conformal Prediction videos, tutorials, books, papers, PhD and MSc theses, articles and open-source libraries.",
