@@ -901,8 +901,8 @@
             "id": 780814119,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-05T06:31:06Z",
-            "open_issues": 1,
+            "last_commit": "2026-09-06T06:44:43Z",
+            "open_issues": 0,
             "owner": "OliverHennhoefer",
             "repo": "nonconform",
             "stars": 57,
@@ -5277,7 +5277,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T19:01:26.927Z",
+    "last_updated": "2026-09-06T19:09:27.017Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professionally curated list of awesome Conformal Prediction videos, tutorials, books, papers, PhD and MSc theses, articles and open-source libraries.",
