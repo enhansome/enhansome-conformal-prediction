@@ -220,7 +220,7 @@
             "open_issues": 77,
             "owner": "online-ml",
             "repo": "river",
-            "stars": 6091,
+            "stars": 6090,
             "topics": [
               "concept-drift",
               "data-science",
@@ -254,7 +254,7 @@
             "open_issues": 3,
             "owner": "valeman",
             "repo": "awesome-conformal-prediction",
-            "stars": 1298,
+            "stars": 1299,
             "topics": [
               "ai",
               "awesome",
@@ -295,7 +295,7 @@
             "open_issues": 3,
             "owner": "valeman",
             "repo": "awesome-conformal-prediction",
-            "stars": 1298,
+            "stars": 1299,
             "topics": [
               "ai",
               "awesome",
@@ -342,7 +342,7 @@
             "open_issues": 77,
             "owner": "online-ml",
             "repo": "river",
-            "stars": 6091,
+            "stars": 6090,
             "topics": [
               "concept-drift",
               "data-science",
@@ -376,7 +376,7 @@
             "open_issues": 89,
             "owner": "ourownstory",
             "repo": "neural_prophet",
-            "stars": 4297,
+            "stars": 4298,
             "topics": [
               "artificial-intelligence",
               "autoregression",
@@ -484,7 +484,7 @@
             "id": 515914540,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-09-07T16:29:14Z",
+            "last_commit": "2026-09-09T09:46:58Z",
             "open_issues": 2,
             "owner": "deel-ai",
             "repo": "puncc",
@@ -511,7 +511,7 @@
             "id": 515914540,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-09-07T16:29:14Z",
+            "last_commit": "2026-09-09T09:46:58Z",
             "open_issues": 2,
             "owner": "deel-ai",
             "repo": "puncc",
@@ -582,7 +582,7 @@
             "open_issues": 4,
             "owner": "yromano",
             "repo": "cqr",
-            "stars": 314,
+            "stars": 315,
             "topics": [
               "algorithmic-fairness",
               "conformal-methods",
@@ -1829,7 +1829,7 @@
             "id": 515914540,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-09-07T16:29:14Z",
+            "last_commit": "2026-09-09T09:46:58Z",
             "open_issues": 2,
             "owner": "deel-ai",
             "repo": "puncc",
@@ -1860,7 +1860,7 @@
             "open_issues": 4,
             "owner": "yromano",
             "repo": "cqr",
-            "stars": 314,
+            "stars": 315,
             "topics": [
               "algorithmic-fairness",
               "conformal-methods",
@@ -2460,7 +2460,7 @@
             "open_issues": 0,
             "owner": "deel-ai-papers",
             "repo": "conformal-segmentation",
-            "stars": 27,
+            "stars": 28,
             "topics": [
               "conformal-prediction",
               "semantic-segmentation",
@@ -2668,6 +2668,27 @@
         },
         {
           "node_type": "item",
+          "title": "Fast nonlinear vector quantile regression",
+          "description": "by Aviv A. Rosenberg, Sanketh Vedula, Yaniv Romano and Alex M. Bronstein (Technion, 2023) code 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Vector Quantile Regression",
+            "homepage": null,
+            "id": 381466646,
+            "language": "Python",
+            "license": "LGPL-3.0",
+            "last_commit": "2025-04-03T12:58:03Z",
+            "open_issues": 5,
+            "owner": "vistalab-technion",
+            "repo": "vqr",
+            "stars": 20,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
+        },
+        {
+          "node_type": "item",
           "title": "Conformal Inference for Online Prediction with Arbitrary Distribution Shifts",
           "description": "by Isaac Gibbs, Emmanuel J. Candès code (2024) 🔥🔥🔥🔥🔥",
           "children": [],
@@ -2708,27 +2729,6 @@
               "conformal-prediction",
               "time-series"
             ]
-          },
-          "first_seen": "2026-08-29T00:58:03.411Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Fast nonlinear vector quantile regression",
-          "description": "by Aviv A. Rosenberg, Sanketh Vedula, Yaniv Romano and Alex M. Bronstein (Technion, 2023) code 🔥🔥🔥🔥🔥",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Vector Quantile Regression",
-            "homepage": null,
-            "id": 381466646,
-            "language": "Python",
-            "license": "LGPL-3.0",
-            "last_commit": "2025-04-03T12:58:03Z",
-            "open_issues": 5,
-            "owner": "vistalab-technion",
-            "repo": "vqr",
-            "stars": 19,
-            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -5163,7 +5163,7 @@
             "open_issues": 3,
             "owner": "valeman",
             "repo": "awesome-conformal-prediction",
-            "stars": 1298,
+            "stars": 1299,
             "topics": [
               "ai",
               "awesome",
@@ -5277,7 +5277,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T19:53:57.325Z",
+    "last_updated": "2026-09-09T19:45:11.492Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professionally curated list of awesome Conformal Prediction videos, tutorials, books, papers, PhD and MSc theses, articles and open-source libraries.",
@@ -5289,7 +5289,7 @@
       "open_issues": 3,
       "owner": "valeman",
       "repo": "awesome-conformal-prediction",
-      "stars": 1298,
+      "stars": 1299,
       "topics": [
         "ai",
         "awesome",

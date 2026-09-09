@@ -141,7 +141,7 @@ These are active research and practitioner questions — contributions, discussi
 * What are the tightest known prediction intervals for deep learning models?
 * How do conformal methods compare with Bayesian uncertainty quantification on modern benchmarks?
 
-👉 Open a [discussion](https://github.com/valeman/awesome-conformal-prediction/discussions) ⭐ 1,298 | 🐛 3 | 📅 2026-08-25 or [issue](https://github.com/valeman/awesome-conformal-prediction/issues) ⭐ 1,298 | 🐛 3 | 📅 2026-08-25 to contribute.
+👉 Open a [discussion](https://github.com/valeman/awesome-conformal-prediction/discussions) ⭐ 1,299 | 🐛 3 | 📅 2026-08-25 or [issue](https://github.com/valeman/awesome-conformal-prediction/issues) ⭐ 1,299 | 🐛 3 | 📅 2026-08-25 to contribute.
 
 ## Table of Contents
 
@@ -396,9 +396,9 @@ These are active research and practitioner questions — contributions, discussi
 
 ## Conformal Prediction Presentation Slides
 
-1. [Conformal Prediction: an Introduction](https://github.com/online-ml/river/files/10098389/Conformal_Prediction_Presentation.pdf) ⭐ 6,091 | 🐛 77 | 🌐 Python | 📅 2026-09-03 by Leo Andeol (2022)
-2. [Machine Learning for Probabilistic Prediction](https://github.com/valeman/awesome-conformal-prediction/blob/main/assets/Machine%20Learning%20for%20Probabilistic%20Prediction.pdf) ⭐ 1,298 | 🐛 3 | 📅 2026-08-25 by Valery Manokhin, 2022 🔥🔥🔥🔥🔥
-3. [EnbPI poster](https://github.com/valeman/awesome-conformal-prediction/blob/main/assets/EnbPI_poster.pdf) ⭐ 1,298 | 🐛 3 | 📅 2026-08-25 by Chen Xu, Yao Xie (2021)
+1. [Conformal Prediction: an Introduction](https://github.com/online-ml/river/files/10098389/Conformal_Prediction_Presentation.pdf) ⭐ 6,090 | 🐛 77 | 🌐 Python | 📅 2026-09-03 by Leo Andeol (2022)
+2. [Machine Learning for Probabilistic Prediction](https://github.com/valeman/awesome-conformal-prediction/blob/main/assets/Machine%20Learning%20for%20Probabilistic%20Prediction.pdf) ⭐ 1,299 | 🐛 3 | 📅 2026-08-25 by Valery Manokhin, 2022 🔥🔥🔥🔥🔥
+3. [EnbPI poster](https://github.com/valeman/awesome-conformal-prediction/blob/main/assets/EnbPI_poster.pdf) ⭐ 1,299 | 🐛 3 | 📅 2026-08-25 by Chen Xu, Yao Xie (2021)
 4. [Machine Learning for Probabilistic Prediction, Seattle Artificial Intelligence Workshops Meetup](https://www.researchgate.net/publication/371566526_Machine_Learning_for_Probabilistic_Prediction) by Valery Manokhin, 2023 🔥🔥🔥🔥🔥
 5. [Adaptive Conformal Anomaly Detection for Time-series](https://cml.rhul.ac.uk/copa2017/presentations/burnaev.pdf) by Evgeny Burnaev, Alexander Bernstein, Vlad Ishimtsev and Ivan Nazarov (Skoltech, Moscow, Russia, 2017)
 6. [Nonparametric predictive distributions based on conformal prediction](https://cml.rhul.ac.uk/copa2017/presentations/vovk.pdf) by Vladimir Vovk, Jieli Shen, Valery Manokhin, Min-ge Xie, Ilia Nouretdinov and Alex Gammerman (Royal Holloway, University of London Rutgers University, 2017)
@@ -429,15 +429,15 @@ These are active research and practitioner questions — contributions, discussi
 
 ## Conformal Prediction Libraries in Python
 
-1. [River](https://github.com/online-ml/river/blob/0506ad73e45403638f13d66c6b2d71920d307461/river/conf/jackknife.py#L9) ⭐ 6,091 | 🐛 77 | 🌐 Python | 📅 2026-09-03 2022
-2. [NeuralProphet](https://github.com/ourownstory/neural_prophet/blob/main/tutorials/feature-use/uncertainty_conformal_prediction.ipynb) ⭐ 4,297 | 🐛 89 | 🌐 Python | 📅 2025-01-08 (2022) 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
+1. [River](https://github.com/online-ml/river/blob/0506ad73e45403638f13d66c6b2d71920d307461/river/conf/jackknife.py#L9) ⭐ 6,090 | 🐛 77 | 🌐 Python | 📅 2026-09-03 2022
+2. [NeuralProphet](https://github.com/ourownstory/neural_prophet/blob/main/tutorials/feature-use/uncertainty_conformal_prediction.ipynb) ⭐ 4,298 | 🐛 89 | 🌐 Python | 📅 2025-01-08 (2022) 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 3. [Conformalized density- and distance-based anomaly detection in time-series data (KNN-CAD)](https://github.com/numenta/NAB/tree/master/nab/detectors/knncad) ⭐ 2,108 | 🐛 44 | 🌐 Jupyter Notebook | 📅 2024-12-03 by Evgeny Burnaev, Vladislav Ishimtsev (2016). Top #3 winning solution in Numenta competition 🔥🔥🔥🔥🔥
 4. [Nonconformist](https://github.com/donlnz/nonconformist) ⭐ 479 | 🐛 20 | 🌐 Python | 📅 2021-03-20 by Henrik Linusson (2015) 🔥🔥🔥🔥🔥
 5. [TorchCP - A library for conformal prediction](https://github.com/ml-stat-Sustech/TorchCP) ⭐ 477 | 🐛 8 | 🌐 Python | 📅 2026-08-05 🔥🔥🔥🔥🔥
-6. [Puncc (Predictive uncertainty calibration and conformalization)](https://github.com/deel-ai/puncc) ⭐ 404 | 🐛 2 | 🌐 Python | 📅 2026-09-07 [paper](https://proceedings.mlr.press/v204/mendil23a/mendil23a.pdf) [slides](https://copa-conference.com/presentations/COPA_2023_mouhcine_mendil_puncc.pdf) 🔥🔥🔥🔥🔥
-7. [Puncc (Predictive uncertainty calibration and conformalization)](https://github.com/deel-ai/puncc) ⭐ 404 | 🐛 2 | 🌐 Python | 📅 2026-09-07 [paper](https://proceedings.mlr.press/v204/mendil23a/mendil23a.pdf) [slides](https://copa-conference.com/presentations/COPA_2023_mouhcine_mendil_puncc.pdf) 🔥🔥🔥🔥🔥
+6. [Puncc (Predictive uncertainty calibration and conformalization)](https://github.com/deel-ai/puncc) ⭐ 404 | 🐛 2 | 🌐 Python | 📅 2026-09-09 [paper](https://proceedings.mlr.press/v204/mendil23a/mendil23a.pdf) [slides](https://copa-conference.com/presentations/COPA_2023_mouhcine_mendil_puncc.pdf) 🔥🔥🔥🔥🔥
+7. [Puncc (Predictive uncertainty calibration and conformalization)](https://github.com/deel-ai/puncc) ⭐ 404 | 🐛 2 | 🌐 Python | 📅 2026-09-09 [paper](https://proceedings.mlr.press/v204/mendil23a/mendil23a.pdf) [slides](https://copa-conference.com/presentations/COPA_2023_mouhcine_mendil_puncc.pdf) 🔥🔥🔥🔥🔥
 8. <https://github.com/mikekeith52/scalecast> ⭐ 354 | 🐛 164 | 🌐 Python | 📅 2026-08-09 TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
-9. [Conformalized Quantile Regression](https://github.com/yromano/cqr) ⭐ 314 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2026-02-02 by Yaniv Romano (2019) 🔥🔥🔥🔥🔥
+9. [Conformalized Quantile Regression](https://github.com/yromano/cqr) ⭐ 315 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2026-02-02 by Yaniv Romano (2019) 🔥🔥🔥🔥🔥
 10. [Conformal Predictions from Scratch in Numpy](https://github.com/joneswack/conformal-predictions-from-scratch) ⭐ 230 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-01-14 by Jones Wacker (2023) 🔥🔥🔥🔥🔥
 11. [Python implementation of binary and multi-class Venn-ABERS calibration](https://github.com/ip200/venn-abers) ⭐ 207 | 🐛 1 | 🌐 Python | 📅 2026-09-02 by Ivan Petej (2023) \[Paper] 🔥🔥🔥🔥
 12. [EnbPI](https://github.com/hamrel-cxu/EnbPI) ⭐ 134 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2023-11-25 by Chen Xu (2021) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥 [Paper](https://proceedings.mlr.press/v139/xu21h.html)
@@ -530,8 +530,8 @@ These are active research and practitioner questions — contributions, discussi
 
 ## Conformal Prediction Papers
 
-1. [PUNCC: a Python Library for Predictive Uncertainty Calibration and Conformalization](https://proceedings.mlr.press/v204/mendil23a/mendil23a.pdf) [slides](https://copa-conference.com/presentations/COPA_2023_mouhcine_mendil_puncc.pdf) [code](https://github.com/deel-ai/puncc) ⭐ 404 | 🐛 2 | 🌐 Python | 📅 2026-09-07  🔥🔥🔥🔥🔥
-2. [Conformalized Quantile Regression](https://arxiv.org/abs/1905.03222) by Yaniv Romano, Evan Patterson, Emmanuel J. Candès (Stanford, 2019) \[code]\(Conformalized Quantile Regression]\(<https://github.com/yromano/cqr> ⭐ 314 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2026-02-02) [project](https://sites.google.com/view/cqr) 🔥🔥🔥🔥🔥
+1. [PUNCC: a Python Library for Predictive Uncertainty Calibration and Conformalization](https://proceedings.mlr.press/v204/mendil23a/mendil23a.pdf) [slides](https://copa-conference.com/presentations/COPA_2023_mouhcine_mendil_puncc.pdf) [code](https://github.com/deel-ai/puncc) ⭐ 404 | 🐛 2 | 🌐 Python | 📅 2026-09-09  🔥🔥🔥🔥🔥
+2. [Conformalized Quantile Regression](https://arxiv.org/abs/1905.03222) by Yaniv Romano, Evan Patterson, Emmanuel J. Candès (Stanford, 2019) \[code]\(Conformalized Quantile Regression]\(<https://github.com/yromano/cqr> ⭐ 315 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2026-02-02) [project](https://sites.google.com/view/cqr) 🔥🔥🔥🔥🔥
 3. [Prediction-Powered Inference](https://arxiv.org/pdf/2301.09633.pdf) by Anastasios N. Angelopoulos, Stephen Bates, Clara Fannjiang, Michael I. Jordan, Tijana Zrnic (Universify of Berkeley, 2022) [code](https://github.com/aangelopoulos/ppi_py) ⭐ 299 | 🐛 7 | 🌐 Python | 📅 2026-04-10 🔥🔥🔥🔥🔥
 4. [Conformal PID Control for Time Series Prediction](https://arxiv.org/abs/2307.16895) by Anastasios N. Angelopoulos, Emmanuel J. Candes, Ryan J. Tibshirani (Berkeley/Stanford, NeurIPS2023) [code](https://github.com/aangelopoulos/conformal-time-series) ⭐ 144 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2023-11-30
 5. [CONffusion: CONFIDENCE INTERVALS FOR DIFFUSION MODELS](https://arxiv.org/pdf/2211.09795.pdf) [Project](https://www.vision.huji.ac.il/conffusion/)[Code](https://github.com/eliahuhorwitz/Conffusion) ⭐ 143 | 🐛 0 | 🌐 Python | 📅 2022-11-27 by Eliahu Horwitz,  Yedid Hoshen (Hebrew University of Jerusalem, 2022) 🔥🔥🔥🔥🔥
@@ -556,7 +556,7 @@ These are active research and practitioner questions — contributions, discussi
 22. [Bayesian Optimization with Conformal Coverage Guarantees](https://arxiv.org/pdf/2210.12496.pdf) by Samuel Stanton, Wesley Maddox and Andrew Gordon Wilson (Genentech, New York University, 2022) [Code](https://github.com/samuelstanton/conformal-bayesopt) ⭐ 29 | 🐛 1 | 🌐 Python | 📅 2022-10-28 🔥🔥🔥🔥🔥
 23. [Robust Uncertainty Quantification using Conformalised Monte Carlo Prediction](https://arxiv.org/pdf/2308.09647.pdf) [Code](https://github.com/team-daniel/MC-CP) ⭐ 29 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2025-05-22 by Daniel Bethell, Simos Gerasimou, Radu Calinescu (University of York, 2023) [article](https://daniel-bethell.co.uk/posts/mccp) [code](https://github.com/team-daniel/MC-CP) ⭐ 29 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2025-05-22 🔥🔥🔥🔥🔥
 24. [Conformal Validity Guarantees Exist for Any Data Distribution](https://arxiv.org/abs/2405.06627) by Drew Prinster, Samuel Stanton, Anqi Liu, Suchi Saria (John Hopkins University Genentech, 2024) [code](https://github.com/drewprinster/conformal-mfcs) ⭐ 29 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-06-28 💎💎💎💎💎🔥🔥🔥🔥🔥
-25. [Conformal Semantic Image Segmentation: Post-hoc Quantification of Predictive Uncertainty](https://openaccess.thecvf.com/content/CVPR2024W/SAIAD/html/Mossina_Conformal_Semantic_Image_Segmentation_Post-hoc_Quantification_of_Predictive_Uncertainty_CVPRW_2024_paper.html) by Luca Mossina, Joseba Dalmau, Léo Andéol (IRT Saint Exupery, Toulouse; Institut de Mathe ́matiques de Toulouse; Toulouse, SNCF,France) [code](https://github.com/deel-ai-papers/conformal-segmentation) ⭐ 27 | 🐛 0 | 🌐 Python | 📅 2024-12-09
+25. [Conformal Semantic Image Segmentation: Post-hoc Quantification of Predictive Uncertainty](https://openaccess.thecvf.com/content/CVPR2024W/SAIAD/html/Mossina_Conformal_Semantic_Image_Segmentation_Post-hoc_Quantification_of_Predictive_Uncertainty_CVPRW_2024_paper.html) by Luca Mossina, Joseba Dalmau, Léo Andéol (IRT Saint Exupery, Toulouse; Institut de Mathe ́matiques de Toulouse; Toulouse, SNCF,France) [code](https://github.com/deel-ai-papers/conformal-segmentation) ⭐ 28 | 🐛 0 | 🌐 Python | 📅 2024-12-09
 26. [Bellman Conformal Inference: Calibrating Prediction Intervals For Time Series](https://arxiv.org/abs/2402.05203) by Zitong Yang, Emmanuel Candès, Lihua Lei (Stanford, 2024)  TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥 [code](https://github.com/ZitongYang/bellman-conformal-inference) ⭐ 26 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-02-09
 27. [Conformal Predictive Systems Under Covariate Shift](https://arxiv.org/abs/2404.15018) by Jef Jonkers, Glenn Van Wallendael, Luc Duchateau, Sofie Van Hoecke (hent University, Belgium) [code](https://github.com/predict-idlab/crepes-weighted) ⭐ 26 | 🐛 0 | 🌐 Python | 📅 2025-02-18 🔥🔥🔥🔥🔥
 28. [Error-quantified Conformal Inference for Time Series](https://arxiv.org/abs/2502.00818) by Junxi Wu, Dongjian Hu, Yajie Bao, Shu-Tao Xia, Changliang Zou (Nankai University, Tsinghua University, China, 2025) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥[code](https://github.com/creator-xi/Error-quantified-Conformal-Inference) ⭐ 25 | 🐛 0 | 🌐 Python | 📅 2025-02-02
@@ -567,9 +567,9 @@ These are active research and practitioner questions — contributions, discussi
     Cooper Gamble, Moein Shariatnia, Bradley J. Erickson (Mayo Clinic Artificial Intelligence Laboratory; Orthopedic Surgery Artificial Intelligence Laboratory, Mayo Clinic, MN, USA; Tehran University of Medical Sciences) [code](https://github.com/Mayo-Radiology-Informatics-Lab/conflare) ⭐ 21 | 🐛 0 | 🌐 Python | 📅 2024-04-19 [video](https://www.youtube.com/watch?v=I6zaX5UyHlY) 🔥🔥🔥🔥
 33. [Conformal Prediction for Zero-Shot Models](https://openaccess.thecvf.com/content/CVPR2025/html/Silva-Rodriguez_Conformal_Prediction_for_Zero-Shot_Models_CVPR_2025_paper.html) by Julio Silva-Rodríguez, Ismail Ben Ayed, Jose Dolz [code](https://github.com/jusiro/CLIP-Conformal) ⭐ 21 | 🐛 0 | 🌐 Python | 📅 2025-06-07
 34. [Efficient Conformal Prediction via cascaded inference with expanded admission](https://arxiv.org/pdf/2007.03114.pdf) by Adam Fisch,  Tal Schuster, Tommi Jaakkola, Regina Barzilay (MIT 2021]. [Python Code](https://github.com/ajfisch/conformal-cascades) ⭐ 20 | 🐛 0 | 🌐 Python | 📅 2021-09-15
-35. [Conformal Inference for Online Prediction with Arbitrary Distribution Shifts](https://jmlr.org/papers/v25/22-1218.html) by Isaac Gibbs, Emmanuel J. Candès [code](https://github.com/isgibbs/DtACI) ⭐ 20 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2025-04-07 (2024) 🔥🔥🔥🔥🔥
-36. Neural Conformal Control for Time Series Forecasting]\(<https://arxiv.org/abs/2412.18144>) by Ruipu Li, Alexander Rodrıguez (University of Michigan, 2024) [code](https://github.com/complex-ai-lab/ncc) ⭐ 20 | 🐛 0 | 🌐 Python | 📅 2025-03-27 TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
-37. [Fast nonlinear vector quantile regression](https://arxiv.org/pdf/2205.14977.pdf) by Aviv A. Rosenberg, Sanketh Vedula, Yaniv Romano and Alex M. Bronstein (Technion, 2023) [code](https://github.com/vistalab-technion/vqr) ⭐ 19 | 🐛 5 | 🌐 Python | 📅 2025-04-03 🔥🔥🔥🔥🔥
+35. [Fast nonlinear vector quantile regression](https://arxiv.org/pdf/2205.14977.pdf) by Aviv A. Rosenberg, Sanketh Vedula, Yaniv Romano and Alex M. Bronstein (Technion, 2023) [code](https://github.com/vistalab-technion/vqr) ⭐ 20 | 🐛 5 | 🌐 Python | 📅 2025-04-03 🔥🔥🔥🔥🔥
+36. [Conformal Inference for Online Prediction with Arbitrary Distribution Shifts](https://jmlr.org/papers/v25/22-1218.html) by Isaac Gibbs, Emmanuel J. Candès [code](https://github.com/isgibbs/DtACI) ⭐ 20 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2025-04-07 (2024) 🔥🔥🔥🔥🔥
+37. Neural Conformal Control for Time Series Forecasting]\(<https://arxiv.org/abs/2412.18144>) by Ruipu Li, Alexander Rodrıguez (University of Michigan, 2024) [code](https://github.com/complex-ai-lab/ncc) ⭐ 20 | 🐛 0 | 🌐 Python | 📅 2025-03-27 TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 38. [Transformer Conformal Prediction for Time Series](https://arxiv.org/abs/2406.05332) by Junghwan Lee, Chen Xu, Yao Xie (Georgia Tech, 2024) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥 [code](https://github.com/Jayaos/TCPTS) ⭐ 19 | 🐛 0 | 🌐 Python | 📅 2026-04-13
 39. [Split Conformal Prediction and Non-Exchangeable Data](https://www.jmlr.org/papers/v25/23-1553.html) by Roberto I. Oliveira, Paulo Orenstein, Thiago Ramos, João Vitor Romano (IMPA, Brazil, 2024) [code](https://github.com/jv-rv/split-conformal-nonexchangeable) ⭐ 18 | 🐛 0 | 🌐 Python | 📅 2024-08-22
 40. [Selection by Prediction with Conformal p-values](https://arxiv.org/pdf/2210.01408.pdf) by Ying Jin1 and Emmanuel J. Candes, (Stanford, 2022) [Video](https://www.youtube.com/watch?v=YEpvHsHCCvQ) [code](https://github.com/ying531/selcf_paper) ⭐ 17 | 🐛 0 | 🌐 Python | 📅 2022-11-02
@@ -1236,7 +1236,7 @@ These are active research and practitioner questions — contributions, discussi
 
 ## PhD Theses on Conformal Prediction
 
-1. [Benchmarking conformal prediction methods for time series regression](https://github.com/valeman/awesome-conformal-prediction/blob/main/assets/BScThesis_DerckPrinzhorn.pdf) ⭐ 1,298 | 🐛 3 | 📅 2026-08-25 by Derck W\.E. Prinzhorn (2023) [code](https://github.com/dweprinz/Benchmarking-conformal-prediction-methods-for-time-series-regression) ⭐ 9 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2023-07-29 🔥🔥🔥🔥🔥
+1. [Benchmarking conformal prediction methods for time series regression](https://github.com/valeman/awesome-conformal-prediction/blob/main/assets/BScThesis_DerckPrinzhorn.pdf) ⭐ 1,299 | 🐛 3 | 📅 2026-08-25 by Derck W\.E. Prinzhorn (2023) [code](https://github.com/dweprinz/Benchmarking-conformal-prediction-methods-for-time-series-regression) ⭐ 9 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2023-07-29 🔥🔥🔥🔥🔥
 2. [Conformal Prediction in Limit Order Books: Calibration and Uncertainty Quantification of DeepLOB](https://github.com/Fabio-Rossi-Hub/Conformal-HFT/blob/main/Thesis_DRAFT.pdf) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2024-09-05 by Fabio Rossi, Imperial College (2024)
 3. [Conformal prediction and beyond](https://gcastro-98.github.io/conformal-prediction-media/thesis.pdf), MSc thesis by Gerard CASTRO CASTILLO (University of Barcelona, 2024) [code](https://github.com/gcastro-98/conformal-prediction) ⭐ 5 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2024-06-16
 4. [An Active Learning Approach for Reject Inference in Credit Scoring using Conformal Prediction Intervals on Real and Semi-Artificial Data](https://github.com/MaximilianSuliga/Conformal-Active-Learning-for-Reject-Inference) ⭐ 3 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2023-06-02 by Maximilian Suliga (Humboldt University of Berlin, 2023)
@@ -1363,4 +1363,4 @@ These are active research and practitioner questions — contributions, discussi
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
