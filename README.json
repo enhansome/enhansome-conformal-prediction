@@ -19,7 +19,7 @@
             "open_issues": 7,
             "owner": "aangelopoulos",
             "repo": "conformal-prediction",
-            "stars": 1084,
+            "stars": 1085,
             "topics": [
               "computer-vision",
               "conformal",
@@ -220,7 +220,7 @@
             "open_issues": 77,
             "owner": "online-ml",
             "repo": "river",
-            "stars": 6091,
+            "stars": 6093,
             "topics": [
               "concept-drift",
               "data-science",
@@ -254,7 +254,7 @@
             "open_issues": 3,
             "owner": "valeman",
             "repo": "awesome-conformal-prediction",
-            "stars": 1299,
+            "stars": 1301,
             "topics": [
               "ai",
               "awesome",
@@ -295,7 +295,7 @@
             "open_issues": 3,
             "owner": "valeman",
             "repo": "awesome-conformal-prediction",
-            "stars": 1299,
+            "stars": 1301,
             "topics": [
               "ai",
               "awesome",
@@ -342,7 +342,7 @@
             "open_issues": 77,
             "owner": "online-ml",
             "repo": "river",
-            "stars": 6091,
+            "stars": 6093,
             "topics": [
               "concept-drift",
               "data-science",
@@ -418,7 +418,7 @@
             "open_issues": 44,
             "owner": "numenta",
             "repo": "NAB",
-            "stars": 2108,
+            "stars": 2107,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
@@ -488,7 +488,7 @@
             "open_issues": 2,
             "owner": "deel-ai",
             "repo": "puncc",
-            "stars": 405,
+            "stars": 407,
             "topics": [
               "conformal-inference",
               "conformal-prediction",
@@ -515,7 +515,7 @@
             "open_issues": 2,
             "owner": "deel-ai",
             "repo": "puncc",
-            "stars": 405,
+            "stars": 407,
             "topics": [
               "conformal-inference",
               "conformal-prediction",
@@ -1423,7 +1423,7 @@
             "id": 584985844,
             "language": "HTML",
             "license": null,
-            "last_commit": "2026-09-10T19:01:54Z",
+            "last_commit": "2026-09-11T16:16:12Z",
             "open_issues": 38,
             "owner": "tidymodels",
             "repo": "tidymodels.org",
@@ -1833,7 +1833,7 @@
             "open_issues": 2,
             "owner": "deel-ai",
             "repo": "puncc",
-            "stars": 405,
+            "stars": 407,
             "topics": [
               "conformal-inference",
               "conformal-prediction",
@@ -1893,7 +1893,7 @@
             "open_issues": 7,
             "owner": "aangelopoulos",
             "repo": "ppi_py",
-            "stars": 299,
+            "stars": 300,
             "topics": [
               "confidence-interval",
               "confidence-intervals",
@@ -5163,7 +5163,7 @@
             "open_issues": 3,
             "owner": "valeman",
             "repo": "awesome-conformal-prediction",
-            "stars": 1299,
+            "stars": 1301,
             "topics": [
               "ai",
               "awesome",
@@ -5277,7 +5277,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T19:40:17.195Z",
+    "last_updated": "2026-09-11T19:41:16.662Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professionally curated list of awesome Conformal Prediction videos, tutorials, books, papers, PhD and MSc theses, articles and open-source libraries.",
@@ -5289,7 +5289,7 @@
       "open_issues": 3,
       "owner": "valeman",
       "repo": "awesome-conformal-prediction",
-      "stars": 1299,
+      "stars": 1301,
       "topics": [
         "ai",
         "awesome",
