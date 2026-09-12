@@ -220,7 +220,7 @@
             "open_issues": 77,
             "owner": "online-ml",
             "repo": "river",
-            "stars": 6093,
+            "stars": 6092,
             "topics": [
               "concept-drift",
               "data-science",
@@ -342,7 +342,7 @@
             "open_issues": 77,
             "owner": "online-ml",
             "repo": "river",
-            "stars": 6093,
+            "stars": 6092,
             "topics": [
               "concept-drift",
               "data-science",
@@ -376,7 +376,7 @@
             "open_issues": 89,
             "owner": "ourownstory",
             "repo": "neural_prophet",
-            "stars": 4298,
+            "stars": 4299,
             "topics": [
               "artificial-intelligence",
               "autoregression",
@@ -488,7 +488,7 @@
             "open_issues": 2,
             "owner": "deel-ai",
             "repo": "puncc",
-            "stars": 407,
+            "stars": 408,
             "topics": [
               "conformal-inference",
               "conformal-prediction",
@@ -515,7 +515,7 @@
             "open_issues": 2,
             "owner": "deel-ai",
             "repo": "puncc",
-            "stars": 407,
+            "stars": 408,
             "topics": [
               "conformal-inference",
               "conformal-prediction",
@@ -542,7 +542,7 @@
             "open_issues": 164,
             "owner": "mikekeith52",
             "repo": "scalecast",
-            "stars": 354,
+            "stars": 353,
             "topics": [
               "auto-ml",
               "data-science",
@@ -1833,7 +1833,7 @@
             "open_issues": 2,
             "owner": "deel-ai",
             "repo": "puncc",
-            "stars": 407,
+            "stars": 408,
             "topics": [
               "conformal-inference",
               "conformal-prediction",
@@ -5277,7 +5277,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T19:41:16.662Z",
+    "last_updated": "2026-09-12T19:19:06.152Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professionally curated list of awesome Conformal Prediction videos, tutorials, books, papers, PhD and MSc theses, articles and open-source libraries.",
