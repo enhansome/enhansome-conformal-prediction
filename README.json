@@ -19,7 +19,7 @@
             "open_issues": 7,
             "owner": "aangelopoulos",
             "repo": "conformal-prediction",
-            "stars": 1089,
+            "stars": 1090,
             "topics": [
               "computer-vision",
               "conformal",
@@ -216,11 +216,11 @@
             "id": 167388434,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-17T19:54:15Z",
-            "open_issues": 74,
+            "last_commit": "2026-09-18T18:44:20Z",
+            "open_issues": 73,
             "owner": "online-ml",
             "repo": "river",
-            "stars": 6099,
+            "stars": 6100,
             "topics": [
               "concept-drift",
               "data-science",
@@ -338,11 +338,11 @@
             "id": 167388434,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-17T19:54:15Z",
-            "open_issues": 74,
+            "last_commit": "2026-09-18T18:44:20Z",
+            "open_issues": 73,
             "owner": "online-ml",
             "repo": "river",
-            "stars": 6099,
+            "stars": 6100,
             "topics": [
               "concept-drift",
               "data-science",
@@ -642,7 +642,7 @@
             "open_issues": 1,
             "owner": "ip200",
             "repo": "venn-abers",
-            "stars": 208,
+            "stars": 207,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
@@ -5277,7 +5277,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T20:19:19.913Z",
+    "last_updated": "2026-09-18T19:34:44.782Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professionally curated list of awesome Conformal Prediction videos, tutorials, books, papers, PhD and MSc theses, articles and open-source libraries.",
