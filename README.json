@@ -19,7 +19,7 @@
             "open_issues": 7,
             "owner": "aangelopoulos",
             "repo": "conformal-prediction",
-            "stars": 1090,
+            "stars": 1091,
             "topics": [
               "computer-vision",
               "conformal",
@@ -216,11 +216,11 @@
             "id": 167388434,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-18T18:44:20Z",
-            "open_issues": 73,
+            "last_commit": "2026-09-20T13:42:26Z",
+            "open_issues": 71,
             "owner": "online-ml",
             "repo": "river",
-            "stars": 6102,
+            "stars": 6105,
             "topics": [
               "concept-drift",
               "data-science",
@@ -338,11 +338,11 @@
             "id": 167388434,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-18T18:44:20Z",
-            "open_issues": 73,
+            "last_commit": "2026-09-20T13:42:26Z",
+            "open_issues": 71,
             "owner": "online-ml",
             "repo": "river",
-            "stars": 6102,
+            "stars": 6105,
             "topics": [
               "concept-drift",
               "data-science",
@@ -754,6 +754,35 @@
         },
         {
           "node_type": "item",
+          "title": "confopt - A Library for Conformal Hyperparameter Tuning",
+          "description": "by Ricardo Doyle (2024) paper 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A Library for Conformal Hyperparameter Tuning",
+            "homepage": "https://confopt.readthedocs.io",
+            "id": 729633680,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2025-11-24T00:36:54Z",
+            "open_issues": 0,
+            "owner": "rick12000",
+            "repo": "confopt",
+            "stars": 105,
+            "topics": [
+              "automl",
+              "conformal-prediction",
+              "hyperparameter-optimization",
+              "hyperparameter-tuning",
+              "inferential-statistics",
+              "machine-learning",
+              "predictive-modeling"
+            ]
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
+        },
+        {
+          "node_type": "item",
           "title": "Ensemble Conformalized Quantile Regression for Probabilistic Time Series Forecasting",
           "description": "Vilde Jensen, Filippo Maria Bianchi and Stian Norman Anfinsen (2022) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥",
           "children": [],
@@ -782,35 +811,6 @@
               "time-series-forecasting",
               "time-series-prediction",
               "uncertainty-quantification"
-            ]
-          },
-          "first_seen": "2026-08-29T00:58:03.411Z"
-        },
-        {
-          "node_type": "item",
-          "title": "confopt - A Library for Conformal Hyperparameter Tuning",
-          "description": "by Ricardo Doyle (2024) paper 🔥🔥🔥🔥🔥",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A Library for Conformal Hyperparameter Tuning",
-            "homepage": "https://confopt.readthedocs.io",
-            "id": 729633680,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2025-11-24T00:36:54Z",
-            "open_issues": 0,
-            "owner": "rick12000",
-            "repo": "confopt",
-            "stars": 104,
-            "topics": [
-              "automl",
-              "conformal-prediction",
-              "hyperparameter-optimization",
-              "hyperparameter-tuning",
-              "inferential-statistics",
-              "machine-learning",
-              "predictive-modeling"
             ]
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
@@ -1979,6 +1979,35 @@
         },
         {
           "node_type": "item",
+          "title": "ACHO: Adaptive Conformal Hyperparameter Optimization",
+          "description": "by Ricardo Doyle (2023) 🔥🔥🔥🔥🔥 code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A Library for Conformal Hyperparameter Tuning",
+            "homepage": "https://confopt.readthedocs.io",
+            "id": 729633680,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2025-11-24T00:36:54Z",
+            "open_issues": 0,
+            "owner": "rick12000",
+            "repo": "confopt",
+            "stars": 105,
+            "topics": [
+              "automl",
+              "conformal-prediction",
+              "hyperparameter-optimization",
+              "hyperparameter-tuning",
+              "inferential-statistics",
+              "machine-learning",
+              "predictive-modeling"
+            ]
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
+        },
+        {
+          "node_type": "item",
           "title": "Ensemble Conformalized Quantile Regression for Probabilistic Time Series Forecasting",
           "description": "by Vilde Jensen, Filippo Maria Bianchi, Stian Norman Anfinsen (Arctic University of Norway, 2022) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥 Python Code",
           "children": [],
@@ -2007,35 +2036,6 @@
               "time-series-forecasting",
               "time-series-prediction",
               "uncertainty-quantification"
-            ]
-          },
-          "first_seen": "2026-08-29T00:58:03.411Z"
-        },
-        {
-          "node_type": "item",
-          "title": "ACHO: Adaptive Conformal Hyperparameter Optimization",
-          "description": "by Ricardo Doyle (2023) 🔥🔥🔥🔥🔥 code",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A Library for Conformal Hyperparameter Tuning",
-            "homepage": "https://confopt.readthedocs.io",
-            "id": 729633680,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2025-11-24T00:36:54Z",
-            "open_issues": 0,
-            "owner": "rick12000",
-            "repo": "confopt",
-            "stars": 104,
-            "topics": [
-              "automl",
-              "conformal-prediction",
-              "hyperparameter-optimization",
-              "hyperparameter-tuning",
-              "inferential-statistics",
-              "machine-learning",
-              "predictive-modeling"
             ]
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
@@ -2248,7 +2248,7 @@
             "open_issues": 1,
             "owner": "sunericd",
             "repo": "TISSUE",
-            "stars": 46,
+            "stars": 47,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
@@ -2948,7 +2948,7 @@
             "open_issues": 0,
             "owner": "Quilograma",
             "repo": "AEnbMIMOCQR",
-            "stars": 14,
+            "stars": 15,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
@@ -4884,7 +4884,7 @@
             "open_issues": 0,
             "owner": "Quilograma",
             "repo": "AEnbMIMOCQR",
-            "stars": 14,
+            "stars": 15,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
@@ -5277,7 +5277,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T19:18:49.555Z",
+    "last_updated": "2026-09-20T19:26:35.363Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professionally curated list of awesome Conformal Prediction videos, tutorials, books, papers, PhD and MSc theses, articles and open-source libraries.",
