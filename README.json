@@ -216,8 +216,8 @@
             "id": 167388434,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-20T13:42:26Z",
-            "open_issues": 71,
+            "last_commit": "2026-09-21T18:32:39Z",
+            "open_issues": 73,
             "owner": "online-ml",
             "repo": "river",
             "stars": 6105,
@@ -254,7 +254,7 @@
             "open_issues": 3,
             "owner": "valeman",
             "repo": "awesome-conformal-prediction",
-            "stars": 1306,
+            "stars": 1308,
             "topics": [
               "ai",
               "awesome",
@@ -295,7 +295,7 @@
             "open_issues": 3,
             "owner": "valeman",
             "repo": "awesome-conformal-prediction",
-            "stars": 1306,
+            "stars": 1308,
             "topics": [
               "ai",
               "awesome",
@@ -338,8 +338,8 @@
             "id": 167388434,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-20T13:42:26Z",
-            "open_issues": 71,
+            "last_commit": "2026-09-21T18:32:39Z",
+            "open_issues": 73,
             "owner": "online-ml",
             "repo": "river",
             "stars": 6105,
@@ -376,7 +376,7 @@
             "open_issues": 91,
             "owner": "ourownstory",
             "repo": "neural_prophet",
-            "stars": 4299,
+            "stars": 4300,
             "topics": [
               "artificial-intelligence",
               "autoregression",
@@ -425,6 +425,34 @@
         },
         {
           "node_type": "item",
+          "title": "TorchCP - A library for conformal prediction",
+          "description": "🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A Python toolbox for conformal prediction research on deep learning models, using PyTorch.",
+            "homepage": null,
+            "id": 728116762,
+            "language": "Python",
+            "license": "LGPL-3.0",
+            "last_commit": "2026-08-05T11:58:30Z",
+            "open_issues": 8,
+            "owner": "ml-stat-Sustech",
+            "repo": "TorchCP",
+            "stars": 479,
+            "topics": [
+              "classification",
+              "conformal-prediction",
+              "graph",
+              "large-language-models",
+              "regression",
+              "uncertainty-quantification"
+            ]
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
+        },
+        {
+          "node_type": "item",
           "title": "Nonconformist",
           "description": "by Henrik Linusson (2015) 🔥🔥🔥🔥🔥",
           "children": [],
@@ -446,34 +474,6 @@
         },
         {
           "node_type": "item",
-          "title": "TorchCP - A library for conformal prediction",
-          "description": "🔥🔥🔥🔥🔥",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A Python toolbox for conformal prediction research on deep learning models, using PyTorch.",
-            "homepage": null,
-            "id": 728116762,
-            "language": "Python",
-            "license": "LGPL-3.0",
-            "last_commit": "2026-08-05T11:58:30Z",
-            "open_issues": 8,
-            "owner": "ml-stat-Sustech",
-            "repo": "TorchCP",
-            "stars": 478,
-            "topics": [
-              "classification",
-              "conformal-prediction",
-              "graph",
-              "large-language-models",
-              "regression",
-              "uncertainty-quantification"
-            ]
-          },
-          "first_seen": "2026-08-29T00:58:03.411Z"
-        },
-        {
-          "node_type": "item",
           "title": "Puncc (Predictive uncertainty calibration and conformalization)",
           "description": "paper slides 🔥🔥🔥🔥🔥",
           "children": [],
@@ -484,11 +484,11 @@
             "id": 515914540,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-09-17T13:55:26Z",
+            "last_commit": "2026-09-21T15:05:09Z",
             "open_issues": 2,
             "owner": "deel-ai",
             "repo": "puncc",
-            "stars": 408,
+            "stars": 409,
             "topics": [
               "conformal-inference",
               "conformal-prediction",
@@ -511,11 +511,11 @@
             "id": 515914540,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-09-17T13:55:26Z",
+            "last_commit": "2026-09-21T15:05:09Z",
             "open_issues": 2,
             "owner": "deel-ai",
             "repo": "puncc",
-            "stars": 408,
+            "stars": 409,
             "topics": [
               "conformal-inference",
               "conformal-prediction",
@@ -848,8 +848,8 @@
             "id": 634794673,
             "language": "Jupyter Notebook",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-14T15:43:22Z",
-            "open_issues": 11,
+            "last_commit": "2026-09-21T11:25:28Z",
+            "open_issues": 14,
             "owner": "Moffran",
             "repo": "calibrated_explanations",
             "stars": 79,
@@ -1829,11 +1829,11 @@
             "id": 515914540,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-09-17T13:55:26Z",
+            "last_commit": "2026-09-21T15:05:09Z",
             "open_issues": 2,
             "owner": "deel-ai",
             "repo": "puncc",
-            "stars": 408,
+            "stars": 409,
             "topics": [
               "conformal-inference",
               "conformal-prediction",
@@ -2080,8 +2080,8 @@
             "id": 634794673,
             "language": "Jupyter Notebook",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-14T15:43:22Z",
-            "open_issues": 11,
+            "last_commit": "2026-09-21T11:25:28Z",
+            "open_issues": 14,
             "owner": "Moffran",
             "repo": "calibrated_explanations",
             "stars": 79,
@@ -4650,7 +4650,7 @@
             "open_issues": 0,
             "owner": "hamrel-cxu",
             "repo": "SPCI-code",
-            "stars": 39,
+            "stars": 40,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
@@ -5163,7 +5163,7 @@
             "open_issues": 3,
             "owner": "valeman",
             "repo": "awesome-conformal-prediction",
-            "stars": 1306,
+            "stars": 1308,
             "topics": [
               "ai",
               "awesome",
@@ -5277,7 +5277,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T19:26:35.363Z",
+    "last_updated": "2026-09-21T21:02:58.714Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professionally curated list of awesome Conformal Prediction videos, tutorials, books, papers, PhD and MSc theses, articles and open-source libraries.",
@@ -5289,7 +5289,7 @@
       "open_issues": 3,
       "owner": "valeman",
       "repo": "awesome-conformal-prediction",
-      "stars": 1306,
+      "stars": 1308,
       "topics": [
         "ai",
         "awesome",
