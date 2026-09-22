@@ -217,10 +217,10 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-09-21T18:32:39Z",
-            "open_issues": 73,
+            "open_issues": 74,
             "owner": "online-ml",
             "repo": "river",
-            "stars": 6105,
+            "stars": 6107,
             "topics": [
               "concept-drift",
               "data-science",
@@ -254,7 +254,7 @@
             "open_issues": 3,
             "owner": "valeman",
             "repo": "awesome-conformal-prediction",
-            "stars": 1308,
+            "stars": 1310,
             "topics": [
               "ai",
               "awesome",
@@ -295,7 +295,7 @@
             "open_issues": 3,
             "owner": "valeman",
             "repo": "awesome-conformal-prediction",
-            "stars": 1308,
+            "stars": 1310,
             "topics": [
               "ai",
               "awesome",
@@ -339,10 +339,10 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-09-21T18:32:39Z",
-            "open_issues": 73,
+            "open_issues": 74,
             "owner": "online-ml",
             "repo": "river",
-            "stars": 6105,
+            "stars": 6107,
             "topics": [
               "concept-drift",
               "data-science",
@@ -418,7 +418,7 @@
             "open_issues": 44,
             "owner": "numenta",
             "repo": "NAB",
-            "stars": 2108,
+            "stars": 2109,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
@@ -848,7 +848,7 @@
             "id": 634794673,
             "language": "Jupyter Notebook",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-21T11:25:28Z",
+            "last_commit": "2026-09-22T17:55:49Z",
             "open_issues": 14,
             "owner": "Moffran",
             "repo": "calibrated_explanations",
@@ -2080,7 +2080,7 @@
             "id": 634794673,
             "language": "Jupyter Notebook",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-21T11:25:28Z",
+            "last_commit": "2026-09-22T17:55:49Z",
             "open_issues": 14,
             "owner": "Moffran",
             "repo": "calibrated_explanations",
@@ -5163,7 +5163,7 @@
             "open_issues": 3,
             "owner": "valeman",
             "repo": "awesome-conformal-prediction",
-            "stars": 1308,
+            "stars": 1310,
             "topics": [
               "ai",
               "awesome",
@@ -5277,7 +5277,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T21:02:58.714Z",
+    "last_updated": "2026-09-22T20:11:19.367Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professionally curated list of awesome Conformal Prediction videos, tutorials, books, papers, PhD and MSc theses, articles and open-source libraries.",
@@ -5289,7 +5289,7 @@
       "open_issues": 3,
       "owner": "valeman",
       "repo": "awesome-conformal-prediction",
-      "stars": 1308,
+      "stars": 1310,
       "topics": [
         "ai",
         "awesome",
