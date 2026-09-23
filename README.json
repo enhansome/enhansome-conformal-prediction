@@ -220,7 +220,7 @@
             "open_issues": 74,
             "owner": "online-ml",
             "repo": "river",
-            "stars": 6107,
+            "stars": 6109,
             "topics": [
               "concept-drift",
               "data-science",
@@ -342,7 +342,7 @@
             "open_issues": 74,
             "owner": "online-ml",
             "repo": "river",
-            "stars": 6107,
+            "stars": 6109,
             "topics": [
               "concept-drift",
               "data-science",
@@ -376,7 +376,7 @@
             "open_issues": 91,
             "owner": "ourownstory",
             "repo": "neural_prophet",
-            "stars": 4300,
+            "stars": 4301,
             "topics": [
               "artificial-intelligence",
               "autoregression",
@@ -418,7 +418,7 @@
             "open_issues": 44,
             "owner": "numenta",
             "repo": "NAB",
-            "stars": 2109,
+            "stars": 2110,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
@@ -488,7 +488,7 @@
             "open_issues": 2,
             "owner": "deel-ai",
             "repo": "puncc",
-            "stars": 409,
+            "stars": 410,
             "topics": [
               "conformal-inference",
               "conformal-prediction",
@@ -515,7 +515,7 @@
             "open_issues": 2,
             "owner": "deel-ai",
             "repo": "puncc",
-            "stars": 409,
+            "stars": 410,
             "topics": [
               "conformal-inference",
               "conformal-prediction",
@@ -582,7 +582,7 @@
             "open_issues": 4,
             "owner": "yromano",
             "repo": "cqr",
-            "stars": 315,
+            "stars": 316,
             "topics": [
               "algorithmic-fairness",
               "conformal-methods",
@@ -848,8 +848,8 @@
             "id": 634794673,
             "language": "Jupyter Notebook",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-22T17:55:49Z",
-            "open_issues": 14,
+            "last_commit": "2026-09-23T18:23:08Z",
+            "open_issues": 21,
             "owner": "Moffran",
             "repo": "calibrated_explanations",
             "stars": 79,
@@ -1833,7 +1833,7 @@
             "open_issues": 2,
             "owner": "deel-ai",
             "repo": "puncc",
-            "stars": 409,
+            "stars": 410,
             "topics": [
               "conformal-inference",
               "conformal-prediction",
@@ -1860,7 +1860,7 @@
             "open_issues": 4,
             "owner": "yromano",
             "repo": "cqr",
-            "stars": 315,
+            "stars": 316,
             "topics": [
               "algorithmic-fairness",
               "conformal-methods",
@@ -2080,8 +2080,8 @@
             "id": 634794673,
             "language": "Jupyter Notebook",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-22T17:55:49Z",
-            "open_issues": 14,
+            "last_commit": "2026-09-23T18:23:08Z",
+            "open_issues": 21,
             "owner": "Moffran",
             "repo": "calibrated_explanations",
             "stars": 79,
@@ -3907,6 +3907,27 @@
         },
         {
           "node_type": "item",
+          "title": "Learning Robot Safety from Sparse Human Feedback using Conformal Prediction",
+          "description": "by (Aaron O. Feldman, Joseph A. Vincent, Maximilian Adang, Jun En Low, and Mac Schwager, Stanford 2025) project code 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Companion code for the paper Learning Robot Safety from Sparse Human Feedback using Conformal Prediction.",
+            "homepage": null,
+            "id": 883906722,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2026-02-04T20:56:28Z",
+            "open_issues": 0,
+            "owner": "StanfordMSL",
+            "repo": "conformal-safety-learning",
+            "stars": 4,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
+        },
+        {
+          "node_type": "item",
           "title": "Test-time recalibration of conformal predictors under distribution shift based on unlabeled examples",
           "description": "Code",
           "children": [],
@@ -3984,27 +4005,6 @@
             "open_issues": 0,
             "owner": "luo-lorry",
             "repo": "CIA",
-            "stars": 3,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T00:58:03.411Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Learning Robot Safety from Sparse Human Feedback using Conformal Prediction",
-          "description": "by (Aaron O. Feldman, Joseph A. Vincent, Maximilian Adang, Jun En Low, and Mac Schwager, Stanford 2025) project code 🔥🔥🔥🔥🔥",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Companion code for the paper Learning Robot Safety from Sparse Human Feedback using Conformal Prediction.",
-            "homepage": null,
-            "id": 883906722,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2026-02-04T20:56:28Z",
-            "open_issues": 0,
-            "owner": "StanfordMSL",
-            "repo": "conformal-safety-learning",
             "stars": 3,
             "topics": []
           },
@@ -4408,7 +4408,7 @@
           "repo_info": {
             "archived": false,
             "description": "Single cell annotator",
-            "homepage": null,
+            "homepage": "https://doi.org/10.1093/bioinformatics/btaf521",
             "id": 914320480,
             "language": "Python",
             "license": null,
@@ -4629,7 +4629,7 @@
             "open_issues": 0,
             "owner": "salesforce",
             "repo": "online_conformal",
-            "stars": 117,
+            "stars": 116,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
@@ -5277,7 +5277,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T20:11:19.367Z",
+    "last_updated": "2026-09-23T20:20:10.350Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professionally curated list of awesome Conformal Prediction videos, tutorials, books, papers, PhD and MSc theses, articles and open-source libraries.",
