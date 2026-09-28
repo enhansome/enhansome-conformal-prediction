@@ -19,7 +19,7 @@
             "open_issues": 7,
             "owner": "aangelopoulos",
             "repo": "conformal-prediction",
-            "stars": 1092,
+            "stars": 1094,
             "topics": [
               "computer-vision",
               "conformal",
@@ -216,8 +216,8 @@
             "id": 167388434,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-27T11:52:34Z",
-            "open_issues": 76,
+            "last_commit": "2026-09-28T03:17:21Z",
+            "open_issues": 78,
             "owner": "online-ml",
             "repo": "river",
             "stars": 6111,
@@ -254,7 +254,7 @@
             "open_issues": 3,
             "owner": "valeman",
             "repo": "awesome-conformal-prediction",
-            "stars": 1312,
+            "stars": 1314,
             "topics": [
               "ai",
               "awesome",
@@ -295,7 +295,7 @@
             "open_issues": 3,
             "owner": "valeman",
             "repo": "awesome-conformal-prediction",
-            "stars": 1312,
+            "stars": 1314,
             "topics": [
               "ai",
               "awesome",
@@ -338,8 +338,8 @@
             "id": 167388434,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-27T11:52:34Z",
-            "open_issues": 76,
+            "last_commit": "2026-09-28T03:17:21Z",
+            "open_issues": 78,
             "owner": "online-ml",
             "repo": "river",
             "stars": 6111,
@@ -376,7 +376,7 @@
             "open_issues": 91,
             "owner": "ourownstory",
             "repo": "neural_prophet",
-            "stars": 4301,
+            "stars": 4303,
             "topics": [
               "artificial-intelligence",
               "autoregression",
@@ -582,7 +582,7 @@
             "open_issues": 4,
             "owner": "yromano",
             "repo": "cqr",
-            "stars": 316,
+            "stars": 317,
             "topics": [
               "algorithmic-fairness",
               "conformal-methods",
@@ -1423,8 +1423,8 @@
             "id": 584985844,
             "language": "HTML",
             "license": null,
-            "last_commit": "2026-09-25T16:58:36Z",
-            "open_issues": 38,
+            "last_commit": "2026-09-28T20:14:56Z",
+            "open_issues": 39,
             "owner": "tidymodels",
             "repo": "tidymodels.org",
             "stars": 24,
@@ -1860,7 +1860,7 @@
             "open_issues": 4,
             "owner": "yromano",
             "repo": "cqr",
-            "stars": 316,
+            "stars": 317,
             "topics": [
               "algorithmic-fairness",
               "conformal-methods",
@@ -5163,7 +5163,7 @@
             "open_issues": 3,
             "owner": "valeman",
             "repo": "awesome-conformal-prediction",
-            "stars": 1312,
+            "stars": 1314,
             "topics": [
               "ai",
               "awesome",
@@ -5277,7 +5277,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T20:08:07.571Z",
+    "last_updated": "2026-09-28T22:32:09.493Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professionally curated list of awesome Conformal Prediction videos, tutorials, books, papers, PhD and MSc theses, articles and open-source libraries.",
@@ -5289,7 +5289,7 @@
       "open_issues": 3,
       "owner": "valeman",
       "repo": "awesome-conformal-prediction",
-      "stars": 1312,
+      "stars": 1314,
       "topics": [
         "ai",
         "awesome",
