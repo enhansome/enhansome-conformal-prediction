@@ -220,7 +220,7 @@
             "open_issues": 78,
             "owner": "online-ml",
             "repo": "river",
-            "stars": 6111,
+            "stars": 6115,
             "topics": [
               "concept-drift",
               "data-science",
@@ -254,7 +254,7 @@
             "open_issues": 3,
             "owner": "valeman",
             "repo": "awesome-conformal-prediction",
-            "stars": 1314,
+            "stars": 1315,
             "topics": [
               "ai",
               "awesome",
@@ -295,7 +295,7 @@
             "open_issues": 3,
             "owner": "valeman",
             "repo": "awesome-conformal-prediction",
-            "stars": 1314,
+            "stars": 1315,
             "topics": [
               "ai",
               "awesome",
@@ -342,7 +342,7 @@
             "open_issues": 78,
             "owner": "online-ml",
             "repo": "river",
-            "stars": 6111,
+            "stars": 6115,
             "topics": [
               "concept-drift",
               "data-science",
@@ -376,7 +376,7 @@
             "open_issues": 91,
             "owner": "ourownstory",
             "repo": "neural_prophet",
-            "stars": 4303,
+            "stars": 4304,
             "topics": [
               "artificial-intelligence",
               "autoregression",
@@ -418,7 +418,7 @@
             "open_issues": 44,
             "owner": "numenta",
             "repo": "NAB",
-            "stars": 2110,
+            "stars": 2111,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
@@ -848,8 +848,8 @@
             "id": 634794673,
             "language": "Jupyter Notebook",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-24T04:35:54Z",
-            "open_issues": 21,
+            "last_commit": "2026-09-28T22:44:07Z",
+            "open_issues": 22,
             "owner": "Moffran",
             "repo": "calibrated_explanations",
             "stars": 79,
@@ -1423,8 +1423,8 @@
             "id": 584985844,
             "language": "HTML",
             "license": null,
-            "last_commit": "2026-09-28T20:14:56Z",
-            "open_issues": 39,
+            "last_commit": "2026-09-29T18:26:28Z",
+            "open_issues": 40,
             "owner": "tidymodels",
             "repo": "tidymodels.org",
             "stars": 24,
@@ -1924,7 +1924,7 @@
             "open_issues": 1,
             "owner": "aangelopoulos",
             "repo": "conformal-time-series",
-            "stars": 144,
+            "stars": 145,
             "topics": [
               "conformal",
               "conformal-prediction",
@@ -2080,8 +2080,8 @@
             "id": 634794673,
             "language": "Jupyter Notebook",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-24T04:35:54Z",
-            "open_issues": 21,
+            "last_commit": "2026-09-28T22:44:07Z",
+            "open_issues": 22,
             "owner": "Moffran",
             "repo": "calibrated_explanations",
             "stars": 79,
@@ -4569,7 +4569,7 @@
             "open_issues": 1,
             "owner": "aangelopoulos",
             "repo": "conformal-time-series",
-            "stars": 144,
+            "stars": 145,
             "topics": [
               "conformal",
               "conformal-prediction",
@@ -5163,7 +5163,7 @@
             "open_issues": 3,
             "owner": "valeman",
             "repo": "awesome-conformal-prediction",
-            "stars": 1314,
+            "stars": 1315,
             "topics": [
               "ai",
               "awesome",
@@ -5277,7 +5277,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T22:32:09.493Z",
+    "last_updated": "2026-09-29T21:23:32.445Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professionally curated list of awesome Conformal Prediction videos, tutorials, books, papers, PhD and MSc theses, articles and open-source libraries.",
@@ -5289,7 +5289,7 @@
       "open_issues": 3,
       "owner": "valeman",
       "repo": "awesome-conformal-prediction",
-      "stars": 1314,
+      "stars": 1315,
       "topics": [
         "ai",
         "awesome",
