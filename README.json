@@ -216,11 +216,11 @@
             "id": 167388434,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-28T03:17:21Z",
+            "last_commit": "2026-09-30T19:36:11Z",
             "open_issues": 78,
             "owner": "online-ml",
             "repo": "river",
-            "stars": 6115,
+            "stars": 6116,
             "topics": [
               "concept-drift",
               "data-science",
@@ -338,11 +338,11 @@
             "id": 167388434,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-28T03:17:21Z",
+            "last_commit": "2026-09-30T19:36:11Z",
             "open_issues": 78,
             "owner": "online-ml",
             "repo": "river",
-            "stars": 6115,
+            "stars": 6116,
             "topics": [
               "concept-drift",
               "data-science",
@@ -905,7 +905,7 @@
             "open_issues": 1,
             "owner": "OliverHennhoefer",
             "repo": "nonconform",
-            "stars": 57,
+            "stars": 58,
             "topics": [
               "anomaly-detection",
               "change-point-detection",
@@ -1423,8 +1423,8 @@
             "id": 584985844,
             "language": "HTML",
             "license": null,
-            "last_commit": "2026-09-29T18:26:28Z",
-            "open_issues": 40,
+            "last_commit": "2026-09-30T02:14:27Z",
+            "open_issues": 39,
             "owner": "tidymodels",
             "repo": "tidymodels.org",
             "stars": 24,
@@ -5277,7 +5277,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T21:23:32.445Z",
+    "last_updated": "2026-09-30T21:25:01.580Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professionally curated list of awesome Conformal Prediction videos, tutorials, books, papers, PhD and MSc theses, articles and open-source libraries.",
