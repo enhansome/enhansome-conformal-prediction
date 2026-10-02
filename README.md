@@ -184,7 +184,7 @@ These are active research and practitioner questions — contributions, discussi
 
 ## Conformal Prediction Tutorials
 
-1. [A Gentle Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification](https://arxiv.org/pdf/2107.07511.pdf) by Anastasios N. Angelopoulos and Stephen Bates (2021) [Video](https://www.youtube.com/watch?v=nql000Lu_iE\&t=1786s) [Code](https://github.com/aangelopoulos/conformal-prediction) ⭐ 1,094 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2025-11-14 🔥🔥🔥🔥
+1. [A Gentle Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification](https://arxiv.org/pdf/2107.07511.pdf) by Anastasios N. Angelopoulos and Stephen Bates (2021) [Video](https://www.youtube.com/watch?v=nql000Lu_iE\&t=1786s) [Code](https://github.com/aangelopoulos/conformal-prediction) ⭐ 1,095 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2025-11-14 🔥🔥🔥🔥
 2. [Conformal Predictions from Scratch in Numpy](https://github.com/joneswack/conformal-predictions-from-scratch) ⭐ 230 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-01-14 by Jones Wacker (2023) 🔥🔥🔥🔥🔥
 3. [Conformal Prediction in Genomics](https://github.com/BiolApps/ConformalPrediction/tree/main) ⭐ 1 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-05-24 by BiolApps (2023)
 4. [Conformal Prediction Tutorial](https://www.youtube.com/watch?v=0MsGri8nmJQ) by Henrik Linusson (2021) 🔥🔥🔥🔥
@@ -396,7 +396,7 @@ These are active research and practitioner questions — contributions, discussi
 
 ## Conformal Prediction Presentation Slides
 
-1. [Conformal Prediction: an Introduction](https://github.com/online-ml/river/files/10098389/Conformal_Prediction_Presentation.pdf) ⭐ 6,119 | 🐛 79 | 🌐 Python | 📅 2026-09-30 by Leo Andeol (2022)
+1. [Conformal Prediction: an Introduction](https://github.com/online-ml/river/files/10098389/Conformal_Prediction_Presentation.pdf) ⭐ 6,117 | 🐛 77 | 🌐 Python | 📅 2026-10-02 by Leo Andeol (2022)
 2. [Machine Learning for Probabilistic Prediction](https://github.com/valeman/awesome-conformal-prediction/blob/main/assets/Machine%20Learning%20for%20Probabilistic%20Prediction.pdf) ⭐ 1,316 | 🐛 3 | 📅 2026-08-25 by Valery Manokhin, 2022 🔥🔥🔥🔥🔥
 3. [EnbPI poster](https://github.com/valeman/awesome-conformal-prediction/blob/main/assets/EnbPI_poster.pdf) ⭐ 1,316 | 🐛 3 | 📅 2026-08-25 by Chen Xu, Yao Xie (2021)
 4. [Machine Learning for Probabilistic Prediction, Seattle Artificial Intelligence Workshops Meetup](https://www.researchgate.net/publication/371566526_Machine_Learning_for_Probabilistic_Prediction) by Valery Manokhin, 2023 🔥🔥🔥🔥🔥
@@ -429,7 +429,7 @@ These are active research and practitioner questions — contributions, discussi
 
 ## Conformal Prediction Libraries in Python
 
-1. [River](https://github.com/online-ml/river/blob/0506ad73e45403638f13d66c6b2d71920d307461/river/conf/jackknife.py#L9) ⭐ 6,119 | 🐛 79 | 🌐 Python | 📅 2026-09-30 2022
+1. [River](https://github.com/online-ml/river/blob/0506ad73e45403638f13d66c6b2d71920d307461/river/conf/jackknife.py#L9) ⭐ 6,117 | 🐛 77 | 🌐 Python | 📅 2026-10-02 2022
 2. [NeuralProphet](https://github.com/ourownstory/neural_prophet/blob/main/tutorials/feature-use/uncertainty_conformal_prediction.ipynb) ⭐ 4,304 | 🐛 91 | 🌐 Python | 📅 2025-01-08 (2022) 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 3. [Conformalized density- and distance-based anomaly detection in time-series data (KNN-CAD)](https://github.com/numenta/NAB/tree/master/nab/detectors/knncad) ⭐ 2,111 | 🐛 44 | 🌐 Jupyter Notebook | 📅 2024-12-03 by Evgeny Burnaev, Vladislav Ishimtsev (2016). Top #3 winning solution in Numenta competition 🔥🔥🔥🔥🔥
 4. [TorchCP - A library for conformal prediction](https://github.com/ml-stat-Sustech/TorchCP) ⭐ 479 | 🐛 11 | 🌐 Python | 📅 2026-08-05 🔥🔥🔥🔥🔥
@@ -449,7 +449,7 @@ These are active research and practitioner questions — contributions, discussi
 18. [Venn-ABERS Predictor](https://github.com/ptocca/VennABERS) ⭐ 79 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2024-02-15 by Paolo Toccaceli (2019) [Paper](https://proceedings.neurips.cc/paper/2015/hash/a9a1d5317a33ae8cef33961c34144f84-Abstract.html) 🔥🔥🔥🔥🔥
 19. [calibrated-explanations - Calibrated Explanations for Machine Learning Models using Venn-Abers and Conformal Predictive Systems](https://github.com/Moffran/calibrated_explanations) ⭐ 79 | 🐛 22 | 🌐 Jupyter Notebook | 📅 2026-09-28 by Helena Löfström (2023)
 20. [Conformal time-series forecasting](https://github.com/kamilest/conformal-rnn) ⚠️ Archived by Kamile ̇ Stankeviciute (Cambridge, NeurIPS 2021) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
-21. [unquad - Conformal Anomaly Detection](https://github.com/OliverHennhoefer/unquad) ⭐ 58 | 🐛 1 | 🌐 Python | 📅 2026-09-17 🔥🔥🔥🔥🔥
+21. [unquad - Conformal Anomaly Detection](https://github.com/OliverHennhoefer/unquad) ⭐ 58 | 🐛 1 | 🌐 Python | 📅 2026-10-02 🔥🔥🔥🔥🔥
 22. [Conformal Impact](https://github.com/tblume1992/ConformalImpact) ⭐ 33 | 🐛 0 | 🌐 Python | 📅 2024-12-31 by Tyler Blume (2024) 🔥🔥🔥🔥🔥
     10.[Nonconformist](https://github.com/donlnz/nonconformist) ⭐ 479 | 🐛 20 | 🌐 Python | 📅 2021-03-20 by Henrik Linusson (2015) 🚨 The library does not seem to be actively maintained
 23. [Copula Conformal Multi Target Regression](https://github.com/M-Soundouss/CopulaConformalMTR) ⭐ 33 | 🐛 2 | 🌐 Python | 📅 2021-04-01 by Soundouss Messoudi (2021)
@@ -1363,4 +1363,4 @@ These are active research and practitioner questions — contributions, discussi
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
