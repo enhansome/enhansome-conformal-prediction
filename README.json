@@ -237,88 +237,6 @@
             ]
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Machine Learning for Probabilistic Prediction",
-          "description": "by Valery Manokhin, 2022 🔥🔥🔥🔥🔥",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A professionally curated list of awesome Conformal Prediction videos, tutorials, books, papers, PhD and MSc theses, articles and open-source libraries.",
-            "homepage": null,
-            "id": 436989758,
-            "language": null,
-            "license": "NOASSERTION",
-            "last_commit": "2026-08-25T10:44:29Z",
-            "open_issues": 3,
-            "owner": "valeman",
-            "repo": "awesome-conformal-prediction",
-            "stars": 1316,
-            "topics": [
-              "ai",
-              "awesome",
-              "awesome-list",
-              "conformal-prediction",
-              "datascience",
-              "deeplearning",
-              "explainable-ai",
-              "machine-learning",
-              "machinelearning",
-              "probability",
-              "probability-distribution",
-              "probability-distributions",
-              "python",
-              "r",
-              "robust-ml",
-              "statistics",
-              "uncertainty",
-              "uncertainty-estimation",
-              "uncertainty-quantification"
-            ]
-          },
-          "first_seen": "2026-08-29T00:58:03.411Z"
-        },
-        {
-          "node_type": "item",
-          "title": "EnbPI poster",
-          "description": "by Chen Xu, Yao Xie (2021)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A professionally curated list of awesome Conformal Prediction videos, tutorials, books, papers, PhD and MSc theses, articles and open-source libraries.",
-            "homepage": null,
-            "id": 436989758,
-            "language": null,
-            "license": "NOASSERTION",
-            "last_commit": "2026-08-25T10:44:29Z",
-            "open_issues": 3,
-            "owner": "valeman",
-            "repo": "awesome-conformal-prediction",
-            "stars": 1316,
-            "topics": [
-              "ai",
-              "awesome",
-              "awesome-list",
-              "conformal-prediction",
-              "datascience",
-              "deeplearning",
-              "explainable-ai",
-              "machine-learning",
-              "machinelearning",
-              "probability",
-              "probability-distribution",
-              "probability-distributions",
-              "python",
-              "r",
-              "robust-ml",
-              "statistics",
-              "uncertainty",
-              "uncertainty-estimation",
-              "uncertainty-quantification"
-            ]
-          },
-          "first_seen": "2026-08-29T00:58:03.411Z"
         }
       ],
       "title": "Conformal Prediction Presentation Slides"
@@ -329,7 +247,7 @@
         {
           "node_type": "item",
           "title": "River",
-          "description": "2022",
+          "description": "online-ml/river",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -363,7 +281,7 @@
         {
           "node_type": "item",
           "title": "NeuralProphet",
-          "description": "(2022) 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥",
+          "description": "ourownstory/neural_prophet",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -376,7 +294,7 @@
             "open_issues": 91,
             "owner": "ourownstory",
             "repo": "neural_prophet",
-            "stars": 4304,
+            "stars": 4305,
             "topics": [
               "artificial-intelligence",
               "autoregression",
@@ -426,7 +344,7 @@
         {
           "node_type": "item",
           "title": "TorchCP - A library for conformal prediction",
-          "description": "🔥🔥🔥🔥🔥",
+          "description": "ml-stat-Sustech/TorchCP",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -678,7 +596,7 @@
         {
           "node_type": "item",
           "title": "TorchUQ",
-          "description": "(2022)",
+          "description": "TorchUQ/torchuq",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -892,7 +810,7 @@
         {
           "node_type": "item",
           "title": "unquad - Conformal Anomaly Detection",
-          "description": "🔥🔥🔥🔥🔥",
+          "description": "OliverHennhoefer/nonconform",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -968,7 +886,7 @@
         {
           "node_type": "item",
           "title": "Conformers - Unofficial Conformal Language Modelling library",
-          "description": "🚀🚀🚀🚀",
+          "description": "Bradley-Butcher/Conformers",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1044,7 +962,7 @@
         {
           "node_type": "item",
           "title": "[crepes-weighted Extension of crepes package, to enable weighted conformal prediction and conformal predictive systems that can handle covariate shifts](https://github.com/predict-idlab/crepes-weighted",
-          "description": "🔥🔥🔥🔥🔥",
+          "description": "predict-idlab/crepes-weighted",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1065,7 +983,7 @@
         {
           "node_type": "item",
           "title": "pearsonify - Lightweight Python package for generating classification intervals in binary classification tasks using Pearson residuals and conformal prediction",
-          "description": "(2025)",
+          "description": "xRiskLab/pearsonify",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1138,7 +1056,7 @@
         {
           "node_type": "item",
           "title": "plot_utils - Plotting library for conformal prediction metrics, intended to facilitate fast testing in e.g. notebooks",
-          "description": "🔥🔥🔥🔥🔥",
+          "description": "pharmbio/plot_utils",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1206,7 +1124,7 @@
         {
           "node_type": "item",
           "title": "HyperConformal: Conformal Prediction for Hyperdimensional Computing",
-          "description": "🔥🔥🔥🔥🔥 (2025)",
+          "description": "danieleschmidt/HyperConformal",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1227,7 +1145,7 @@
         {
           "node_type": "item",
           "title": "(F)FCP : Predictive Inference with (Fast) Feature Conformal Prediction",
-          "description": "🔥🔥🔥🔥🔥 (2026)",
+          "description": "ElvisWang1111/F-F-CP",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1254,7 +1172,7 @@
         {
           "node_type": "item",
           "title": "Modeltime",
-          "description": "(2023) by Matt Dancho (Business Science, 2023) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥",
+          "description": "by Matt Dancho (Business Science, 2023) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1378,7 +1296,7 @@
         {
           "node_type": "item",
           "title": "caretForecast - Conformal Time Series Forecasting Using State of Art Machine Learning Algorithms",
-          "description": null,
+          "description": "taf-society/caretForecast",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1435,7 +1353,7 @@
         {
           "node_type": "item",
           "title": "AdaptiveConformal",
-          "description": "(2023) paper 🔥🔥🔥🔥🔥",
+          "description": "paper 🔥🔥🔥🔥🔥",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1477,7 +1395,7 @@
         {
           "node_type": "item",
           "title": "R Package for Spatial Conformal Prediction",
-          "description": null,
+          "description": "mhuiying/scp",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1498,7 +1416,7 @@
         {
           "node_type": "item",
           "title": "Localized Conformal Prediction - LCP",
-          "description": null,
+          "description": "LeyingGuan/LCP",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1519,7 +1437,7 @@
         {
           "node_type": "item",
           "title": "conformalbayes - Jackknife(+) Predictive Intervals for Bayesian Models",
-          "description": "(2022)",
+          "description": "CoryMcCartan/conformalbayes",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1608,7 +1526,7 @@
         {
           "node_type": "item",
           "title": "conformal.fd Conformal inference prediction regions for Multiple Functional response regression",
-          "description": "(2021)",
+          "description": "paolo-vergo/conformal-fd",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1751,7 +1669,7 @@
         {
           "node_type": "item",
           "title": "LibCP -- A Library for Conformal Prediction",
-          "description": "🔥🔥🔥🔥🔥",
+          "description": "fated/libcp",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1772,7 +1690,7 @@
         {
           "node_type": "item",
           "title": "An Implementation of Venn-ABERS predictor",
-          "description": "🔥🔥🔥🔥🔥",
+          "description": "fated/venn-abers-predictor",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1793,7 +1711,7 @@
         {
           "node_type": "item",
           "title": "LibVM -- A Library for Venn Machine",
-          "description": null,
+          "description": "fated/libvm",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3929,7 +3847,7 @@
         {
           "node_type": "item",
           "title": "Test-time recalibration of conformal predictors under distribution shift based on unlabeled examples",
-          "description": "Code",
+          "description": "MLI-lab/recalibrating_conformal_prediction",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5018,7 +4936,7 @@
         {
           "node_type": "item",
           "title": "[Conformal prediction set for time-series](Conformal prediction set for time-series) by Chen Xu, Yao Xie (Georgia Tech, 2022) Code",
-          "description": null,
+          "description": "hamrel-cxu/Ensemble-Regularized-Adaptive-Prediction-Set-ERAPS",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5149,47 +5067,6 @@
       "items": [
         {
           "node_type": "item",
-          "title": "Benchmarking conformal prediction methods for time series regression",
-          "description": "by Derck W.E. Prinzhorn (2023) code 🔥🔥🔥🔥🔥",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A professionally curated list of awesome Conformal Prediction videos, tutorials, books, papers, PhD and MSc theses, articles and open-source libraries.",
-            "homepage": null,
-            "id": 436989758,
-            "language": null,
-            "license": "NOASSERTION",
-            "last_commit": "2026-08-25T10:44:29Z",
-            "open_issues": 3,
-            "owner": "valeman",
-            "repo": "awesome-conformal-prediction",
-            "stars": 1316,
-            "topics": [
-              "ai",
-              "awesome",
-              "awesome-list",
-              "conformal-prediction",
-              "datascience",
-              "deeplearning",
-              "explainable-ai",
-              "machine-learning",
-              "machinelearning",
-              "probability",
-              "probability-distribution",
-              "probability-distributions",
-              "python",
-              "r",
-              "robust-ml",
-              "statistics",
-              "uncertainty",
-              "uncertainty-estimation",
-              "uncertainty-quantification"
-            ]
-          },
-          "first_seen": "2026-08-29T00:58:03.411Z"
-        },
-        {
-          "node_type": "item",
           "title": "Conformal Prediction in Limit Order Books: Calibration and Uncertainty Quantification of DeepLOB",
           "description": "by Fabio Rossi, Imperial College (2024)",
           "children": [],
@@ -5277,7 +5154,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T21:18:55.591Z",
+    "last_updated": "2026-10-03T04:37:04.663Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professionally curated list of awesome Conformal Prediction videos, tutorials, books, papers, PhD and MSc theses, articles and open-source libraries.",

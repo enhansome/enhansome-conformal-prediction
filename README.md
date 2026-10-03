@@ -141,7 +141,7 @@ These are active research and practitioner questions — contributions, discussi
 * What are the tightest known prediction intervals for deep learning models?
 * How do conformal methods compare with Bayesian uncertainty quantification on modern benchmarks?
 
-👉 Open a [discussion](https://github.com/valeman/awesome-conformal-prediction/discussions) ⭐ 1,316 | 🐛 3 | 📅 2026-08-25 or [issue](https://github.com/valeman/awesome-conformal-prediction/issues) ⭐ 1,316 | 🐛 3 | 📅 2026-08-25 to contribute.
+👉 Open a [discussion](https://github.com/valeman/awesome-conformal-prediction/discussions) or [issue](https://github.com/valeman/awesome-conformal-prediction/issues) to contribute.
 
 ## Table of Contents
 
@@ -397,25 +397,25 @@ These are active research and practitioner questions — contributions, discussi
 ## Conformal Prediction Presentation Slides
 
 1. [Conformal Prediction: an Introduction](https://github.com/online-ml/river/files/10098389/Conformal_Prediction_Presentation.pdf) ⭐ 6,117 | 🐛 77 | 🌐 Python | 📅 2026-10-02 by Leo Andeol (2022)
-2. [Machine Learning for Probabilistic Prediction](https://github.com/valeman/awesome-conformal-prediction/blob/main/assets/Machine%20Learning%20for%20Probabilistic%20Prediction.pdf) ⭐ 1,316 | 🐛 3 | 📅 2026-08-25 by Valery Manokhin, 2022 🔥🔥🔥🔥🔥
-3. [EnbPI poster](https://github.com/valeman/awesome-conformal-prediction/blob/main/assets/EnbPI_poster.pdf) ⭐ 1,316 | 🐛 3 | 📅 2026-08-25 by Chen Xu, Yao Xie (2021)
-4. [Machine Learning for Probabilistic Prediction, Seattle Artificial Intelligence Workshops Meetup](https://www.researchgate.net/publication/371566526_Machine_Learning_for_Probabilistic_Prediction) by Valery Manokhin, 2023 🔥🔥🔥🔥🔥
-5. [Adaptive Conformal Anomaly Detection for Time-series](https://cml.rhul.ac.uk/copa2017/presentations/burnaev.pdf) by Evgeny Burnaev, Alexander Bernstein, Vlad Ishimtsev and Ivan Nazarov (Skoltech, Moscow, Russia, 2017)
-6. [Nonparametric predictive distributions based on conformal prediction](https://cml.rhul.ac.uk/copa2017/presentations/vovk.pdf) by Vladimir Vovk, Jieli Shen, Valery Manokhin, Min-ge Xie, Ilia Nouretdinov and Alex Gammerman (Royal Holloway, University of London Rutgers University, 2017)
-7. [What Can Conformal Inference Offer to Statistics?](https://lihualei71.github.io/Job_Talk_Lihua_Lei.pdf) by Lihua Lei, Stanford University
-8. [Conformal Regressors and Predictive Systems – a Gentle Introduction](https://copa-conference.com/presentations/COPA_2022_Presentation__Conformal_Regressors_and_Predictive_Systems___a_Gentle_Introduction.pdf) by Henrik Bostroem (KTH, Sweden, 2022)
-9. [Applications of Conformal Predictors](https://copa-conference.com/presentations/lars_ernst.pdf) by Ernst Ahlberg and Lars Carlsson (Stena Line, 2022)
-10. [crepes: a Python Package for Conformal Regressors and Predictive Systems](https://copa-conference.com/presentations/COPA_2022_Presentation__crepes.pdf) by Henrik Bostroem (KTH, Sweden, 2022)
-11. [Assessing Explanation Quality by Venn Prediction](https://copa-conference.com/presentations/amr.pdf) by Amr Alkhatib, Henrik Boström and Ulf Johansson (2022)
-12. [Well-Calibrated Rule Extractors](https://copa-conference.com/presentations/Johansson_U_COPA2022_pres.pdf) by Ulf Johansson, Tuwe Löfström, Niclas Ståhl (2022)
-13. \[Calibration of Natural Language Understanding Models with Venn-ABERS Predictors]\(Calibration of Natural Language Understanding Models with Venn-ABERS Predictors]\(<https://copa-conference.com/presentations/patrizio.pdf>) by Patrizio Giovannotti (2022)
-14. [Reinforcement Learning Prediction Intervals with Guaranteed Fidelity](https://web.engr.oregonstate.edu/~tgd/talks/dietterich-caml-rl-prediction-intervals.pdf) by Thomas Dietterich (University of Oregon, 2022)
-15. [Conformal Prediction beyond exchangeability](https://copa-conference.com/presentations/conformal_UAI_tutorial_2.pdf) by Rina Foygel Barber (University of Chicago, 2022) 🔥🔥🔥🔥🔥
-16. [Split conformal prediction for dependant data](http://www.im.ufrj.br/~coloquiomea/apresentacoes/orenstein_2022.pdf) by Roberto I. Oliveira, Paulo Orenstein, Thiago Ramos and João Vitor Romano (2022)
-17. [Conformal prediction of small-molecule drug resistance in cancer cell lines](https://copa-conference.com/presentations/saiveth.pdf) by Saiveth Hernandez-Hernandez, Sachin Vishwakarma and Pedro Ballester
-18. [Sequential Predictive Conformal Inference for Time Series](https://arxiv.org/pdf/2212.03463.pdf) by Chen Xu, Yao Xie (Georgia Tech, 2022) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
-19. [Copula Conformal Prediction for Multi-step Time Series Forecasting](https://arxiv.org/abs/2212.03281) by Sophia Sun, Rose Yu (University of California, San Diego, 2022)
-20. [Uncertainty estimation in NLP](https://sites.google.com/view/uncertainty-nlp#h.is5zc8lcnuki) by Tal Schuster, Adam Fisch (MIT, 2022)
+2. [Machine Learning for Probabilistic Prediction, Seattle Artificial Intelligence Workshops Meetup](https://www.researchgate.net/publication/371566526_Machine_Learning_for_Probabilistic_Prediction) by Valery Manokhin, 2023 🔥🔥🔥🔥🔥
+3. [Machine Learning for Probabilistic Prediction](https://github.com/valeman/awesome-conformal-prediction/blob/main/assets/Machine%20Learning%20for%20Probabilistic%20Prediction.pdf) by Valery Manokhin, 2022 🔥🔥🔥🔥🔥
+4. [Adaptive Conformal Anomaly Detection for Time-series](https://cml.rhul.ac.uk/copa2017/presentations/burnaev.pdf) by Evgeny Burnaev, Alexander Bernstein, Vlad Ishimtsev and Ivan Nazarov (Skoltech, Moscow, Russia, 2017)
+5. [Nonparametric predictive distributions based on conformal prediction](https://cml.rhul.ac.uk/copa2017/presentations/vovk.pdf) by Vladimir Vovk, Jieli Shen, Valery Manokhin, Min-ge Xie, Ilia Nouretdinov and Alex Gammerman (Royal Holloway, University of London Rutgers University, 2017)
+6. [What Can Conformal Inference Offer to Statistics?](https://lihualei71.github.io/Job_Talk_Lihua_Lei.pdf) by Lihua Lei, Stanford University
+7. [Conformal Regressors and Predictive Systems – a Gentle Introduction](https://copa-conference.com/presentations/COPA_2022_Presentation__Conformal_Regressors_and_Predictive_Systems___a_Gentle_Introduction.pdf) by Henrik Bostroem (KTH, Sweden, 2022)
+8. [Applications of Conformal Predictors](https://copa-conference.com/presentations/lars_ernst.pdf) by Ernst Ahlberg and Lars Carlsson (Stena Line, 2022)
+9. [crepes: a Python Package for Conformal Regressors and Predictive Systems](https://copa-conference.com/presentations/COPA_2022_Presentation__crepes.pdf) by Henrik Bostroem (KTH, Sweden, 2022)
+10. [Assessing Explanation Quality by Venn Prediction](https://copa-conference.com/presentations/amr.pdf) by Amr Alkhatib, Henrik Boström and Ulf Johansson (2022)
+11. [Well-Calibrated Rule Extractors](https://copa-conference.com/presentations/Johansson_U_COPA2022_pres.pdf) by Ulf Johansson, Tuwe Löfström, Niclas Ståhl (2022)
+12. \[Calibration of Natural Language Understanding Models with Venn-ABERS Predictors]\(Calibration of Natural Language Understanding Models with Venn-ABERS Predictors]\(<https://copa-conference.com/presentations/patrizio.pdf>) by Patrizio Giovannotti (2022)
+13. [Reinforcement Learning Prediction Intervals with Guaranteed Fidelity](https://web.engr.oregonstate.edu/~tgd/talks/dietterich-caml-rl-prediction-intervals.pdf) by Thomas Dietterich (University of Oregon, 2022)
+14. [Conformal Prediction beyond exchangeability](https://copa-conference.com/presentations/conformal_UAI_tutorial_2.pdf) by Rina Foygel Barber (University of Chicago, 2022) 🔥🔥🔥🔥🔥
+15. [Split conformal prediction for dependant data](http://www.im.ufrj.br/~coloquiomea/apresentacoes/orenstein_2022.pdf) by Roberto I. Oliveira, Paulo Orenstein, Thiago Ramos and João Vitor Romano (2022)
+16. [Conformal prediction of small-molecule drug resistance in cancer cell lines](https://copa-conference.com/presentations/saiveth.pdf) by Saiveth Hernandez-Hernandez, Sachin Vishwakarma and Pedro Ballester
+17. [Sequential Predictive Conformal Inference for Time Series](https://arxiv.org/pdf/2212.03463.pdf) by Chen Xu, Yao Xie (Georgia Tech, 2022) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
+18. [Copula Conformal Prediction for Multi-step Time Series Forecasting](https://arxiv.org/abs/2212.03281) by Sophia Sun, Rose Yu (University of California, San Diego, 2022)
+19. [Uncertainty estimation in NLP](https://sites.google.com/view/uncertainty-nlp#h.is5zc8lcnuki) by Tal Schuster, Adam Fisch (MIT, 2022)
+20. [EnbPI poster](https://github.com/valeman/awesome-conformal-prediction/blob/main/assets/EnbPI_poster.pdf) by Chen Xu, Yao Xie (2021)
 21. [Machine Learning for Probabilistic Prediction](https://www.researchgate.net/publication/370012303_Machine_Learning_for_Probabilistic_Prediction) by Valery Manokhin (2023) 🔥🔥🔥🔥🔥
 22. [Conformal Inference with Tidymodels](https://topepo.github.io/posit-2023-conformal/#/title-slide) by Max Kuhn (posit conference 2023) 🔥🔥🔥🔥🔥
 23. [Graceful handling of large imbalanced datasets using Conformal Prediction](https://bigchem.eu/sites/default/files/AZ_school_Norinder_public.pdf) by Ulf Norinder and Fredrik Svensson 🔥🔥🔥🔥🔥
@@ -430,7 +430,7 @@ These are active research and practitioner questions — contributions, discussi
 ## Conformal Prediction Libraries in Python
 
 1. [River](https://github.com/online-ml/river/blob/0506ad73e45403638f13d66c6b2d71920d307461/river/conf/jackknife.py#L9) ⭐ 6,117 | 🐛 77 | 🌐 Python | 📅 2026-10-02 2022
-2. [NeuralProphet](https://github.com/ourownstory/neural_prophet/blob/main/tutorials/feature-use/uncertainty_conformal_prediction.ipynb) ⭐ 4,304 | 🐛 91 | 🌐 Python | 📅 2025-01-08 (2022) 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
+2. [NeuralProphet](https://github.com/ourownstory/neural_prophet/blob/main/tutorials/feature-use/uncertainty_conformal_prediction.ipynb) ⭐ 4,305 | 🐛 91 | 🌐 Python | 📅 2025-01-08 (2022) 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 3. [Conformalized density- and distance-based anomaly detection in time-series data (KNN-CAD)](https://github.com/numenta/NAB/tree/master/nab/detectors/knncad) ⭐ 2,111 | 🐛 44 | 🌐 Jupyter Notebook | 📅 2024-12-03 by Evgeny Burnaev, Vladislav Ishimtsev (2016). Top #3 winning solution in Numenta competition 🔥🔥🔥🔥🔥
 4. [TorchCP - A library for conformal prediction](https://github.com/ml-stat-Sustech/TorchCP) ⭐ 479 | 🐛 11 | 🌐 Python | 📅 2026-08-05 🔥🔥🔥🔥🔥
 5. [Nonconformist](https://github.com/donlnz/nonconformist) ⭐ 479 | 🐛 20 | 🌐 Python | 📅 2021-03-20 by Henrik Linusson (2015) 🔥🔥🔥🔥🔥
@@ -1236,35 +1236,35 @@ These are active research and practitioner questions — contributions, discussi
 
 ## PhD Theses on Conformal Prediction
 
-1. [Benchmarking conformal prediction methods for time series regression](https://github.com/valeman/awesome-conformal-prediction/blob/main/assets/BScThesis_DerckPrinzhorn.pdf) ⭐ 1,316 | 🐛 3 | 📅 2026-08-25 by Derck W\.E. Prinzhorn (2023) [code](https://github.com/dweprinz/Benchmarking-conformal-prediction-methods-for-time-series-regression) ⭐ 9 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2023-07-29 🔥🔥🔥🔥🔥
-2. [Conformal Prediction in Limit Order Books: Calibration and Uncertainty Quantification of DeepLOB](https://github.com/Fabio-Rossi-Hub/Conformal-HFT/blob/main/Thesis_DRAFT.pdf) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2024-09-05 by Fabio Rossi, Imperial College (2024)
-3. [Conformal prediction and beyond](https://gcastro-98.github.io/conformal-prediction-media/thesis.pdf), MSc thesis by Gerard CASTRO CASTILLO (University of Barcelona, 2024) [code](https://github.com/gcastro-98/conformal-prediction) ⭐ 5 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2024-06-16
-4. [An Active Learning Approach for Reject Inference in Credit Scoring using Conformal Prediction Intervals on Real and Semi-Artificial Data](https://github.com/MaximilianSuliga/Conformal-Active-Learning-for-Reject-Inference) ⭐ 3 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2023-06-02 by Maximilian Suliga (Humboldt University of Berlin, 2023)
-5. [Exploring Conformal Prediction for Long Memory Processes](https://github.com/AleCamp/Master-s-Thesis-on-Conformal-Prediction/blob/main/Tesi_Campanella.pdf) ⭐ 3 | 🐛 0 | 📅 2025-08-20 MSc thesis by Alessandra Campanella (Sapienza University Rome, 2025)
-6. [Machine Learning for Probabilistic Prediction](https://www.researchgate.net/publication/361515440_Machine_Learning_for_Probabilistic_Prediction_PhD_thesis_VALERY_MANOKHIN), PhD Thesis, Valery Manokhin (Royal Holloway, UK, 2022) 🔥🔥🔥🔥🔥 (over 6K reads on Researchgate alone)
-7. [Conformal and Venn Predictors for large, imbalanced and sparse chemoinformatics data](https://pure.royalholloway.ac.uk/portal/files/41316291/2021toccacelipphd.pdf), PhD Thesis, Paolo Toccaceli (Royal Holloway, UK, 2021)
-8. [Competitive online algorithms for probabilistic prediction](https://pure.royalholloway.ac.uk/portal/files/36216771/Thesis_Raisa.pdf), PhD Thesis, Raisa Dzhamtyrova (Royal Holloway, UK, 2020)
-9. [Conformal Prediction and Testing under On-line Compression Models](https://pure.royalholloway.ac.uk/portal/files/20318074/2014fedorovavphd.pdf), PhD Thesis, Valentina Fedorova (Royal Holloway, UK, 2014) 🔥🔥🔥🔥🔥
-10. [Adaptive Online Learning](https://pure.royalholloway.ac.uk/portal/files/17462972/adamskiy_thesis.pdf), PhD Thesis, Dmitry Adamskiy (Royal Holloway, UK, 2013)
-11. [Black-box Security Measuring Black-box Information Leakage via Machine Learning](https://pure.royalholloway.ac.uk/portal/files/33806285/thesis_final_after_amendments.pdf), PhD Thesis, Giovanni Cherubin (Royal Holloway, UK, 2019) 🔥🔥🔥🔥🔥
-12. [Small and Large Scale Probabilistic Classifiers with Guarantees of Validity](https://pure.royalholloway.ac.uk/portal/files/30400650/2018PetejIPhd.pdf), PhD Thesis, Ivan Petej (Royal Holloway, UK, 2019) 🔥🔥🔥🔥🔥
-13. [Confidence and Venn Machines and Their Applications to Proteomics](https://pure.royalholloway.ac.uk/portal/files/1402925/PhD_Thesis_Final_Dmitry_Devetyarov.pdf) by Devetyarov, Dmitry (Royal Holloway, UK, 2019)
-14. [Conformal Anomaly Detection - detecting abnormal trajectories in surveillance applications](https://www.diva-portal.org/smash/get/diva2:690997/FULLTEXT02.pdf) by Rikard Laxhammar (University of Skoeve, Sweden, 2014) 🔥🔥🔥🔥🔥
-15. [Inductive Confidence Machine for Pattern Recognition - is it the next step towards AI](https://github.com/eghamtech/AIOS/blob/master/notebooks/David_Surkov-RHUL-thesis-2004.pdf) by David Surkov (Royal Holloway, UK, 2004)
-16. [Distribution Free Prediction Intervals for Multiple Functional Regression](http://d-scholarship.pitt.edu/39495/1/RMK%20Dissertation%20Final.pdf) by Ryan Kelly (University of Pittsburgh, 2020).
-17. [Probabilistic Load Forecasting with Deep Conformalized Quantile Regression](https://munin.uit.no/bitstream/handle/10037/21914/thesis.pdf?sequence=2) by Vilde Jensen (Artcic University of Norway, 2021)
-18. [Model-free methods for multiple testing and predictive inference](https://searchworks.stanford.edu/view/13876512), PhD Thesis, Zhimei Ren (Stanford, 2021) 🔥🔥🔥🔥🔥
-19. [Comparison of Support Vector Machines and Deep Learning For QSAR with Conformal Prediction](https://www.diva-portal.org/smash/get/diva2:1682247/FULLTEXT01.pdf) by Deligianni Maria, MSc thesis, Universit of Uppsala (2022)
-20. [Predictive Maintenance with Conformal and Probabilistic Prediction: A Commercial Case Study](https://www.jamesgammerman.com/files/Thesis.pdf) by James Gammerman (2022)
-21. [Risk-Sensitive Decision-Making for Autonomous-Driving](https://www.diva-portal.org/smash/get/diva2:1698692/FULLTEXT01.pdf) by Hardy Hasan (University of Uppsala, 2022)
-22. [Distribution-Free Finite-Sample Guarantees and Split Conformal Prediction](https://arxiv.org/pdf/2210.14735.pdf), MSc thesis by Roel Hulsman, University of Oxford (2022)
-23. [Coreset-based Protocols for Machine Learning Classification](https://pure.royalholloway.ac.uk/en/publications/coreset-based-protocols-for-machine-learning-classification), PhD thesis by Nery Riquelme Granada (Royal Holloway, University of London, 2022)
-24. [Conformal survival predictions at a user-controlled time point](https://kth.diva-portal.org/smash/get/diva2:1231989/FULLTEXT01.pdf) by
+1. [Conformal Prediction in Limit Order Books: Calibration and Uncertainty Quantification of DeepLOB](https://github.com/Fabio-Rossi-Hub/Conformal-HFT/blob/main/Thesis_DRAFT.pdf) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2024-09-05 by Fabio Rossi, Imperial College (2024)
+2. [Conformal prediction and beyond](https://gcastro-98.github.io/conformal-prediction-media/thesis.pdf), MSc thesis by Gerard CASTRO CASTILLO (University of Barcelona, 2024) [code](https://github.com/gcastro-98/conformal-prediction) ⭐ 5 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2024-06-16
+3. [An Active Learning Approach for Reject Inference in Credit Scoring using Conformal Prediction Intervals on Real and Semi-Artificial Data](https://github.com/MaximilianSuliga/Conformal-Active-Learning-for-Reject-Inference) ⭐ 3 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2023-06-02 by Maximilian Suliga (Humboldt University of Berlin, 2023)
+4. [Exploring Conformal Prediction for Long Memory Processes](https://github.com/AleCamp/Master-s-Thesis-on-Conformal-Prediction/blob/main/Tesi_Campanella.pdf) ⭐ 3 | 🐛 0 | 📅 2025-08-20 MSc thesis by Alessandra Campanella (Sapienza University Rome, 2025)
+5. [Machine Learning for Probabilistic Prediction](https://www.researchgate.net/publication/361515440_Machine_Learning_for_Probabilistic_Prediction_PhD_thesis_VALERY_MANOKHIN), PhD Thesis, Valery Manokhin (Royal Holloway, UK, 2022) 🔥🔥🔥🔥🔥 (over 6K reads on Researchgate alone)
+6. [Conformal and Venn Predictors for large, imbalanced and sparse chemoinformatics data](https://pure.royalholloway.ac.uk/portal/files/41316291/2021toccacelipphd.pdf), PhD Thesis, Paolo Toccaceli (Royal Holloway, UK, 2021)
+7. [Competitive online algorithms for probabilistic prediction](https://pure.royalholloway.ac.uk/portal/files/36216771/Thesis_Raisa.pdf), PhD Thesis, Raisa Dzhamtyrova (Royal Holloway, UK, 2020)
+8. [Conformal Prediction and Testing under On-line Compression Models](https://pure.royalholloway.ac.uk/portal/files/20318074/2014fedorovavphd.pdf), PhD Thesis, Valentina Fedorova (Royal Holloway, UK, 2014) 🔥🔥🔥🔥🔥
+9. [Adaptive Online Learning](https://pure.royalholloway.ac.uk/portal/files/17462972/adamskiy_thesis.pdf), PhD Thesis, Dmitry Adamskiy (Royal Holloway, UK, 2013)
+10. [Black-box Security Measuring Black-box Information Leakage via Machine Learning](https://pure.royalholloway.ac.uk/portal/files/33806285/thesis_final_after_amendments.pdf), PhD Thesis, Giovanni Cherubin (Royal Holloway, UK, 2019) 🔥🔥🔥🔥🔥
+11. [Small and Large Scale Probabilistic Classifiers with Guarantees of Validity](https://pure.royalholloway.ac.uk/portal/files/30400650/2018PetejIPhd.pdf), PhD Thesis, Ivan Petej (Royal Holloway, UK, 2019) 🔥🔥🔥🔥🔥
+12. [Confidence and Venn Machines and Their Applications to Proteomics](https://pure.royalholloway.ac.uk/portal/files/1402925/PhD_Thesis_Final_Dmitry_Devetyarov.pdf) by Devetyarov, Dmitry (Royal Holloway, UK, 2019)
+13. [Conformal Anomaly Detection - detecting abnormal trajectories in surveillance applications](https://www.diva-portal.org/smash/get/diva2:690997/FULLTEXT02.pdf) by Rikard Laxhammar (University of Skoeve, Sweden, 2014) 🔥🔥🔥🔥🔥
+14. [Inductive Confidence Machine for Pattern Recognition - is it the next step towards AI](https://github.com/eghamtech/AIOS/blob/master/notebooks/David_Surkov-RHUL-thesis-2004.pdf) by David Surkov (Royal Holloway, UK, 2004)
+15. [Distribution Free Prediction Intervals for Multiple Functional Regression](http://d-scholarship.pitt.edu/39495/1/RMK%20Dissertation%20Final.pdf) by Ryan Kelly (University of Pittsburgh, 2020).
+16. [Probabilistic Load Forecasting with Deep Conformalized Quantile Regression](https://munin.uit.no/bitstream/handle/10037/21914/thesis.pdf?sequence=2) by Vilde Jensen (Artcic University of Norway, 2021)
+17. [Model-free methods for multiple testing and predictive inference](https://searchworks.stanford.edu/view/13876512), PhD Thesis, Zhimei Ren (Stanford, 2021) 🔥🔥🔥🔥🔥
+18. [Comparison of Support Vector Machines and Deep Learning For QSAR with Conformal Prediction](https://www.diva-portal.org/smash/get/diva2:1682247/FULLTEXT01.pdf) by Deligianni Maria, MSc thesis, Universit of Uppsala (2022)
+19. [Predictive Maintenance with Conformal and Probabilistic Prediction: A Commercial Case Study](https://www.jamesgammerman.com/files/Thesis.pdf) by James Gammerman (2022)
+20. [Risk-Sensitive Decision-Making for Autonomous-Driving](https://www.diva-portal.org/smash/get/diva2:1698692/FULLTEXT01.pdf) by Hardy Hasan (University of Uppsala, 2022)
+21. [Distribution-Free Finite-Sample Guarantees and Split Conformal Prediction](https://arxiv.org/pdf/2210.14735.pdf), MSc thesis by Roel Hulsman, University of Oxford (2022)
+22. [Coreset-based Protocols for Machine Learning Classification](https://pure.royalholloway.ac.uk/en/publications/coreset-based-protocols-for-machine-learning-classification), PhD thesis by Nery Riquelme Granada (Royal Holloway, University of London, 2022)
+23. [Conformal survival predictions at a user-controlled time point](https://kth.diva-portal.org/smash/get/diva2:1231989/FULLTEXT01.pdf) by
     Jelle Van Miltenburg (KTH ROYAL INSTITUTE OF TECHNOLOGY, 2018)
-25. [Reliable Machine Learning with ConformalPrediction: A Review with Contributions](https://www.researchgate.net/publication/366205428_Reliable_Machine_Learning_with_Conformal_Prediction_A_Review_with_Contributions) by Martim Sousa (2022) 🔥🔥🔥🔥🔥
-26. [Nonconformity Measures and Ensemble Strategies - An Analysis of Conformal Predictor Efficiency and Validity](http://su.diva-portal.org/smash/get/diva2:1547120/FULLTEXT01.pdf), PhD thesis by Henrik Linusson (Stockholm University, 2021) 🔥🔥🔥🔥🔥
-27. [Determine and explain confidence in predicting violations on inland ships in the Netherlands](https://repository.tudelft.nl/islandora/object/uuid:e0a9bb58-98ab-4c00-96ae-8701046a8012) by Bakker, Paul (TU Delft, 2020)
-28. [Machine Learning with Conformal Prediction for Predictive Maintenance tasks in Industry 4.0](https://www.diva-portal.org/smash/get/diva2:1765779/FULLTEXT01.pdf) by Shuzhou Liu, Mulahuko Mpova (Jönköping University, 2023).
+24. [Reliable Machine Learning with ConformalPrediction: A Review with Contributions](https://www.researchgate.net/publication/366205428_Reliable_Machine_Learning_with_Conformal_Prediction_A_Review_with_Contributions) by Martim Sousa (2022) 🔥🔥🔥🔥🔥
+25. [Nonconformity Measures and Ensemble Strategies - An Analysis of Conformal Predictor Efficiency and Validity](http://su.diva-portal.org/smash/get/diva2:1547120/FULLTEXT01.pdf), PhD thesis by Henrik Linusson (Stockholm University, 2021) 🔥🔥🔥🔥🔥
+26. [Determine and explain confidence in predicting violations on inland ships in the Netherlands](https://repository.tudelft.nl/islandora/object/uuid:e0a9bb58-98ab-4c00-96ae-8701046a8012) by Bakker, Paul (TU Delft, 2020)
+27. [Machine Learning with Conformal Prediction for Predictive Maintenance tasks in Industry 4.0](https://www.diva-portal.org/smash/get/diva2:1765779/FULLTEXT01.pdf) by Shuzhou Liu, Mulahuko Mpova (Jönköping University, 2023).
+28. [Benchmarking conformal prediction methods for time series regression](https://github.com/valeman/awesome-conformal-prediction/blob/main/assets/BScThesis_DerckPrinzhorn.pdf) by Derck W\.E. Prinzhorn (2023) [code](https://github.com/dweprinz/Benchmarking-conformal-prediction-methods-for-time-series-regression) ⭐ 9 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2023-07-29 🔥🔥🔥🔥🔥
 29. [Conformal Prediction Methods in Finance](https://impa.br/wp-content/uploads/2022/11/Projeto_Final_Joao-Vitor-Romano.pdf) by Finance João Vitor Romano (Instituto de Matemática Pura e Aplicada, Brazil, 2022) 🔥🔥🔥🔥🔥
 30. [Confidence Predictions in Pharmaceutical Sciences](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1787351\&dswid=-7234) by Staffan Arvidsson McShane (Uppsala University, Sweden, 2023) 🔥🔥🔥🔥🔥
 31. [Conform With the Wind Processing short-term ensemble forecasts with conformal based methods
@@ -1363,4 +1363,4 @@ These are active research and practitioner questions — contributions, discussi
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
