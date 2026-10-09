@@ -19,7 +19,7 @@
             "open_issues": 7,
             "owner": "aangelopoulos",
             "repo": "conformal-prediction",
-            "stars": 1098,
+            "stars": 1099,
             "topics": [
               "computer-vision",
               "conformal",
@@ -217,7 +217,7 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-07T14:02:19Z",
-            "open_issues": 86,
+            "open_issues": 87,
             "owner": "online-ml",
             "repo": "river",
             "stars": 6119,
@@ -257,7 +257,7 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-07T14:02:19Z",
-            "open_issues": 86,
+            "open_issues": 87,
             "owner": "online-ml",
             "repo": "river",
             "stars": 6119,
@@ -402,11 +402,11 @@
             "id": 515914540,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-10-08T15:39:00Z",
+            "last_commit": "2026-10-09T15:00:47Z",
             "open_issues": 3,
             "owner": "deel-ai",
             "repo": "puncc",
-            "stars": 410,
+            "stars": 411,
             "topics": [
               "conformal-inference",
               "conformal-prediction",
@@ -429,11 +429,11 @@
             "id": 515914540,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-10-08T15:39:00Z",
+            "last_commit": "2026-10-09T15:00:47Z",
             "open_issues": 3,
             "owner": "deel-ai",
             "repo": "puncc",
-            "stars": 410,
+            "stars": 411,
             "topics": [
               "conformal-inference",
               "conformal-prediction",
@@ -460,7 +460,7 @@
             "open_issues": 164,
             "owner": "mikekeith52",
             "repo": "scalecast",
-            "stars": 353,
+            "stars": 352,
             "topics": [
               "auto-ml",
               "data-science",
@@ -500,7 +500,7 @@
             "open_issues": 4,
             "owner": "yromano",
             "repo": "cqr",
-            "stars": 318,
+            "stars": 319,
             "topics": [
               "algorithmic-fairness",
               "conformal-methods",
@@ -819,8 +819,8 @@
             "id": 780814119,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-08T16:14:30Z",
-            "open_issues": 0,
+            "last_commit": "2026-10-09T11:02:46Z",
+            "open_issues": 1,
             "owner": "OliverHennhoefer",
             "repo": "nonconform",
             "stars": 58,
@@ -1747,11 +1747,11 @@
             "id": 515914540,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-10-08T15:39:00Z",
+            "last_commit": "2026-10-09T15:00:47Z",
             "open_issues": 3,
             "owner": "deel-ai",
             "repo": "puncc",
-            "stars": 410,
+            "stars": 411,
             "topics": [
               "conformal-inference",
               "conformal-prediction",
@@ -1778,7 +1778,7 @@
             "open_issues": 4,
             "owner": "yromano",
             "repo": "cqr",
-            "stars": 318,
+            "stars": 319,
             "topics": [
               "algorithmic-fairness",
               "conformal-methods",
@@ -1842,7 +1842,7 @@
             "open_issues": 1,
             "owner": "aangelopoulos",
             "repo": "conformal-time-series",
-            "stars": 145,
+            "stars": 146,
             "topics": [
               "conformal",
               "conformal-prediction",
@@ -2687,7 +2687,7 @@
             "open_issues": 0,
             "owner": "jv-rv",
             "repo": "split-conformal-nonexchangeable",
-            "stars": 18,
+            "stars": 19,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
@@ -4487,7 +4487,7 @@
             "open_issues": 1,
             "owner": "aangelopoulos",
             "repo": "conformal-time-series",
-            "stars": 145,
+            "stars": 146,
             "topics": [
               "conformal",
               "conformal-prediction",
@@ -4739,7 +4739,7 @@
             "open_issues": 0,
             "owner": "jv-rv",
             "repo": "split-conformal-nonexchangeable",
-            "stars": 18,
+            "stars": 19,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
@@ -4760,7 +4760,7 @@
             "open_issues": 0,
             "owner": "jv-rv",
             "repo": "split-conformal-nonexchangeable",
-            "stars": 18,
+            "stars": 19,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
@@ -5154,7 +5154,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T22:03:21.547Z",
+    "last_updated": "2026-10-09T21:39:58.774Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professionally curated list of awesome Conformal Prediction videos, tutorials, books, papers, PhD and MSc theses, articles and open-source libraries.",
