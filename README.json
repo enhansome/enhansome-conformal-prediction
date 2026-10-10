@@ -106,7 +106,7 @@
             "open_issues": 0,
             "owner": "dobriban",
             "repo": "Topics-In-Modern-Statistical-Learning",
-            "stars": 179,
+            "stars": 180,
             "topics": [
               "calibration",
               "conformal-prediction",
@@ -220,7 +220,7 @@
             "open_issues": 87,
             "owner": "online-ml",
             "repo": "river",
-            "stars": 6119,
+            "stars": 6121,
             "topics": [
               "concept-drift",
               "data-science",
@@ -260,7 +260,7 @@
             "open_issues": 87,
             "owner": "online-ml",
             "repo": "river",
-            "stars": 6119,
+            "stars": 6121,
             "topics": [
               "concept-drift",
               "data-science",
@@ -294,7 +294,7 @@
             "open_issues": 89,
             "owner": "ourownstory",
             "repo": "neural_prophet",
-            "stars": 4305,
+            "stars": 4306,
             "topics": [
               "artificial-intelligence",
               "autoregression",
@@ -5154,7 +5154,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T21:39:58.774Z",
+    "last_updated": "2026-10-10T20:33:34.275Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professionally curated list of awesome Conformal Prediction videos, tutorials, books, papers, PhD and MSc theses, articles and open-source libraries.",
@@ -5166,7 +5166,7 @@
       "open_issues": 4,
       "owner": "valeman",
       "repo": "awesome-conformal-prediction",
-      "stars": 1319,
+      "stars": 1320,
       "topics": [
         "ai",
         "awesome",
