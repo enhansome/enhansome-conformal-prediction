@@ -106,7 +106,7 @@
             "open_issues": 0,
             "owner": "dobriban",
             "repo": "Topics-In-Modern-Statistical-Learning",
-            "stars": 180,
+            "stars": 181,
             "topics": [
               "calibration",
               "conformal-prediction",
@@ -217,10 +217,10 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-11T02:16:41Z",
-            "open_issues": 87,
+            "open_issues": 86,
             "owner": "online-ml",
             "repo": "river",
-            "stars": 6121,
+            "stars": 6122,
             "topics": [
               "concept-drift",
               "data-science",
@@ -257,10 +257,10 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-11T02:16:41Z",
-            "open_issues": 87,
+            "open_issues": 86,
             "owner": "online-ml",
             "repo": "river",
-            "stars": 6121,
+            "stars": 6122,
             "topics": [
               "concept-drift",
               "data-science",
@@ -456,8 +456,8 @@
             "id": 382052875,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-09T01:18:37Z",
-            "open_issues": 164,
+            "last_commit": "2026-10-12T20:51:08Z",
+            "open_issues": 143,
             "owner": "mikekeith52",
             "repo": "scalecast",
             "stars": 352,
@@ -686,7 +686,7 @@
             "open_issues": 0,
             "owner": "rick12000",
             "repo": "confopt",
-            "stars": 105,
+            "stars": 106,
             "topics": [
               "automl",
               "conformal-prediction",
@@ -1366,7 +1366,7 @@
             "open_issues": 0,
             "owner": "herbps10",
             "repo": "AdaptiveConformal",
-            "stars": 18,
+            "stars": 19,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
@@ -1911,7 +1911,7 @@
             "open_issues": 0,
             "owner": "rick12000",
             "repo": "confopt",
-            "stars": 105,
+            "stars": 106,
             "topics": [
               "automl",
               "conformal-prediction",
@@ -5154,7 +5154,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T20:57:32.633Z",
+    "last_updated": "2026-10-12T23:36:56.219Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professionally curated list of awesome Conformal Prediction videos, tutorials, books, papers, PhD and MSc theses, articles and open-source libraries.",
