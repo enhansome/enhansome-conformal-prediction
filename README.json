@@ -216,11 +216,11 @@
             "id": 167388434,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-13T16:19:39Z",
-            "open_issues": 88,
+            "last_commit": "2026-10-16T03:59:39Z",
+            "open_issues": 89,
             "owner": "online-ml",
             "repo": "river",
-            "stars": 6127,
+            "stars": 6130,
             "topics": [
               "concept-drift",
               "data-science",
@@ -256,11 +256,11 @@
             "id": 167388434,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-13T16:19:39Z",
-            "open_issues": 88,
+            "last_commit": "2026-10-16T03:59:39Z",
+            "open_issues": 89,
             "owner": "online-ml",
             "repo": "river",
-            "stars": 6127,
+            "stars": 6130,
             "topics": [
               "concept-drift",
               "data-science",
@@ -406,7 +406,7 @@
             "open_issues": 4,
             "owner": "deel-ai",
             "repo": "puncc",
-            "stars": 411,
+            "stars": 412,
             "topics": [
               "conformal-inference",
               "conformal-prediction",
@@ -433,7 +433,7 @@
             "open_issues": 4,
             "owner": "deel-ai",
             "repo": "puncc",
-            "stars": 411,
+            "stars": 412,
             "topics": [
               "conformal-inference",
               "conformal-prediction",
@@ -1342,7 +1342,7 @@
             "language": "HTML",
             "license": null,
             "last_commit": "2026-10-08T18:01:11Z",
-            "open_issues": 38,
+            "open_issues": 39,
             "owner": "tidymodels",
             "repo": "tidymodels.org",
             "stars": 24,
@@ -1751,7 +1751,7 @@
             "open_issues": 4,
             "owner": "deel-ai",
             "repo": "puncc",
-            "stars": 411,
+            "stars": 412,
             "topics": [
               "conformal-inference",
               "conformal-prediction",
@@ -5154,7 +5154,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T20:19:53.866Z",
+    "last_updated": "2026-10-16T19:56:35.170Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professionally curated list of awesome Conformal Prediction videos, tutorials, books, papers, PhD and MSc theses, articles and open-source libraries.",
@@ -5166,7 +5166,7 @@
       "open_issues": 4,
       "owner": "valeman",
       "repo": "awesome-conformal-prediction",
-      "stars": 1325,
+      "stars": 1326,
       "topics": [
         "ai",
         "awesome",
