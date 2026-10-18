@@ -19,7 +19,7 @@
             "open_issues": 7,
             "owner": "aangelopoulos",
             "repo": "conformal-prediction",
-            "stars": 1101,
+            "stars": 1102,
             "topics": [
               "computer-vision",
               "conformal",
@@ -766,8 +766,8 @@
             "id": 634794673,
             "language": "Jupyter Notebook",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-15T18:36:09Z",
-            "open_issues": 18,
+            "last_commit": "2026-10-17T21:16:09Z",
+            "open_issues": 16,
             "owner": "Moffran",
             "repo": "calibrated_explanations",
             "stars": 79,
@@ -1998,8 +1998,8 @@
             "id": 634794673,
             "language": "Jupyter Notebook",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-15T18:36:09Z",
-            "open_issues": 18,
+            "last_commit": "2026-10-17T21:16:09Z",
+            "open_issues": 16,
             "owner": "Moffran",
             "repo": "calibrated_explanations",
             "stars": 79,
@@ -5154,7 +5154,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T19:22:37.965Z",
+    "last_updated": "2026-10-18T19:25:02.784Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professionally curated list of awesome Conformal Prediction videos, tutorials, books, papers, PhD and MSc theses, articles and open-source libraries.",
@@ -5166,7 +5166,7 @@
       "open_issues": 4,
       "owner": "valeman",
       "repo": "awesome-conformal-prediction",
-      "stars": 1326,
+      "stars": 1327,
       "topics": [
         "ai",
         "awesome",
