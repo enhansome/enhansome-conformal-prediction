@@ -19,7 +19,7 @@
             "open_issues": 7,
             "owner": "aangelopoulos",
             "repo": "conformal-prediction",
-            "stars": 1104,
+            "stars": 1107,
             "topics": [
               "computer-vision",
               "conformal",
@@ -217,10 +217,10 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-16T03:59:39Z",
-            "open_issues": 89,
+            "open_issues": 88,
             "owner": "online-ml",
             "repo": "river",
-            "stars": 6130,
+            "stars": 6129,
             "topics": [
               "concept-drift",
               "data-science",
@@ -257,10 +257,10 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-16T03:59:39Z",
-            "open_issues": 89,
+            "open_issues": 88,
             "owner": "online-ml",
             "repo": "river",
-            "stars": 6130,
+            "stars": 6129,
             "topics": [
               "concept-drift",
               "data-science",
@@ -294,7 +294,7 @@
             "open_issues": 89,
             "owner": "ourownstory",
             "repo": "neural_prophet",
-            "stars": 4309,
+            "stars": 4310,
             "topics": [
               "artificial-intelligence",
               "autoregression",
@@ -336,7 +336,7 @@
             "open_issues": 44,
             "owner": "numenta",
             "repo": "NAB",
-            "stars": 2112,
+            "stars": 2113,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
@@ -406,7 +406,7 @@
             "open_issues": 4,
             "owner": "deel-ai",
             "repo": "puncc",
-            "stars": 412,
+            "stars": 413,
             "topics": [
               "conformal-inference",
               "conformal-prediction",
@@ -433,7 +433,7 @@
             "open_issues": 4,
             "owner": "deel-ai",
             "repo": "puncc",
-            "stars": 412,
+            "stars": 413,
             "topics": [
               "conformal-inference",
               "conformal-prediction",
@@ -767,7 +767,7 @@
             "language": "Jupyter Notebook",
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-19T19:29:19Z",
-            "open_issues": 16,
+            "open_issues": 17,
             "owner": "Moffran",
             "repo": "calibrated_explanations",
             "stars": 79,
@@ -1246,7 +1246,7 @@
             "open_issues": 0,
             "owner": "xqnwang",
             "repo": "conformalForecast",
-            "stars": 43,
+            "stars": 44,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
@@ -1341,7 +1341,7 @@
             "id": 584985844,
             "language": "HTML",
             "license": null,
-            "last_commit": "2026-10-19T20:42:37Z",
+            "last_commit": "2026-10-20T17:06:31Z",
             "open_issues": 38,
             "owner": "tidymodels",
             "repo": "tidymodels.org",
@@ -1751,7 +1751,7 @@
             "open_issues": 4,
             "owner": "deel-ai",
             "repo": "puncc",
-            "stars": 412,
+            "stars": 413,
             "topics": [
               "conformal-inference",
               "conformal-prediction",
@@ -1999,7 +1999,7 @@
             "language": "Jupyter Notebook",
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-19T19:29:19Z",
-            "open_issues": 16,
+            "open_issues": 17,
             "owner": "Moffran",
             "repo": "calibrated_explanations",
             "stars": 79,
@@ -2020,6 +2020,27 @@
         },
         {
           "node_type": "item",
+          "title": "Rapid Traversal of Ultralarge Chemical Space using Machine Learning Guided Docking Screens",
+          "description": "by Andreas Luttens, Israel Cabeza de Vaca, Leonard Sparring, Ulf Norinder, Jens Carlsson (2023) Code Datasets 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Machine learning accelerated docking screens",
+            "homepage": null,
+            "id": 639127995,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2025-01-20T09:05:54Z",
+            "open_issues": 3,
+            "owner": "Carlssonlab",
+            "repo": "conformalpredictor",
+            "stars": 71,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
+        },
+        {
+          "node_type": "item",
           "title": "Conformal Prediction With Conditional Guarantees",
           "description": "by Isaac Gibbs, John Cherian, Emmanuel Candes (Stanford, 2023) code",
           "children": [],
@@ -2035,27 +2056,6 @@
             "owner": "jjcherian",
             "repo": "conditional-conformal",
             "stars": 71,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T00:58:03.411Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Rapid Traversal of Ultralarge Chemical Space using Machine Learning Guided Docking Screens",
-          "description": "by Andreas Luttens, Israel Cabeza de Vaca, Leonard Sparring, Ulf Norinder, Jens Carlsson (2023) Code Datasets 🔥🔥🔥🔥🔥",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Machine learning accelerated docking screens",
-            "homepage": null,
-            "id": 639127995,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2025-01-20T09:05:54Z",
-            "open_issues": 3,
-            "owner": "Carlssonlab",
-            "repo": "conformalpredictor",
-            "stars": 70,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
@@ -5154,7 +5154,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T21:31:04.102Z",
+    "last_updated": "2026-10-20T20:33:50.168Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professionally curated list of awesome Conformal Prediction videos, tutorials, books, papers, PhD and MSc theses, articles and open-source libraries.",
