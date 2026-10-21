@@ -220,7 +220,7 @@
             "open_issues": 88,
             "owner": "online-ml",
             "repo": "river",
-            "stars": 6129,
+            "stars": 6131,
             "topics": [
               "concept-drift",
               "data-science",
@@ -260,7 +260,7 @@
             "open_issues": 88,
             "owner": "online-ml",
             "repo": "river",
-            "stars": 6129,
+            "stars": 6131,
             "topics": [
               "concept-drift",
               "data-science",
@@ -294,7 +294,7 @@
             "open_issues": 89,
             "owner": "ourownstory",
             "repo": "neural_prophet",
-            "stars": 4310,
+            "stars": 4312,
             "topics": [
               "artificial-intelligence",
               "autoregression",
@@ -357,7 +357,7 @@
             "open_issues": 12,
             "owner": "ml-stat-Sustech",
             "repo": "TorchCP",
-            "stars": 479,
+            "stars": 480,
             "topics": [
               "classification",
               "conformal-prediction",
@@ -460,7 +460,7 @@
             "open_issues": 2,
             "owner": "mikekeith52",
             "repo": "scalecast",
-            "stars": 353,
+            "stars": 354,
             "topics": [
               "auto-ml",
               "data-science",
@@ -595,6 +595,36 @@
         },
         {
           "node_type": "item",
+          "title": "Conformal Tights - A scikit-learn meta-estimator that adds conformal prediction of coherent quantiles and intervals to any scikit-learn regressor",
+          "description": "by Laurent Sorber (Radix AI) (2024) 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "👖 Conformal Tights adds conformal prediction of coherent quantiles and intervals to any scikit-learn regressor or Darts forecaster",
+            "homepage": null,
+            "id": 765698489,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-05-01T10:48:46Z",
+            "open_issues": 7,
+            "owner": "superlinear-ai",
+            "repo": "conformal-tights",
+            "stars": 119,
+            "topics": [
+              "conformal-prediction",
+              "forecasting",
+              "machine-learning",
+              "prediction-intervals",
+              "python",
+              "quantile-regression",
+              "scikit-learn",
+              "time-series-forecasting"
+            ]
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
+        },
+        {
+          "node_type": "item",
           "title": "TorchUQ",
           "description": "TorchUQ/torchuq",
           "children": [],
@@ -615,36 +645,6 @@
               "pytorch",
               "uncertainty",
               "uncertainty-quantification"
-            ]
-          },
-          "first_seen": "2026-08-29T00:58:03.411Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Conformal Tights - A scikit-learn meta-estimator that adds conformal prediction of coherent quantiles and intervals to any scikit-learn regressor",
-          "description": "by Laurent Sorber (Radix AI) (2024) 🔥🔥🔥🔥🔥",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "👖 Conformal Tights adds conformal prediction of coherent quantiles and intervals to any scikit-learn regressor or Darts forecaster",
-            "homepage": null,
-            "id": 765698489,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-05-01T10:48:46Z",
-            "open_issues": 7,
-            "owner": "superlinear-ai",
-            "repo": "conformal-tights",
-            "stars": 118,
-            "topics": [
-              "conformal-prediction",
-              "forecasting",
-              "machine-learning",
-              "prediction-intervals",
-              "python",
-              "quantile-regression",
-              "scikit-learn",
-              "time-series-forecasting"
             ]
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
@@ -766,7 +766,7 @@
             "id": 634794673,
             "language": "Jupyter Notebook",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-19T19:29:19Z",
+            "last_commit": "2026-10-20T21:51:25Z",
             "open_issues": 17,
             "owner": "Moffran",
             "repo": "calibrated_explanations",
@@ -819,8 +819,8 @@
             "id": 780814119,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-19T18:52:37Z",
-            "open_issues": 0,
+            "last_commit": "2026-10-21T20:33:59Z",
+            "open_issues": 1,
             "owner": "OliverHennhoefer",
             "repo": "nonconform",
             "stars": 58,
@@ -1185,7 +1185,7 @@
             "open_issues": 62,
             "owner": "business-science",
             "repo": "modeltime",
-            "stars": 584,
+            "stars": 585,
             "topics": [
               "arima",
               "data-science",
@@ -1246,7 +1246,7 @@
             "open_issues": 0,
             "owner": "xqnwang",
             "repo": "conformalForecast",
-            "stars": 44,
+            "stars": 45,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
@@ -1309,7 +1309,7 @@
             "open_issues": 1,
             "owner": "taf-society",
             "repo": "caretForecast",
-            "stars": 29,
+            "stars": 30,
             "topics": [
               "caret",
               "conformal-prediction",
@@ -1998,7 +1998,7 @@
             "id": 634794673,
             "language": "Jupyter Notebook",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-19T19:29:19Z",
+            "last_commit": "2026-10-20T21:51:25Z",
             "open_issues": 17,
             "owner": "Moffran",
             "repo": "calibrated_explanations",
@@ -2020,27 +2020,6 @@
         },
         {
           "node_type": "item",
-          "title": "Rapid Traversal of Ultralarge Chemical Space using Machine Learning Guided Docking Screens",
-          "description": "by Andreas Luttens, Israel Cabeza de Vaca, Leonard Sparring, Ulf Norinder, Jens Carlsson (2023) Code Datasets 🔥🔥🔥🔥🔥",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Machine learning accelerated docking screens",
-            "homepage": null,
-            "id": 639127995,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2025-01-20T09:05:54Z",
-            "open_issues": 3,
-            "owner": "Carlssonlab",
-            "repo": "conformalpredictor",
-            "stars": 71,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T00:58:03.411Z"
-        },
-        {
-          "node_type": "item",
           "title": "Conformal Prediction With Conditional Guarantees",
           "description": "by Isaac Gibbs, John Cherian, Emmanuel Candes (Stanford, 2023) code",
           "children": [],
@@ -2055,6 +2034,27 @@
             "open_issues": 3,
             "owner": "jjcherian",
             "repo": "conditional-conformal",
+            "stars": 72,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Rapid Traversal of Ultralarge Chemical Space using Machine Learning Guided Docking Screens",
+          "description": "by Andreas Luttens, Israel Cabeza de Vaca, Leonard Sparring, Ulf Norinder, Jens Carlsson (2023) Code Datasets 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Machine learning accelerated docking screens",
+            "homepage": null,
+            "id": 639127995,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2025-01-20T09:05:54Z",
+            "open_issues": 3,
+            "owner": "Carlssonlab",
+            "repo": "conformalpredictor",
             "stars": 71,
             "topics": []
           },
@@ -2125,6 +2125,27 @@
         },
         {
           "node_type": "item",
+          "title": "TISSUE (Transcript Imputation with Spatial Single-cell Uncertainty Estimation)",
+          "description": "by James Zou, Eric Sun, Rong Ma, Anne Brunet, and Paloma Navarro Negredo (Stanford, Harvard, 2024) code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "TISSUE (Transcript Imputation with Spatial Single-cell Uncertainty Estimation) provides tools for estimating well-calibrated uncertainty measures for gene expression predictions in single-cell spatial transcriptomics datasets and utilizing them in downstream analyses",
+            "homepage": null,
+            "id": 620168965,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2024-03-10T20:30:23Z",
+            "open_issues": 1,
+            "owner": "sunericd",
+            "repo": "TISSUE",
+            "stars": 49,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
+        },
+        {
+          "node_type": "item",
           "title": "Conformal Meta-learners for Predictive Inference of Individual Treatment Effects",
           "description": "by Ahmed Alaa, Zaid Ahmad, and Mark van der Laan (2023) code 🔥🔥🔥🔥🔥",
           "children": [],
@@ -2147,27 +2168,6 @@
               "treatment-effect-estimation",
               "uncertainty-estimation"
             ]
-          },
-          "first_seen": "2026-08-29T00:58:03.411Z"
-        },
-        {
-          "node_type": "item",
-          "title": "TISSUE (Transcript Imputation with Spatial Single-cell Uncertainty Estimation)",
-          "description": "by James Zou, Eric Sun, Rong Ma, Anne Brunet, and Paloma Navarro Negredo (Stanford, Harvard, 2024) code",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "TISSUE (Transcript Imputation with Spatial Single-cell Uncertainty Estimation) provides tools for estimating well-calibrated uncertainty measures for gene expression predictions in single-cell spatial transcriptomics datasets and utilizing them in downstream analyses",
-            "homepage": null,
-            "id": 620168965,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2024-03-10T20:30:23Z",
-            "open_issues": 1,
-            "owner": "sunericd",
-            "repo": "TISSUE",
-            "stars": 48,
-            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -5154,7 +5154,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T20:33:50.168Z",
+    "last_updated": "2026-10-21T20:37:06.930Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professionally curated list of awesome Conformal Prediction videos, tutorials, books, papers, PhD and MSc theses, articles and open-source libraries.",
