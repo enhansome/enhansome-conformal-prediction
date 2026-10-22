@@ -396,7 +396,7 @@ These are active research and practitioner questions — contributions, discussi
 
 ## Conformal Prediction Presentation Slides
 
-1. [Conformal Prediction: an Introduction](https://github.com/online-ml/river/files/10098389/Conformal_Prediction_Presentation.pdf) ⭐ 6,131 | 🐛 88 | 🌐 Python | 📅 2026-10-16 by Leo Andeol (2022)
+1. [Conformal Prediction: an Introduction](https://github.com/online-ml/river/files/10098389/Conformal_Prediction_Presentation.pdf) ⭐ 6,131 | 🐛 88 | 🌐 Python | 📅 2026-10-22 by Leo Andeol (2022)
 2. [Machine Learning for Probabilistic Prediction, Seattle Artificial Intelligence Workshops Meetup](https://www.researchgate.net/publication/371566526_Machine_Learning_for_Probabilistic_Prediction) by Valery Manokhin, 2023 🔥🔥🔥🔥🔥
 3. [Machine Learning for Probabilistic Prediction](https://github.com/valeman/awesome-conformal-prediction/blob/main/assets/Machine%20Learning%20for%20Probabilistic%20Prediction.pdf) by Valery Manokhin, 2022 🔥🔥🔥🔥🔥
 4. [Adaptive Conformal Anomaly Detection for Time-series](https://cml.rhul.ac.uk/copa2017/presentations/burnaev.pdf) by Evgeny Burnaev, Alexander Bernstein, Vlad Ishimtsev and Ivan Nazarov (Skoltech, Moscow, Russia, 2017)
@@ -429,7 +429,7 @@ These are active research and practitioner questions — contributions, discussi
 
 ## Conformal Prediction Libraries in Python
 
-1. [River](https://github.com/online-ml/river/blob/0506ad73e45403638f13d66c6b2d71920d307461/river/conf/jackknife.py#L9) ⭐ 6,131 | 🐛 88 | 🌐 Python | 📅 2026-10-16 2022
+1. [River](https://github.com/online-ml/river/blob/0506ad73e45403638f13d66c6b2d71920d307461/river/conf/jackknife.py#L9) ⭐ 6,131 | 🐛 88 | 🌐 Python | 📅 2026-10-22 2022
 2. [NeuralProphet](https://github.com/ourownstory/neural_prophet/blob/main/tutorials/feature-use/uncertainty_conformal_prediction.ipynb) ⭐ 4,312 | 🐛 89 | 🌐 Python | 📅 2026-10-07 (2022) 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 3. [Conformalized density- and distance-based anomaly detection in time-series data (KNN-CAD)](https://github.com/numenta/NAB/tree/master/nab/detectors/knncad) ⭐ 2,113 | 🐛 44 | 🌐 Jupyter Notebook | 📅 2024-12-03 by Evgeny Burnaev, Vladislav Ishimtsev (2016). Top #3 winning solution in Numenta competition 🔥🔥🔥🔥🔥
 4. [TorchCP - A library for conformal prediction](https://github.com/ml-stat-Sustech/TorchCP) ⭐ 480 | 🐛 12 | 🌐 Python | 📅 2026-08-05 🔥🔥🔥🔥🔥
@@ -449,7 +449,7 @@ These are active research and practitioner questions — contributions, discussi
 18. [Venn-ABERS Predictor](https://github.com/ptocca/VennABERS) ⭐ 79 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2024-02-15 by Paolo Toccaceli (2019) [Paper](https://proceedings.neurips.cc/paper/2015/hash/a9a1d5317a33ae8cef33961c34144f84-Abstract.html) 🔥🔥🔥🔥🔥
 19. [calibrated-explanations - Calibrated Explanations for Machine Learning Models using Venn-Abers and Conformal Predictive Systems](https://github.com/Moffran/calibrated_explanations) ⭐ 79 | 🐛 17 | 🌐 Jupyter Notebook | 📅 2026-10-20 by Helena Löfström (2023)
 20. [Conformal time-series forecasting](https://github.com/kamilest/conformal-rnn) ⚠️ Archived by Kamile ̇ Stankeviciute (Cambridge, NeurIPS 2021) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
-21. [unquad - Conformal Anomaly Detection](https://github.com/OliverHennhoefer/unquad) ⭐ 58 | 🐛 1 | 🌐 Python | 📅 2026-10-21 🔥🔥🔥🔥🔥
+21. [unquad - Conformal Anomaly Detection](https://github.com/OliverHennhoefer/unquad) ⭐ 58 | 🐛 0 | 🌐 Python | 📅 2026-10-22 🔥🔥🔥🔥🔥
 22. [Conformal Impact](https://github.com/tblume1992/ConformalImpact) ⭐ 33 | 🐛 0 | 🌐 Python | 📅 2024-12-31 by Tyler Blume (2024) 🔥🔥🔥🔥🔥
     10.[Nonconformist](https://github.com/donlnz/nonconformist) ⭐ 479 | 🐛 20 | 🌐 Python | 📅 2021-03-20 by Henrik Linusson (2015) 🚨 The library does not seem to be actively maintained
 23. [Copula Conformal Multi Target Regression](https://github.com/M-Soundouss/CopulaConformalMTR) ⭐ 33 | 🐛 2 | 🌐 Python | 📅 2021-04-01 by Soundouss Messoudi (2021)
@@ -625,7 +625,7 @@ These are active research and practitioner questions — contributions, discussi
 88. [Posterior Conformal Prediction](https://arxiv.org/abs/2409.19712) by <https://arxiv.org/abs/2409.19712> (Standord, 2024) [code](https://github.com/yaozhang24/pcp) ⭐ 5 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-10-01 🔥🔥🔥🔥🔥
 89. [I do not know! but why?”– Local Model-Agnostic Example-based explanations of reject](https://www.sciencedirect.com/science/article/pii/S0925231223008457) [code](https://github.com/HammerLabML/LocalModelAgnosticExamplebasedExplanationsReject) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2023-01-13 by Andre Artelt, Roel Visser and Barbara Hammer (University of Bielefeld, 2023)
 90. [Optimizing Probabilistic Conformal Prediction with Vectorized Non-Conformity Scores](https://arxiv.org/abs/2410.13735) by
-    Minxing Zheng, Shixiang Zhu (University of Southern California, Carnegie Mellon University, 2024) 🔥🔥🔥🔥🔥 [code](https://github.com/Minxing-Zheng/PCP-VCR) ⭐ 4 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-12-08
+    Minxing Zheng, Shixiang Zhu (University of Southern California, Carnegie Mellon University, 2024) 🔥🔥🔥🔥🔥 [code](https://github.com/Minxing-Zheng/PCP-VCR) ⭐ 4 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-10-22
 91. [Reliable Multi-View Learning with Conformal Prediction for Aortic Stenosis Classification in Echocardiography](https://arxiv.org/abs/2409.09680) by Ang Nan Gu, Michael Tsang, Hooman Vaseli, Teresa Tsang, Purang Abolmaesumi (University of British Columbia, Vancouver; Division of Cardiology, Vancouver General Hospital,2024) [code](https://github.com/an-michaelg/RT4U) ⭐ 4 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2025-04-26
 92. [Learning Robot Safety from Sparse Human Feedback using Conformal Prediction](https://arxiv.org/abs/2501.04823) by
     (Aaron O. Feldman, Joseph A. Vincent, Maximilian Adang, Jun En Low, and Mac Schwager, Stanford 2025) [project](https://stanfordmsl.github.io/conformal-safety-learning/) [code](https://github.com/StanfordMSL/conformal-safety-learning) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2026-02-04 🔥🔥🔥🔥🔥
@@ -1363,4 +1363,4 @@ These are active research and practitioner questions — contributions, discussi
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
