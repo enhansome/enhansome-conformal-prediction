@@ -216,8 +216,8 @@
             "id": 167388434,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-22T09:37:22Z",
-            "open_issues": 88,
+            "last_commit": "2026-10-23T18:19:54Z",
+            "open_issues": 91,
             "owner": "online-ml",
             "repo": "river",
             "stars": 6131,
@@ -256,8 +256,8 @@
             "id": 167388434,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-22T09:37:22Z",
-            "open_issues": 88,
+            "last_commit": "2026-10-23T18:19:54Z",
+            "open_issues": 91,
             "owner": "online-ml",
             "repo": "river",
             "stars": 6131,
@@ -290,8 +290,8 @@
             "id": 261086130,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-07T17:49:28Z",
-            "open_issues": 89,
+            "last_commit": "2026-10-22T23:58:42Z",
+            "open_issues": 90,
             "owner": "ourownstory",
             "repo": "neural_prophet",
             "stars": 4312,
@@ -336,7 +336,7 @@
             "open_issues": 44,
             "owner": "numenta",
             "repo": "NAB",
-            "stars": 2113,
+            "stars": 2114,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
@@ -1341,7 +1341,7 @@
             "id": 584985844,
             "language": "HTML",
             "license": null,
-            "last_commit": "2026-10-20T17:06:31Z",
+            "last_commit": "2026-10-23T18:43:44Z",
             "open_issues": 38,
             "owner": "tidymodels",
             "repo": "tidymodels.org",
@@ -2694,6 +2694,48 @@
         },
         {
           "node_type": "item",
+          "title": "How to Trust Your Diffusion Model: A Convex Optimization Approach to Conformal Risk Control",
+          "description": "by Jacopo Teneggi, Matt Tivnan, J Webster Stayman, Jeremias Sulam (John Hopkins University, 2023) Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "\"How to Trust Your Diffusion Models: A Convex Optimization Approach to Conformal Risk Control\"",
+            "homepage": "https://arxiv.org/abs/2302.03791",
+            "id": 598757228,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-01-06T13:30:45Z",
+            "open_issues": 2,
+            "owner": "Sulam-Group",
+            "repo": "k-rcps",
+            "stars": 18,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
+        },
+        {
+          "node_type": "item",
+          "title": "How to Trust Your Diffusion Model: A Convex Optimization Approach to Conformal Risk Control",
+          "description": "Code (John Hopkins University, 2023) 🔥🔥🔥🔥🔥",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "\"How to Trust Your Diffusion Models: A Convex Optimization Approach to Conformal Risk Control\"",
+            "homepage": "https://arxiv.org/abs/2302.03791",
+            "id": 598757228,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-01-06T13:30:45Z",
+            "open_issues": 2,
+            "owner": "Sulam-Group",
+            "repo": "k-rcps",
+            "stars": 18,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
+        },
+        {
+          "node_type": "item",
           "title": "Selection by Prediction with Conformal p-values",
           "description": "by Ying Jin1 and Emmanuel J. Candes, (Stanford, 2022) Video code",
           "children": [],
@@ -2715,27 +2757,6 @@
               "selective-inference",
               "uncertainty-quantification"
             ]
-          },
-          "first_seen": "2026-08-29T00:58:03.411Z"
-        },
-        {
-          "node_type": "item",
-          "title": "How to Trust Your Diffusion Model: A Convex Optimization Approach to Conformal Risk Control",
-          "description": "by Jacopo Teneggi, Matt Tivnan, J Webster Stayman, Jeremias Sulam (John Hopkins University, 2023) Code",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "\"How to Trust Your Diffusion Models: A Convex Optimization Approach to Conformal Risk Control\"",
-            "homepage": "https://arxiv.org/abs/2302.03791",
-            "id": 598757228,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-01-06T13:30:45Z",
-            "open_issues": 2,
-            "owner": "Sulam-Group",
-            "repo": "k-rcps",
-            "stars": 17,
-            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -2763,27 +2784,6 @@
               "self-supervised-learning",
               "uncertainty-quantification"
             ]
-          },
-          "first_seen": "2026-08-29T00:58:03.411Z"
-        },
-        {
-          "node_type": "item",
-          "title": "How to Trust Your Diffusion Model: A Convex Optimization Approach to Conformal Risk Control",
-          "description": "Code (John Hopkins University, 2023) 🔥🔥🔥🔥🔥",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "\"How to Trust Your Diffusion Models: A Convex Optimization Approach to Conformal Risk Control\"",
-            "homepage": "https://arxiv.org/abs/2302.03791",
-            "id": 598757228,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-01-06T13:30:45Z",
-            "open_issues": 2,
-            "owner": "Sulam-Group",
-            "repo": "k-rcps",
-            "stars": 17,
-            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -3363,6 +3363,27 @@
         },
         {
           "node_type": "item",
+          "title": "Achieving Risk Control in Online Learning Settings",
+          "description": "by Shai Feldman, Liran Ringel, Stephen Bates, Yaniv Romano (Technion/Berkeley, 2021) code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Rolling Risk Control",
+            "homepage": null,
+            "id": 643843494,
+            "language": "Jupyter Notebook",
+            "license": null,
+            "last_commit": "2023-07-15T14:30:34Z",
+            "open_issues": 0,
+            "owner": "Shai128",
+            "repo": "rrc",
+            "stars": 8,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
+        },
+        {
+          "node_type": "item",
           "title": "Adaptive Uncertainty Quantification for Generative AI",
           "description": "by Jungeum Kim, Sean O'Hagan, Veronika Rockova (University of Chicago, 2024) code",
           "children": [],
@@ -3482,27 +3503,6 @@
             "open_issues": 0,
             "owner": "unisb-bioinf",
             "repo": "Conformal-Drug-Sensitivity-Prediction",
-            "stars": 7,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T00:58:03.411Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Achieving Risk Control in Online Learning Settings",
-          "description": "by Shai Feldman, Liran Ringel, Stephen Bates, Yaniv Romano (Technion/Berkeley, 2021) code",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Rolling Risk Control",
-            "homepage": null,
-            "id": 643843494,
-            "language": "Jupyter Notebook",
-            "license": null,
-            "last_commit": "2023-07-15T14:30:34Z",
-            "open_issues": 0,
-            "owner": "Shai128",
-            "repo": "rrc",
             "stars": 7,
             "topics": []
           },
@@ -5154,7 +5154,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T20:33:00.542Z",
+    "last_updated": "2026-10-23T20:26:10.024Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professionally curated list of awesome Conformal Prediction videos, tutorials, books, papers, PhD and MSc theses, articles and open-source libraries.",
@@ -5163,7 +5163,7 @@
       "language": null,
       "license": "NOASSERTION",
       "last_commit": "2026-08-25T10:44:29Z",
-      "open_issues": 4,
+      "open_issues": 6,
       "owner": "valeman",
       "repo": "awesome-conformal-prediction",
       "stars": 1329,
