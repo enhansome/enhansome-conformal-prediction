@@ -141,7 +141,7 @@
             "open_issues": 3,
             "owner": "washingtonpost",
             "repo": "elex-live-model",
-            "stars": 81,
+            "stars": 82,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
@@ -220,7 +220,7 @@
             "open_issues": 89,
             "owner": "online-ml",
             "repo": "river",
-            "stars": 6132,
+            "stars": 6134,
             "topics": [
               "concept-drift",
               "data-science",
@@ -260,7 +260,7 @@
             "open_issues": 89,
             "owner": "online-ml",
             "repo": "river",
-            "stars": 6132,
+            "stars": 6134,
             "topics": [
               "concept-drift",
               "data-science",
@@ -5154,7 +5154,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T19:28:46.835Z",
+    "last_updated": "2026-10-25T19:35:16.678Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professionally curated list of awesome Conformal Prediction videos, tutorials, books, papers, PhD and MSc theses, articles and open-source libraries.",
