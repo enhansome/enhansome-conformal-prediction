@@ -19,7 +19,7 @@
             "open_issues": 7,
             "owner": "aangelopoulos",
             "repo": "conformal-prediction",
-            "stars": 1107,
+            "stars": 1108,
             "topics": [
               "computer-vision",
               "conformal",
@@ -220,7 +220,7 @@
             "open_issues": 88,
             "owner": "online-ml",
             "repo": "river",
-            "stars": 6135,
+            "stars": 6137,
             "topics": [
               "concept-drift",
               "data-science",
@@ -260,7 +260,7 @@
             "open_issues": 88,
             "owner": "online-ml",
             "repo": "river",
-            "stars": 6135,
+            "stars": 6137,
             "topics": [
               "concept-drift",
               "data-science",
@@ -819,7 +819,7 @@
             "id": 780814119,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-22T11:15:44Z",
+            "last_commit": "2026-10-29T09:45:17Z",
             "open_issues": 0,
             "owner": "OliverHennhoefer",
             "repo": "nonconform",
@@ -1811,7 +1811,7 @@
             "open_issues": 7,
             "owner": "aangelopoulos",
             "repo": "ppi_py",
-            "stars": 301,
+            "stars": 302,
             "topics": [
               "confidence-interval",
               "confidence-intervals",
@@ -2135,11 +2135,11 @@
             "id": 620168965,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2024-03-10T20:30:23Z",
-            "open_issues": 2,
+            "last_commit": "2026-10-29T14:57:14Z",
+            "open_issues": 0,
             "owner": "sunericd",
             "repo": "TISSUE",
-            "stars": 49,
+            "stars": 50,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
@@ -5154,7 +5154,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T21:38:22.207Z",
+    "last_updated": "2026-10-29T21:47:43.277Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professionally curated list of awesome Conformal Prediction videos, tutorials, books, papers, PhD and MSc theses, articles and open-source libraries.",
@@ -5166,7 +5166,7 @@
       "open_issues": 6,
       "owner": "valeman",
       "repo": "awesome-conformal-prediction",
-      "stars": 1329,
+      "stars": 1330,
       "topics": [
         "ai",
         "awesome",
