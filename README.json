@@ -216,11 +216,11 @@
             "id": 167388434,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-30T15:57:59Z",
+            "last_commit": "2026-10-31T20:25:29Z",
             "open_issues": 80,
             "owner": "online-ml",
             "repo": "river",
-            "stars": 6137,
+            "stars": 6141,
             "topics": [
               "concept-drift",
               "data-science",
@@ -256,11 +256,11 @@
             "id": 167388434,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-30T15:57:59Z",
+            "last_commit": "2026-10-31T20:25:29Z",
             "open_issues": 80,
             "owner": "online-ml",
             "repo": "river",
-            "stars": 6137,
+            "stars": 6141,
             "topics": [
               "concept-drift",
               "data-science",
@@ -5154,7 +5154,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T21:28:43.932Z",
+    "last_updated": "2026-10-31T20:26:46.430Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professionally curated list of awesome Conformal Prediction videos, tutorials, books, papers, PhD and MSc theses, articles and open-source libraries.",
@@ -5166,7 +5166,7 @@
       "open_issues": 6,
       "owner": "valeman",
       "repo": "awesome-conformal-prediction",
-      "stars": 1331,
+      "stars": 1332,
       "topics": [
         "ai",
         "awesome",
