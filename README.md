@@ -146,7 +146,7 @@ print(f"Mean interval width: {np.mean(upper - lower):.2f}")
 
 ## Conformal Prediction Libraries in Python
 
-1. [River](https://github.com/online-ml/river/blob/0506ad73e45403638f13d66c6b2d71920d307461/river/conf/jackknife.py#L9) ⭐ 6,141 | 🐛 81 | 🌐 Python | 📅 2026-11-02 2022
+1. [River](https://github.com/online-ml/river/blob/0506ad73e45403638f13d66c6b2d71920d307461/river/conf/jackknife.py#L9) ⭐ 6,142 | 🐛 81 | 🌐 Python | 📅 2026-11-02 2022
 2. [Conformalized density- and distance-based anomaly detection in time-series data (KNN-CAD)](https://github.com/numenta/NAB/tree/master/nab/detectors/knncad) ⭐ 2,114 | 🐛 44 | 🌐 Jupyter Notebook | 📅 2024-12-03 by Evgeny Burnaev, Vladislav Ishimtsev (2016). Top #3 winning solution in Numenta competition
 3. [TorchCP - A library for conformal prediction](https://github.com/ml-stat-Sustech/TorchCP) ⭐ 481 | 🐛 12 | 🌐 Python | 📅 2026-08-05
 4. [Nonconformist](https://github.com/donlnz/nonconformist) ⭐ 479 | 🐛 20 | 🌐 Python | 📅 2021-03-20 by Henrik Linusson (2015)
@@ -576,7 +576,7 @@ print(f"Mean interval width: {np.mean(upper - lower):.2f}")
 7. [Conformal Inference with Tidymodels](https://topepo.github.io/posit-2023-conformal/#/title-slide) by Max Kuhn (posit conference 2023)
 8. [Leveraging Conformal Prediction for Calibrated Probabilistic Time Series Forecasts to Accelerate the Renewable Energy Transition](https://speakerdeck.com/ingevandenende/leveraging-conformal-prediction-for-calibrated-probabilistic-time-series-forecasts-to-accelerate-the-renewable-energy-transition) by Inge van den Ende (Dexter Energy, 2023).  🕒
 9. [crepes: a Python Package for Conformal Regressors and Predictive Systems](https://cml.rhul.ac.uk/copa2022/presentations/COPA_2022_Presentation__crepes.pdf) by Henrik Bostroem (KTH, Sweden, 2022)
-10. [Conformal Prediction: an Introduction](https://github.com/online-ml/river/files/10098389/Conformal_Prediction_Presentation.pdf) ⭐ 6,141 | 🐛 81 | 🌐 Python | 📅 2026-11-02 by Leo Andeol (2022)
+10. [Conformal Prediction: an Introduction](https://github.com/online-ml/river/files/10098389/Conformal_Prediction_Presentation.pdf) ⭐ 6,142 | 🐛 81 | 🌐 Python | 📅 2026-11-02 by Leo Andeol (2022)
 11. [EnbPI poster](https://sites.gatech.edu/chenxu97/files/2023/01/EnbPI_poster.pdf) by Chen Xu, Yao Xie (2021)
 12. [Conformal Regressors and Predictive Systems – a Gentle Introduction](https://cml.rhul.ac.uk/copa2022/presentations/COPA_2022_Presentation__Conformal_Regressors_and_Predictive_Systems___a_Gentle_Introduction.pdf) by Henrik Bostroem (KTH, Sweden, 2022)
 13. [Applications of Conformal Predictors](https://cml.rhul.ac.uk/copa2022/presentations/lars_ernst.pdf) by Ernst Ahlberg and Lars Carlsson (Stena Line, 2022)
@@ -672,7 +672,7 @@ print(f"Mean interval width: {np.mean(upper - lower):.2f}")
 67. [Conformal Predictions for Longitudinal Data](https://arxiv.org/abs/2310.02863) [code](https://github.com/EconAIorg/LPCI) ⭐ 9 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2026-03-24 by Devesh Batra, Salvatore Mercuri, Raad Khraishi (Data Science & Innovation, NatWest Group, Institute of Finance and Technology, UCL, London, United Kingdom, 2023).
 68. [Fast Conformal Prediction using Conditional Interquantile Intervals](https://arxiv.org/abs/2601.02769) by Naixin Guo, Rui Luo, Zhixin Zhou (City University of Hong Kong, Alpha Benito Research,2026) [code](https://github.com/orince/CIR) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2025-11-13
 69. [Wasserstein-regularized Conformal Prediction under General Distribution Shift](https://arxiv.org/abs/2501.13430) by Rui Xu, Chao Chen, Yue Sun, Parvathinathan Venkitasubramaniam, Sihong Xie (The Hong Kong University of Science and Technology (Guangzhou), Harbin Institute of Technology, Lehigh University, 2025) [code](https://github.com/rxu0112/WR-CP) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2025-06-04
-70. [Adaptive Uncertainty Quantification for Generative AI](https://arxiv.org/abs/2408.08990) by Jungeum Kim, Sean O'Hagan, Veronika Rockova (University of Chicago, 2024) [code](https://github.com/JungeumKim/conformal_tree?tab=readme-ov-file) ⭐ 8 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2025-03-01
+70. [Adaptive Uncertainty Quantification for Generative AI](https://arxiv.org/abs/2408.08990) by Jungeum Kim, Sean O'Hagan, Veronika Rockova (University of Chicago, 2024) [code](https://github.com/JungeumKim/conformal_tree?tab=readme-ov-file) ⭐ 8 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-11-06
 71. [Length Optimization in Conformal Prediction](https://arxiv.org/abs/2406.18814) by Shayan Kiyani, George Pappas, Hamed Hassani (University of Pennsylvania,2024) [code](https://github.com/shayankiyani98/CP/blob/main/CPL.ipynb) ⭐ 8 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-07-01
 72. [Conformal prediction with local weights: randomization enables robust guarantees](https://arxiv.org/abs/2310.07850) by Rohan Hore, Rina Foygel Barber (University of Chicago, 2024) [code](https://github.com/rohanhore/RLCP) ⭐ 8 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-10-01
 73. [Sensititivty analysis of individual treatment effects: A robust conformal inference approach](https://www.pnas.org/doi/epdf/10.1073/pnas.2214889120) [Code](https://github.com/ying531/cfsensitivity_paper) ⭐ 8 | 🐛 0 | 🌐 R | 📅 2021-11-28 by Ying Jin, Zhimei Ren and Emmanual Candes (2023)
@@ -1546,4 +1546,4 @@ Use [CITATION.cff](docs/CITATION.cff) or the [Zenodo record](https://doi.org/10.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._

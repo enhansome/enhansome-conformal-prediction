@@ -109,7 +109,7 @@
             "open_issues": 81,
             "owner": "online-ml",
             "repo": "river",
-            "stars": 6141,
+            "stars": 6142,
             "topics": [
               "concept-drift",
               "data-science",
@@ -3985,7 +3985,7 @@
             "id": 785368954,
             "language": "Jupyter Notebook",
             "license": "MIT",
-            "last_commit": "2025-03-01T19:31:03Z",
+            "last_commit": "2026-11-06T17:39:31Z",
             "open_issues": 0,
             "owner": "JungeumKim",
             "repo": "conformal_tree",
@@ -5218,7 +5218,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T22:40:03.033Z",
+    "last_updated": "2026-11-06T22:05:51.926Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professionally curated list of awesome Conformal Prediction videos, tutorials, books, papers, PhD and MSc theses, articles and open-source libraries.",
@@ -5230,7 +5230,7 @@
       "open_issues": 6,
       "owner": "valeman",
       "repo": "awesome-conformal-prediction",
-      "stars": 1336,
+      "stars": 1335,
       "topics": [
         "ai",
         "awesome",
