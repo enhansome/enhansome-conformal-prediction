@@ -164,7 +164,7 @@
             "open_issues": 12,
             "owner": "ml-stat-Sustech",
             "repo": "TorchCP",
-            "stars": 481,
+            "stars": 482,
             "topics": [
               "classification",
               "conformal-prediction",
@@ -210,7 +210,7 @@
             "language": "Python",
             "license": null,
             "last_commit": "2026-11-05T11:37:38Z",
-            "open_issues": 4,
+            "open_issues": 6,
             "owner": "deel-ai",
             "repo": "puncc",
             "stars": 414,
@@ -525,8 +525,8 @@
             "id": 634794673,
             "language": "Jupyter Notebook",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-04T11:49:56Z",
-            "open_issues": 11,
+            "last_commit": "2026-11-07T08:00:55Z",
+            "open_issues": 9,
             "owner": "Moffran",
             "repo": "calibrated_explanations",
             "stars": 79,
@@ -712,6 +712,31 @@
         },
         {
           "node_type": "item",
+          "title": "conformal-prediction-jan2024 - PyLadies Amsterdam",
+          "description": "by Inge van den Ende (2024)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "An introduction to conformal prediction",
+            "homepage": null,
+            "id": 720801487,
+            "language": "Jupyter Notebook",
+            "license": "MIT",
+            "last_commit": "2024-01-31T14:58:24Z",
+            "open_issues": 0,
+            "owner": "pyladiesams",
+            "repo": "conformal-prediction-jan2024",
+            "stars": 28,
+            "topics": [
+              "conformal-prediction",
+              "forecasting",
+              "python"
+            ]
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
+        },
+        {
+          "node_type": "item",
           "title": "ConformaSight Global Explainer Package",
           "description": "by Fatıma Rabia Yapıcıoğlu (2025)",
           "children": [],
@@ -731,31 +756,6 @@
               "explainability",
               "transparent-ai",
               "trustworthy-ai"
-            ]
-          },
-          "first_seen": "2026-08-29T00:58:03.411Z"
-        },
-        {
-          "node_type": "item",
-          "title": "conformal-prediction-jan2024 - PyLadies Amsterdam",
-          "description": "by Inge van den Ende (2024)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "An introduction to conformal prediction",
-            "homepage": null,
-            "id": 720801487,
-            "language": "Jupyter Notebook",
-            "license": "MIT",
-            "last_commit": "2024-01-31T14:58:24Z",
-            "open_issues": 0,
-            "owner": "pyladiesams",
-            "repo": "conformal-prediction-jan2024",
-            "stars": 27,
-            "topics": [
-              "conformal-prediction",
-              "forecasting",
-              "python"
             ]
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
@@ -1635,7 +1635,7 @@
             "open_issues": 0,
             "owner": "hamrel-cxu",
             "repo": "SPCI-code",
-            "stars": 40,
+            "stars": 39,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
@@ -2306,7 +2306,7 @@
             "open_issues": 0,
             "owner": "pyladiesams",
             "repo": "conformal-prediction-jan2024",
-            "stars": 27,
+            "stars": 28,
             "topics": [
               "conformal-prediction",
               "forecasting",
@@ -2355,7 +2355,7 @@
             "language": "Python",
             "license": null,
             "last_commit": "2026-11-05T11:37:38Z",
-            "open_issues": 4,
+            "open_issues": 6,
             "owner": "deel-ai",
             "repo": "puncc",
             "stars": 414,
@@ -2418,7 +2418,7 @@
             "open_issues": 7,
             "owner": "aangelopoulos",
             "repo": "ppi_py",
-            "stars": 306,
+            "stars": 307,
             "topics": [
               "confidence-interval",
               "confidence-intervals",
@@ -2605,8 +2605,8 @@
             "id": 634794673,
             "language": "Jupyter Notebook",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-04T11:49:56Z",
-            "open_issues": 11,
+            "last_commit": "2026-11-07T08:00:55Z",
+            "open_issues": 9,
             "owner": "Moffran",
             "repo": "calibrated_explanations",
             "stars": 79,
@@ -5218,7 +5218,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T22:05:51.926Z",
+    "last_updated": "2026-11-07T20:51:41.039Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professionally curated list of awesome Conformal Prediction videos, tutorials, books, papers, PhD and MSc theses, articles and open-source libraries.",
