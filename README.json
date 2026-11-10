@@ -105,11 +105,11 @@
             "id": 167388434,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-02T11:04:55Z",
-            "open_issues": 82,
+            "last_commit": "2026-11-09T09:05:33Z",
+            "open_issues": 83,
             "owner": "online-ml",
             "repo": "river",
-            "stars": 6141,
+            "stars": 6143,
             "topics": [
               "concept-drift",
               "data-science",
@@ -280,7 +280,7 @@
             "open_issues": 4,
             "owner": "yromano",
             "repo": "cqr",
-            "stars": 321,
+            "stars": 323,
             "topics": [
               "algorithmic-fairness",
               "conformal-methods",
@@ -525,8 +525,8 @@
             "id": 634794673,
             "language": "Jupyter Notebook",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-07T21:13:35Z",
-            "open_issues": 8,
+            "last_commit": "2026-11-09T22:42:45Z",
+            "open_issues": 9,
             "owner": "Moffran",
             "repo": "calibrated_explanations",
             "stars": 79,
@@ -1897,6 +1897,27 @@
         },
         {
           "node_type": "item",
+          "title": "Feature Fitted Online Conformal Prediction for Deep Time Series Forecasting Model",
+          "description": "by Xiannan Huang, Shuhan Qiu (Tongji University, 2025) code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 919310944,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2026-01-16T06:40:51Z",
+            "open_issues": 1,
+            "owner": "xiannanhuang",
+            "repo": "FFDCI",
+            "stars": 10,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
+        },
+        {
+          "node_type": "item",
           "title": "Conformal Prediction for Hierarchical Data",
           "description": "by Guillaume Principato, Gilles Stoltz, Yvenn Amara-Ouali, Yannig Goude, Bachir Hamrouche, Jean-Michel Poggi (Université Paris-Saclay, EDF R&D, Inria, Laboratoire de mathématiques d’Orsay, France, 2025) code 🕒",
           "children": [],
@@ -1933,27 +1954,6 @@
             "owner": "PrincipatoG",
             "repo": "Conformal-Prediction-for-Hierarchical-Data",
             "stars": 10,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T00:58:03.411Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Feature Fitted Online Conformal Prediction for Deep Time Series Forecasting Model",
-          "description": "by Xiannan Huang, Shuhan Qiu (Tongji University, 2025) code",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 919310944,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2026-01-16T06:40:51Z",
-            "open_issues": 1,
-            "owner": "xiannanhuang",
-            "repo": "FFDCI",
-            "stars": 9,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
@@ -2385,7 +2385,7 @@
             "open_issues": 4,
             "owner": "yromano",
             "repo": "cqr",
-            "stars": 321,
+            "stars": 323,
             "topics": [
               "algorithmic-fairness",
               "conformal-methods",
@@ -2605,8 +2605,8 @@
             "id": 634794673,
             "language": "Jupyter Notebook",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-07T21:13:35Z",
-            "open_issues": 8,
+            "last_commit": "2026-11-09T22:42:45Z",
+            "open_issues": 9,
             "owner": "Moffran",
             "repo": "calibrated_explanations",
             "stars": 79,
@@ -4084,6 +4084,27 @@
         },
         {
           "node_type": "item",
+          "title": "CONFORMAL PREDICTIONS ENHANCED EXPERT-GUIDED MESHING WITH GRAPH NEURAL NETWORKS",
+          "description": "code by Amin Heyrani Nobari, Justin Rey, Suhas Kodali and Matthew Jones (MIT, 2023) website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 638607897,
+            "language": "Jupyter Notebook",
+            "license": null,
+            "last_commit": "2023-08-15T03:19:48Z",
+            "open_issues": 0,
+            "owner": "ahnobari",
+            "repo": "AutoSurf",
+            "stars": 8,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
+        },
+        {
+          "node_type": "item",
           "title": "Achieving Risk Control in Online Learning Settings",
           "description": "by Shai Feldman, Liran Ringel, Stephen Bates, Yaniv Romano (TMLR 2023) code",
           "children": [],
@@ -4120,27 +4141,6 @@
             "owner": "hamrel-cxu",
             "repo": "Ensemble-Regularized-Adaptive-Prediction-Set-ERAPS",
             "stars": 8,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T00:58:03.411Z"
-        },
-        {
-          "node_type": "item",
-          "title": "CONFORMAL PREDICTIONS ENHANCED EXPERT-GUIDED MESHING WITH GRAPH NEURAL NETWORKS",
-          "description": "code by Amin Heyrani Nobari, Justin Rey, Suhas Kodali and Matthew Jones (MIT, 2023) website",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 638607897,
-            "language": "Jupyter Notebook",
-            "license": null,
-            "last_commit": "2023-08-15T03:19:48Z",
-            "open_issues": 0,
-            "owner": "ahnobari",
-            "repo": "AutoSurf",
-            "stars": 7,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
@@ -5218,7 +5218,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T21:08:02.267Z",
+    "last_updated": "2026-11-10T00:40:28.379Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professionally curated list of awesome Conformal Prediction videos, tutorials, books, papers, PhD and MSc theses, articles and open-source libraries.",
@@ -5230,7 +5230,7 @@
       "open_issues": 6,
       "owner": "valeman",
       "repo": "awesome-conformal-prediction",
-      "stars": 1336,
+      "stars": 1339,
       "topics": [
         "ai",
         "awesome",
