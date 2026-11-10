@@ -105,11 +105,11 @@
             "id": 167388434,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-09T09:05:33Z",
-            "open_issues": 83,
+            "last_commit": "2026-11-10T16:43:55Z",
+            "open_issues": 79,
             "owner": "online-ml",
             "repo": "river",
-            "stars": 6143,
+            "stars": 6145,
             "topics": [
               "concept-drift",
               "data-science",
@@ -143,7 +143,7 @@
             "open_issues": 44,
             "owner": "numenta",
             "repo": "NAB",
-            "stars": 2114,
+            "stars": 2116,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
@@ -164,7 +164,7 @@
             "open_issues": 12,
             "owner": "ml-stat-Sustech",
             "repo": "TorchCP",
-            "stars": 482,
+            "stars": 484,
             "topics": [
               "classification",
               "conformal-prediction",
@@ -192,7 +192,7 @@
             "open_issues": 20,
             "owner": "donlnz",
             "repo": "nonconformist",
-            "stars": 479,
+            "stars": 480,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
@@ -209,11 +209,11 @@
             "id": 515914540,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-11-05T11:37:38Z",
+            "last_commit": "2026-11-10T16:10:30Z",
             "open_issues": 6,
             "owner": "deel-ai",
             "repo": "puncc",
-            "stars": 414,
+            "stars": 415,
             "topics": [
               "conformal-inference",
               "conformal-prediction",
@@ -240,7 +240,7 @@
             "open_issues": 2,
             "owner": "mikekeith52",
             "repo": "scalecast",
-            "stars": 354,
+            "stars": 355,
             "topics": [
               "auto-ml",
               "data-science",
@@ -526,7 +526,7 @@
             "language": "Jupyter Notebook",
             "license": "BSD-3-Clause",
             "last_commit": "2026-11-09T22:42:45Z",
-            "open_issues": 9,
+            "open_issues": 8,
             "owner": "Moffran",
             "repo": "calibrated_explanations",
             "stars": 79,
@@ -1169,7 +1169,7 @@
             "open_issues": 0,
             "owner": "herbps10",
             "repo": "AdaptiveConformal",
-            "stars": 19,
+            "stars": 20,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
@@ -1533,7 +1533,7 @@
             "open_issues": 1,
             "owner": "aangelopoulos",
             "repo": "conformal-time-series",
-            "stars": 148,
+            "stars": 150,
             "topics": [
               "conformal",
               "conformal-prediction",
@@ -2354,11 +2354,11 @@
             "id": 515914540,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-11-05T11:37:38Z",
+            "last_commit": "2026-11-10T16:10:30Z",
             "open_issues": 6,
             "owner": "deel-ai",
             "repo": "puncc",
-            "stars": 414,
+            "stars": 415,
             "topics": [
               "conformal-inference",
               "conformal-prediction",
@@ -2449,7 +2449,7 @@
             "open_issues": 1,
             "owner": "aangelopoulos",
             "repo": "conformal-time-series",
-            "stars": 148,
+            "stars": 150,
             "topics": [
               "conformal",
               "conformal-prediction",
@@ -2606,7 +2606,7 @@
             "language": "Jupyter Notebook",
             "license": "BSD-3-Clause",
             "last_commit": "2026-11-09T22:42:45Z",
-            "open_issues": 9,
+            "open_issues": 8,
             "owner": "Moffran",
             "repo": "calibrated_explanations",
             "stars": 79,
@@ -5218,7 +5218,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T00:40:28.379Z",
+    "last_updated": "2026-11-10T22:21:20.351Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professionally curated list of awesome Conformal Prediction videos, tutorials, books, papers, PhD and MSc theses, articles and open-source libraries.",
@@ -5230,7 +5230,7 @@
       "open_issues": 6,
       "owner": "valeman",
       "repo": "awesome-conformal-prediction",
-      "stars": 1339,
+      "stars": 1341,
       "topics": [
         "ai",
         "awesome",
