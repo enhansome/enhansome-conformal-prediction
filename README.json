@@ -106,10 +106,10 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-11-10T16:43:55Z",
-            "open_issues": 79,
+            "open_issues": 81,
             "owner": "online-ml",
             "repo": "river",
-            "stars": 6145,
+            "stars": 6146,
             "topics": [
               "concept-drift",
               "data-science",
@@ -213,7 +213,7 @@
             "open_issues": 6,
             "owner": "deel-ai",
             "repo": "puncc",
-            "stars": 415,
+            "stars": 416,
             "topics": [
               "conformal-inference",
               "conformal-prediction",
@@ -280,7 +280,7 @@
             "open_issues": 4,
             "owner": "yromano",
             "repo": "cqr",
-            "stars": 323,
+            "stars": 324,
             "topics": [
               "algorithmic-fairness",
               "conformal-methods",
@@ -2358,7 +2358,7 @@
             "open_issues": 6,
             "owner": "deel-ai",
             "repo": "puncc",
-            "stars": 415,
+            "stars": 416,
             "topics": [
               "conformal-inference",
               "conformal-prediction",
@@ -2385,7 +2385,7 @@
             "open_issues": 4,
             "owner": "yromano",
             "repo": "cqr",
-            "stars": 323,
+            "stars": 324,
             "topics": [
               "algorithmic-fairness",
               "conformal-methods",
@@ -5218,7 +5218,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T22:21:20.351Z",
+    "last_updated": "2026-11-11T23:27:19.073Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professionally curated list of awesome Conformal Prediction videos, tutorials, books, papers, PhD and MSc theses, articles and open-source libraries.",
