@@ -146,11 +146,11 @@ print(f"Mean interval width: {np.mean(upper - lower):.2f}")
 
 ## Conformal Prediction Libraries in Python
 
-1. [River](https://github.com/online-ml/river/blob/0506ad73e45403638f13d66c6b2d71920d307461/river/conf/jackknife.py#L9) ⭐ 6,146 | 🐛 81 | 🌐 Python | 📅 2026-11-10 2022
+1. [River](https://github.com/online-ml/river/blob/0506ad73e45403638f13d66c6b2d71920d307461/river/conf/jackknife.py#L9) ⭐ 6,146 | 🐛 84 | 🌐 Python | 📅 2026-11-10 2022
 2. [Conformalized density- and distance-based anomaly detection in time-series data (KNN-CAD)](https://github.com/numenta/NAB/tree/master/nab/detectors/knncad) ⭐ 2,116 | 🐛 44 | 🌐 Jupyter Notebook | 📅 2024-12-03 by Evgeny Burnaev, Vladislav Ishimtsev (2016). Top #3 winning solution in Numenta competition
 3. [TorchCP - A library for conformal prediction](https://github.com/ml-stat-Sustech/TorchCP) ⭐ 484 | 🐛 12 | 🌐 Python | 📅 2026-08-05
 4. [Nonconformist](https://github.com/donlnz/nonconformist) ⭐ 480 | 🐛 20 | 🌐 Python | 📅 2021-03-20 by Henrik Linusson (2015)
-5. [Puncc (Predictive uncertainty calibration and conformalization)](https://github.com/deel-ai/puncc) ⭐ 416 | 🐛 6 | 🌐 Python | 📅 2026-11-10 [paper](https://proceedings.mlr.press/v204/mendil23a/mendil23a.pdf) [slides](https://cml.rhul.ac.uk/copa2023/presentations/COPA_2023_mouhcine_mendil_puncc.pdf)
+5. [Puncc (Predictive uncertainty calibration and conformalization)](https://github.com/deel-ai/puncc) ⭐ 416 | 🐛 6 | 🌐 Python | 📅 2026-11-12 [paper](https://proceedings.mlr.press/v204/mendil23a/mendil23a.pdf) [slides](https://cml.rhul.ac.uk/copa2023/presentations/COPA_2023_mouhcine_mendil_puncc.pdf)
 6. <https://github.com/mikekeith52/scalecast> ⭐ 355 | 🐛 2 | 🌐 Python | 📅 2026-10-12 🕒
 7. [Conformalized Quantile Regression](https://github.com/yromano/cqr) ⭐ 324 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2026-10-27 by Yaniv Romano (2019)
 8. [Conformal Predictions from Scratch in Numpy](https://github.com/joneswack/conformal-predictions-from-scratch) ⭐ 229 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-01-14 by Jones Wacker (2023)
@@ -576,7 +576,7 @@ print(f"Mean interval width: {np.mean(upper - lower):.2f}")
 7. [Conformal Inference with Tidymodels](https://topepo.github.io/posit-2023-conformal/#/title-slide) by Max Kuhn (posit conference 2023)
 8. [Leveraging Conformal Prediction for Calibrated Probabilistic Time Series Forecasts to Accelerate the Renewable Energy Transition](https://speakerdeck.com/ingevandenende/leveraging-conformal-prediction-for-calibrated-probabilistic-time-series-forecasts-to-accelerate-the-renewable-energy-transition) by Inge van den Ende (Dexter Energy, 2023).  🕒
 9. [crepes: a Python Package for Conformal Regressors and Predictive Systems](https://cml.rhul.ac.uk/copa2022/presentations/COPA_2022_Presentation__crepes.pdf) by Henrik Bostroem (KTH, Sweden, 2022)
-10. [Conformal Prediction: an Introduction](https://github.com/online-ml/river/files/10098389/Conformal_Prediction_Presentation.pdf) ⭐ 6,146 | 🐛 81 | 🌐 Python | 📅 2026-11-10 by Leo Andeol (2022)
+10. [Conformal Prediction: an Introduction](https://github.com/online-ml/river/files/10098389/Conformal_Prediction_Presentation.pdf) ⭐ 6,146 | 🐛 84 | 🌐 Python | 📅 2026-11-10 by Leo Andeol (2022)
 11. [EnbPI poster](https://sites.gatech.edu/chenxu97/files/2023/01/EnbPI_poster.pdf) by Chen Xu, Yao Xie (2021)
 12. [Conformal Regressors and Predictive Systems – a Gentle Introduction](https://cml.rhul.ac.uk/copa2022/presentations/COPA_2022_Presentation__Conformal_Regressors_and_Predictive_Systems___a_Gentle_Introduction.pdf) by Henrik Bostroem (KTH, Sweden, 2022)
 13. [Applications of Conformal Predictors](https://cml.rhul.ac.uk/copa2022/presentations/lars_ernst.pdf) by Ernst Ahlberg and Lars Carlsson (Stena Line, 2022)
@@ -600,7 +600,7 @@ print(f"Mean interval width: {np.mean(upper - lower):.2f}")
 
 ## Conformal Prediction Papers
 
-1. [PUNCC: a Python Library for Predictive Uncertainty Calibration and Conformalization](https://proceedings.mlr.press/v204/mendil23a/mendil23a.pdf) [slides](https://cml.rhul.ac.uk/copa2023/presentations/COPA_2023_mouhcine_mendil_puncc.pdf) [code](https://github.com/deel-ai/puncc) ⭐ 416 | 🐛 6 | 🌐 Python | 📅 2026-11-10
+1. [PUNCC: a Python Library for Predictive Uncertainty Calibration and Conformalization](https://proceedings.mlr.press/v204/mendil23a/mendil23a.pdf) [slides](https://cml.rhul.ac.uk/copa2023/presentations/COPA_2023_mouhcine_mendil_puncc.pdf) [code](https://github.com/deel-ai/puncc) ⭐ 416 | 🐛 6 | 🌐 Python | 📅 2026-11-12
 2. [Conformalized Quantile Regression](https://arxiv.org/abs/1905.03222) by Yaniv Romano, Evan Patterson, Emmanuel J. Candès (Stanford, 2019) [code](https://github.com/yromano/cqr) ⭐ 324 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2026-10-27 [project](https://sites.google.com/view/cqr) 🔥
 3. [Prediction-Powered Inference](https://arxiv.org/pdf/2301.09633.pdf) by Anastasios N. Angelopoulos, Stephen Bates, Clara Fannjiang, Michael I. Jordan, Tijana Zrnic (Universify of Berkeley, 2022) [code](https://github.com/aangelopoulos/ppi_py) ⭐ 307 | 🐛 7 | 🌐 Python | 📅 2026-04-10
 4. [Conformal PID Control for Time Series Prediction](https://arxiv.org/abs/2307.16895) by Anastasios N. Angelopoulos, Emmanuel J. Candes, Ryan J. Tibshirani (Berkeley/Stanford, NeurIPS2023) [code](https://github.com/aangelopoulos/conformal-time-series) ⭐ 150 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2023-11-30
@@ -1546,4 +1546,4 @@ Use [CITATION.cff](docs/CITATION.cff) or the [Zenodo record](https://doi.org/10.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._

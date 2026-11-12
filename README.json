@@ -106,7 +106,7 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-11-10T16:43:55Z",
-            "open_issues": 81,
+            "open_issues": 84,
             "owner": "online-ml",
             "repo": "river",
             "stars": 6146,
@@ -209,7 +209,7 @@
             "id": 515914540,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-11-10T16:10:30Z",
+            "last_commit": "2026-11-12T13:15:24Z",
             "open_issues": 6,
             "owner": "deel-ai",
             "repo": "puncc",
@@ -2354,7 +2354,7 @@
             "id": 515914540,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-11-10T16:10:30Z",
+            "last_commit": "2026-11-12T13:15:24Z",
             "open_issues": 6,
             "owner": "deel-ai",
             "repo": "puncc",
@@ -5218,7 +5218,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T23:27:19.073Z",
+    "last_updated": "2026-11-12T22:43:03.982Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professionally curated list of awesome Conformal Prediction videos, tutorials, books, papers, PhD and MSc theses, articles and open-source libraries.",
