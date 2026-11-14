@@ -109,7 +109,7 @@
             "open_issues": 82,
             "owner": "online-ml",
             "repo": "river",
-            "stars": 6148,
+            "stars": 6147,
             "topics": [
               "concept-drift",
               "data-science",
@@ -143,7 +143,7 @@
             "open_issues": 44,
             "owner": "numenta",
             "repo": "NAB",
-            "stars": 2116,
+            "stars": 2117,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
@@ -2648,27 +2648,6 @@
         },
         {
           "node_type": "item",
-          "title": "Rapid Traversal of Ultralarge Chemical Space using Machine Learning Guided Docking Screens",
-          "description": "by Andreas Luttens, Israel Cabeza de Vaca, Leonard Sparring, Ulf Norinder, Jens Carlsson (2023) Code Datasets",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Machine learning accelerated docking screens",
-            "homepage": null,
-            "id": 639127995,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2025-01-20T09:05:54Z",
-            "open_issues": 3,
-            "owner": "Carlssonlab",
-            "repo": "conformalpredictor",
-            "stars": 71,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T00:58:03.411Z"
-        },
-        {
-          "node_type": "item",
           "title": "Federated Conformal Predictors for Distributed Uncertainty Quantification",
           "description": "by Charles Lu, Yaodong Yu, Sai Praneeth Karimireddy, Michael I. Jordan, Ramesh Raskar (MIT/Berkeley, 2023) code video",
           "children": [],
@@ -2683,6 +2662,27 @@
             "open_issues": 2,
             "owner": "bhaweshiitk",
             "repo": "ConformalLLM",
+            "stars": 69,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Rapid Traversal of Ultralarge Chemical Space using Machine Learning Guided Docking Screens",
+          "description": "by Andreas Luttens, Israel Cabeza de Vaca, Leonard Sparring, Ulf Norinder, Jens Carlsson (2023) Code Datasets",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Machine learning accelerated docking screens",
+            "homepage": null,
+            "id": 639127995,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2025-01-20T09:05:54Z",
+            "open_issues": 3,
+            "owner": "Carlssonlab",
+            "repo": "conformalpredictor",
             "stars": 69,
             "topics": []
           },
@@ -5218,7 +5218,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T22:34:53.672Z",
+    "last_updated": "2026-11-14T21:27:25.122Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professionally curated list of awesome Conformal Prediction videos, tutorials, books, papers, PhD and MSc theses, articles and open-source libraries.",
