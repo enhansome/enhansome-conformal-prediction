@@ -106,10 +106,10 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-11-17T10:22:46Z",
-            "open_issues": 86,
+            "open_issues": 87,
             "owner": "online-ml",
             "repo": "river",
-            "stars": 6148,
+            "stars": 6150,
             "topics": [
               "concept-drift",
               "data-science",
@@ -143,7 +143,7 @@
             "open_issues": 44,
             "owner": "numenta",
             "repo": "NAB",
-            "stars": 2118,
+            "stars": 2117,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
@@ -164,7 +164,7 @@
             "open_issues": 12,
             "owner": "ml-stat-Sustech",
             "repo": "TorchCP",
-            "stars": 484,
+            "stars": 482,
             "topics": [
               "classification",
               "conformal-prediction",
@@ -192,7 +192,7 @@
             "open_issues": 20,
             "owner": "donlnz",
             "repo": "nonconformist",
-            "stars": 480,
+            "stars": 479,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
@@ -209,11 +209,11 @@
             "id": 515914540,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-11-18T09:51:27Z",
+            "last_commit": "2026-11-19T15:47:39Z",
             "open_issues": 6,
             "owner": "deel-ai",
             "repo": "puncc",
-            "stars": 415,
+            "stars": 414,
             "topics": [
               "conformal-inference",
               "conformal-prediction",
@@ -240,7 +240,7 @@
             "open_issues": 2,
             "owner": "mikekeith52",
             "repo": "scalecast",
-            "stars": 355,
+            "stars": 354,
             "topics": [
               "auto-ml",
               "data-science",
@@ -2354,11 +2354,11 @@
             "id": 515914540,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-11-18T09:51:27Z",
+            "last_commit": "2026-11-19T15:47:39Z",
             "open_issues": 6,
             "owner": "deel-ai",
             "repo": "puncc",
-            "stars": 415,
+            "stars": 414,
             "topics": [
               "conformal-inference",
               "conformal-prediction",
@@ -5218,7 +5218,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T23:22:26.717Z",
+    "last_updated": "2026-11-19T23:33:43.995Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professionally curated list of awesome Conformal Prediction videos, tutorials, books, papers, PhD and MSc theses, articles and open-source libraries.",
