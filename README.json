@@ -109,7 +109,7 @@
             "open_issues": 87,
             "owner": "online-ml",
             "repo": "river",
-            "stars": 6150,
+            "stars": 6152,
             "topics": [
               "concept-drift",
               "data-science",
@@ -594,24 +594,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Conformal Anomaly Detection & Change-Point Detection",
+            "description": "A Python library for anomaly detection with statistical guarantees. Wraps any PyOD or scikit-learn detector, controls false alarms (FDR/FPR), and monitors streams for change points.",
             "homepage": "https://oliverhennhoefer.github.io/nonconform/",
             "id": 780814119,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-15T18:01:42Z",
+            "last_commit": "2026-11-20T18:37:07Z",
             "open_issues": 0,
             "owner": "OliverHennhoefer",
             "repo": "nonconform",
-            "stars": 59,
+            "stars": 58,
             "topics": [
               "anomaly-detection",
               "change-point-detection",
               "conformal-anomaly-detection",
-              "exchangeability",
+              "conformal-prediction",
+              "drift-detection",
               "false-discovery-rate",
-              "martingale",
+              "novelty-detection",
               "outlier-detection",
+              "p-values",
+              "python",
+              "scikit-learn",
+              "statistics",
               "uncertainty-quantification"
             ]
           },
@@ -950,8 +955,8 @@
             "id": 1262314505,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-15T16:55:49Z",
-            "open_issues": 3,
+            "last_commit": "2026-11-20T22:47:41Z",
+            "open_issues": 2,
             "owner": "valeman",
             "repo": "csp-forecaster",
             "stars": 7,
@@ -1533,7 +1538,7 @@
             "open_issues": 1,
             "owner": "aangelopoulos",
             "repo": "conformal-time-series",
-            "stars": 150,
+            "stars": 151,
             "topics": [
               "conformal",
               "conformal-prediction",
@@ -1890,7 +1895,7 @@
             "open_issues": 0,
             "owner": "xqnwang",
             "repo": "cpts",
-            "stars": 11,
+            "stars": 12,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
@@ -2012,8 +2017,8 @@
             "id": 1262314505,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-15T16:55:49Z",
-            "open_issues": 3,
+            "last_commit": "2026-11-20T22:47:41Z",
+            "open_issues": 2,
             "owner": "valeman",
             "repo": "csp-forecaster",
             "stars": 7,
@@ -2418,7 +2423,7 @@
             "open_issues": 7,
             "owner": "aangelopoulos",
             "repo": "ppi_py",
-            "stars": 309,
+            "stars": 310,
             "topics": [
               "confidence-interval",
               "confidence-intervals",
@@ -2449,7 +2454,7 @@
             "open_issues": 1,
             "owner": "aangelopoulos",
             "repo": "conformal-time-series",
-            "stars": 150,
+            "stars": 151,
             "topics": [
               "conformal",
               "conformal-prediction",
@@ -3621,7 +3626,7 @@
             "open_issues": 0,
             "owner": "xqnwang",
             "repo": "cpts",
-            "stars": 11,
+            "stars": 12,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
@@ -5218,7 +5223,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T23:33:43.995Z",
+    "last_updated": "2026-11-20T23:04:19.243Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professionally curated list of awesome Conformal Prediction videos, tutorials, books, papers, PhD and MSc theses, articles and open-source libraries.",
@@ -5230,7 +5235,7 @@
       "open_issues": 6,
       "owner": "valeman",
       "repo": "awesome-conformal-prediction",
-      "stars": 1345,
+      "stars": 1346,
       "topics": [
         "ai",
         "awesome",
