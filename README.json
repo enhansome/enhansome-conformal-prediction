@@ -109,7 +109,7 @@
             "open_issues": 87,
             "owner": "online-ml",
             "repo": "river",
-            "stars": 6152,
+            "stars": 6151,
             "topics": [
               "concept-drift",
               "data-science",
@@ -955,7 +955,7 @@
             "id": 1262314505,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-20T22:47:41Z",
+            "last_commit": "2026-11-21T13:13:10Z",
             "open_issues": 2,
             "owner": "valeman",
             "repo": "csp-forecaster",
@@ -2017,7 +2017,7 @@
             "id": 1262314505,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-20T22:47:41Z",
+            "last_commit": "2026-11-21T13:13:10Z",
             "open_issues": 2,
             "owner": "valeman",
             "repo": "csp-forecaster",
@@ -5223,7 +5223,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T23:04:19.243Z",
+    "last_updated": "2026-11-21T22:10:06.943Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professionally curated list of awesome Conformal Prediction videos, tutorials, books, papers, PhD and MSc theses, articles and open-source libraries.",
@@ -5231,11 +5231,11 @@
       "id": 436989758,
       "language": null,
       "license": null,
-      "last_commit": "2026-11-05T19:39:55Z",
+      "last_commit": "2026-11-21T15:55:14Z",
       "open_issues": 6,
       "owner": "valeman",
       "repo": "awesome-conformal-prediction",
-      "stars": 1346,
+      "stars": 1347,
       "topics": [
         "ai",
         "awesome",
@@ -5258,7 +5258,7 @@
         "uncertainty-quantification"
       ]
     },
-    "original_repository_sha": "d59935be5e63ab691708659a224634c49e4eebd7",
+    "original_repository_sha": "d72bc3f9dda517a66579e7ab6086587712793858",
     "enhanced_repository": "enhansome/enhansome-conformal-prediction",
     "enhanced_repository_description": null,
     "title": "Awesome Conformal Prediction with stars"
