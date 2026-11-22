@@ -105,11 +105,11 @@
             "id": 167388434,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-17T10:22:46Z",
+            "last_commit": "2026-11-22T19:48:42Z",
             "open_issues": 87,
             "owner": "online-ml",
             "repo": "river",
-            "stars": 6151,
+            "stars": 6152,
             "topics": [
               "concept-drift",
               "data-science",
@@ -280,7 +280,7 @@
             "open_issues": 4,
             "owner": "yromano",
             "repo": "cqr",
-            "stars": 324,
+            "stars": 325,
             "topics": [
               "algorithmic-fairness",
               "conformal-methods",
@@ -955,7 +955,7 @@
             "id": 1262314505,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-21T13:13:10Z",
+            "last_commit": "2026-11-22T17:15:33Z",
             "open_issues": 2,
             "owner": "valeman",
             "repo": "csp-forecaster",
@@ -2017,7 +2017,7 @@
             "id": 1262314505,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-21T13:13:10Z",
+            "last_commit": "2026-11-22T17:15:33Z",
             "open_issues": 2,
             "owner": "valeman",
             "repo": "csp-forecaster",
@@ -2390,7 +2390,7 @@
             "open_issues": 4,
             "owner": "yromano",
             "repo": "cqr",
-            "stars": 324,
+            "stars": 325,
             "topics": [
               "algorithmic-fairness",
               "conformal-methods",
@@ -5223,7 +5223,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T22:10:06.943Z",
+    "last_updated": "2026-11-22T22:27:43.432Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professionally curated list of awesome Conformal Prediction videos, tutorials, books, papers, PhD and MSc theses, articles and open-source libraries.",
@@ -5235,7 +5235,7 @@
       "open_issues": 6,
       "owner": "valeman",
       "repo": "awesome-conformal-prediction",
-      "stars": 1347,
+      "stars": 1346,
       "topics": [
         "ai",
         "awesome",
