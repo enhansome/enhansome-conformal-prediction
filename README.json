@@ -109,7 +109,7 @@
             "open_issues": 87,
             "owner": "online-ml",
             "repo": "river",
-            "stars": 6153,
+            "stars": 6156,
             "topics": [
               "concept-drift",
               "data-science",
@@ -1908,27 +1908,6 @@
         },
         {
           "node_type": "item",
-          "title": "Feature Fitted Online Conformal Prediction for Deep Time Series Forecasting Model",
-          "description": "by Xiannan Huang, Shuhan Qiu (Tongji University, 2025) code",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 919310944,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2026-01-16T06:40:51Z",
-            "open_issues": 1,
-            "owner": "xiannanhuang",
-            "repo": "FFDCI",
-            "stars": 10,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T00:58:03.411Z"
-        },
-        {
-          "node_type": "item",
           "title": "Conformal Prediction for Hierarchical Data",
           "description": "by Guillaume Principato, Gilles Stoltz, Yvenn Amara-Ouali, Yannig Goude, Bachir Hamrouche, Jean-Michel Poggi (Université Paris-Saclay, EDF R&D, Inria, Laboratoire de mathématiques d’Orsay, France, 2025) code 🕒",
           "children": [],
@@ -1943,7 +1922,7 @@
             "open_issues": 0,
             "owner": "PrincipatoG",
             "repo": "Conformal-Prediction-for-Hierarchical-Data",
-            "stars": 10,
+            "stars": 11,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
@@ -1964,6 +1943,27 @@
             "open_issues": 0,
             "owner": "PrincipatoG",
             "repo": "Conformal-Prediction-for-Hierarchical-Data",
+            "stars": 11,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Feature Fitted Online Conformal Prediction for Deep Time Series Forecasting Model",
+          "description": "by Xiannan Huang, Shuhan Qiu (Tongji University, 2025) code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 919310944,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2026-01-16T06:40:51Z",
+            "open_issues": 1,
+            "owner": "xiannanhuang",
+            "repo": "FFDCI",
             "stars": 10,
             "topics": []
           },
@@ -2592,7 +2592,7 @@
             "open_issues": 0,
             "owner": "snap-stanford",
             "repo": "conformalized-gnn",
-            "stars": 88,
+            "stars": 89,
             "topics": [
               "calibration",
               "conformal-prediction",
@@ -3479,6 +3479,27 @@
         },
         {
           "node_type": "item",
+          "title": "CONFORMAL PREDICTION FOR DEEP CLASSIFIER VIA LABEL RANKING",
+          "description": "by Jianguo Huang, Huajun Xi, Linjun Zhang, Huaxiu Yao, Yue Qiu, Hongxin Wei (Southern University of Science and Technology, ShanghaiTech University, Rutgers University, University of North Carolina at Chapel Hill, Chongqing University) code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "[ICML'24] Conformal Prediction for Deep Classifier via Label Ranking ",
+            "homepage": null,
+            "id": 704119343,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2024-06-14T09:40:18Z",
+            "open_issues": 1,
+            "owner": "ml-stat-Sustech",
+            "repo": "conformal_prediction_via_label_ranking",
+            "stars": 16,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
+        },
+        {
+          "node_type": "item",
           "title": "CODiT: Conformal Out-of-Distribution Detection in Time- Series Data",
           "description": "by Ramneet Kaur et.al., Unibersity of Pensylvania (2022). Code 🕒",
           "children": [],
@@ -3524,27 +3545,6 @@
               "uncertainty-quantification",
               "venn-abers"
             ]
-          },
-          "first_seen": "2026-08-29T00:58:03.411Z"
-        },
-        {
-          "node_type": "item",
-          "title": "CONFORMAL PREDICTION FOR DEEP CLASSIFIER VIA LABEL RANKING",
-          "description": "by Jianguo Huang, Huajun Xi, Linjun Zhang, Huaxiu Yao, Yue Qiu, Hongxin Wei (Southern University of Science and Technology, ShanghaiTech University, Rutgers University, University of North Carolina at Chapel Hill, Chongqing University) code",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "[ICML'24] Conformal Prediction for Deep Classifier via Label Ranking ",
-            "homepage": null,
-            "id": 704119343,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2024-06-14T09:40:18Z",
-            "open_issues": 1,
-            "owner": "ml-stat-Sustech",
-            "repo": "conformal_prediction_via_label_ranking",
-            "stars": 15,
-            "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
         },
@@ -3633,6 +3633,27 @@
             "owner": "xqnwang",
             "repo": "cpts",
             "stars": 12,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Conformal Prediction for Hierarchical Data",
+          "description": "by Guillaume Principato, Gilles Stoltz, Yvenn Amara-Ouali, Yannig Goude, Bachir Hamrouche, Jean-Michel Poggi (Université Paris-Saclay, EDF R&D, Inria, Laboratoire de mathématiques d’Orsay, France, 2025) code 🕒",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 986880467,
+            "language": "R",
+            "license": "MIT",
+            "last_commit": "2026-05-12T11:57:43Z",
+            "open_issues": 0,
+            "owner": "PrincipatoG",
+            "repo": "Conformal-Prediction-for-Hierarchical-Data",
+            "stars": 11,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
@@ -3728,27 +3749,6 @@
             "owner": "rizbicki",
             "repo": "predictionBands",
             "stars": 11,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T00:58:03.411Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Conformal Prediction for Hierarchical Data",
-          "description": "by Guillaume Principato, Gilles Stoltz, Yvenn Amara-Ouali, Yannig Goude, Bachir Hamrouche, Jean-Michel Poggi (Université Paris-Saclay, EDF R&D, Inria, Laboratoire de mathématiques d’Orsay, France, 2025) code 🕒",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 986880467,
-            "language": "R",
-            "license": "MIT",
-            "last_commit": "2026-05-12T11:57:43Z",
-            "open_issues": 0,
-            "owner": "PrincipatoG",
-            "repo": "Conformal-Prediction-for-Hierarchical-Data",
-            "stars": 10,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
@@ -4158,6 +4158,27 @@
         },
         {
           "node_type": "item",
+          "title": "Colorful Pinball: Density-Weighted Quantile Regression for Conditional Guarantee of Conformal Prediction",
+          "description": "by Qianyi Chen, Bo Li (Tsinghua University, China, 2026) code ICML 2026 proceedings",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "This repository contains the official implementation of the paper \"Colorful Pinball: Density-Weighted Quantile Regression for Conditional Guarantee of Conformal Prediction\".  Authors: Qianyi Chen, Bo Li (Tsinghua University)",
+            "homepage": null,
+            "id": 1127516797,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-01-09T11:38:22Z",
+            "open_issues": 0,
+            "owner": "Cqyiiii",
+            "repo": "Colorful-Pinball-Conformal-Prediction-CPCP",
+            "stars": 7,
+            "topics": []
+          },
+          "first_seen": "2026-11-05T22:40:03.033Z"
+        },
+        {
+          "node_type": "item",
           "title": "Split Localized Conformal Prediction",
           "description": "by Xing Han, Ziyang Tang, Joydeep Ghosh, Qiang Liu (University of Texas, 2022). Python Code",
           "children": [],
@@ -4260,27 +4281,6 @@
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:03.411Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Colorful Pinball: Density-Weighted Quantile Regression for Conditional Guarantee of Conformal Prediction",
-          "description": "by Qianyi Chen, Bo Li (Tsinghua University, China, 2026) code ICML 2026 proceedings",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "This repository contains the official implementation of the paper \"Colorful Pinball: Density-Weighted Quantile Regression for Conditional Guarantee of Conformal Prediction\".  Authors: Qianyi Chen, Bo Li (Tsinghua University)",
-            "homepage": null,
-            "id": 1127516797,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-01-09T11:38:22Z",
-            "open_issues": 0,
-            "owner": "Cqyiiii",
-            "repo": "Colorful-Pinball-Conformal-Prediction-CPCP",
-            "stars": 6,
-            "topics": []
-          },
-          "first_seen": "2026-11-05T22:40:03.033Z"
         },
         {
           "node_type": "item",
@@ -4515,6 +4515,27 @@
         },
         {
           "node_type": "item",
+          "title": "Conformal prediction for frequency-severity modeling",
+          "description": "by Helton Graziadei, Paulo C. Marques F., Eduardo F. L. de Melo, Rodrigo S. Targino (Getulio Vargas Foundation, Insper Institute of Education and Research, SUSEP - Superintendence of Private Insurance, UERJ - State University of Rio de Janeiro, 2025) code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 836738114,
+            "language": "R",
+            "license": "MIT",
+            "last_commit": "2026-06-09T16:24:53Z",
+            "open_issues": 0,
+            "owner": "heltongraziadei",
+            "repo": "conformal-fs",
+            "stars": 4,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
+        },
+        {
+          "node_type": "item",
           "title": "Optimizing Probabilistic Conformal Prediction with Vectorized Non-Conformity Scores",
           "description": "by Minxing Zheng, Shixiang Zhu (University of Southern California, Carnegie Mellon University, 2024) code",
           "children": [],
@@ -4592,27 +4613,6 @@
             "open_issues": 0,
             "owner": "ekimetrics",
             "repo": "ts-genai-conformal",
-            "stars": 3,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T00:58:03.411Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Conformal prediction for frequency-severity modeling",
-          "description": "by Helton Graziadei, Paulo C. Marques F., Eduardo F. L. de Melo, Rodrigo S. Targino (Getulio Vargas Foundation, Insper Institute of Education and Research, SUSEP - Superintendence of Private Insurance, UERJ - State University of Rio de Janeiro, 2025) code",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 836738114,
-            "language": "R",
-            "license": "MIT",
-            "last_commit": "2026-06-09T16:24:53Z",
-            "open_issues": 0,
-            "owner": "heltongraziadei",
-            "repo": "conformal-fs",
             "stars": 3,
             "topics": []
           },
@@ -4775,6 +4775,27 @@
         },
         {
           "node_type": "item",
+          "title": "Residual Distribution Predictive Systems",
+          "description": "by Sam Allen, Enrico Pescara, Johanna Ziegel (KIT, ETH, 2025) code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "code to reproduce results in paper Residual Distribution Predictive Systems",
+            "homepage": null,
+            "id": 1085755959,
+            "language": "R",
+            "license": null,
+            "last_commit": "2026-06-22T10:51:25Z",
+            "open_issues": 0,
+            "owner": "sallen12",
+            "repo": "RDPS_rep",
+            "stars": 2,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T00:58:03.411Z"
+        },
+        {
+          "node_type": "item",
           "title": "Conformalized Semi-supervised Random Forest for Classification and Abnormality Detection",
           "description": "by Yujin Han, Mingwenchan Xu, Leying Guan (Universtity of Hong Kong, Northwestern University, Yale University, 2024) code",
           "children": [],
@@ -4873,27 +4894,6 @@
             "open_issues": 0,
             "owner": "MachineLearningBCAM",
             "repo": "Unsupervised-conformal-prediction-NeurIPS2025",
-            "stars": 1,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T00:58:03.411Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Residual Distribution Predictive Systems",
-          "description": "by Sam Allen, Enrico Pescara, Johanna Ziegel (KIT, ETH, 2025) code",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "code to reproduce results in paper Residual Distribution Predictive Systems",
-            "homepage": null,
-            "id": 1085755959,
-            "language": "R",
-            "license": null,
-            "last_commit": "2026-06-22T10:51:25Z",
-            "open_issues": 0,
-            "owner": "sallen12",
-            "repo": "RDPS_rep",
             "stars": 1,
             "topics": []
           },
@@ -5229,7 +5229,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T03:19:28.850Z",
+    "last_updated": "2026-11-25T01:24:48.349Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professionally curated list of awesome Conformal Prediction videos, tutorials, books, papers, PhD and MSc theses, articles and open-source libraries.",
