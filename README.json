@@ -106,10 +106,10 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-11-22T19:48:42Z",
-            "open_issues": 87,
+            "open_issues": 88,
             "owner": "online-ml",
             "repo": "river",
-            "stars": 6156,
+            "stars": 6157,
             "topics": [
               "concept-drift",
               "data-science",
@@ -525,8 +525,8 @@
             "id": 634794673,
             "language": "Jupyter Notebook",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-23T20:55:53Z",
-            "open_issues": 6,
+            "last_commit": "2026-11-25T20:31:54Z",
+            "open_issues": 8,
             "owner": "Moffran",
             "repo": "calibrated_explanations",
             "stars": 79,
@@ -2255,7 +2255,7 @@
             "open_issues": 0,
             "owner": "dobriban",
             "repo": "Topics-In-Modern-Statistical-Learning",
-            "stars": 180,
+            "stars": 181,
             "topics": [
               "calibration",
               "conformal-prediction",
@@ -2616,8 +2616,8 @@
             "id": 634794673,
             "language": "Jupyter Notebook",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-23T20:55:53Z",
-            "open_issues": 6,
+            "last_commit": "2026-11-25T20:31:54Z",
+            "open_issues": 8,
             "owner": "Moffran",
             "repo": "calibrated_explanations",
             "stars": 79,
@@ -5229,7 +5229,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T01:24:48.349Z",
+    "last_updated": "2026-11-26T00:58:59.171Z",
     "original_repository_info": {
       "archived": false,
       "description": "A professionally curated list of awesome Conformal Prediction videos, tutorials, books, papers, PhD and MSc theses, articles and open-source libraries.",
